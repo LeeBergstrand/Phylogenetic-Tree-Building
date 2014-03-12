@@ -1,4 +1,0 @@
-#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
-# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
-#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
-CAVJ010000087.1      -          bacteria16S_508_mod5 -                  0 1539.7  23.6         0 1539.3  16.4   1.0   1   0   0   1   1   1   1 Rhodococcus opacus EsD8 WGS project CAVJ000000000 data, contig 87, whole genome shotgun sequence.

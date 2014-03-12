@@ -1,4 +1,0 @@
-#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
-# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
-#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
-AJYC02000171.1       -          bacteria16S_508_mod5 -            7.6e-82  270.9   0.1   8.6e-82  270.8   0.0   1.0   1   0   0   1   1   1   1 Rhodococcus opacus M213 contig_171, whole genome shotgun sequence.

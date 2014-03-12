@@ -1,4 +1,0 @@
-#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
-# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
-#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
-AJVB01000676.1       -          bacteria16S_508_mod5 -                  0 1540.5  24.5         0 1540.2  17.0   1.0   1   0   0   1   1   1   1 Rhodococcus sp. R1101 Cont0676, whole genome shotgun sequence.

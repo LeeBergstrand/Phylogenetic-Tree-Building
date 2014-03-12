@@ -1,4 +1,0 @@
-#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
-# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
-#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
-AJFC01000420.1       -          bacteria16S_508_mod5 -                  0 1096.6  11.2         0 1096.4   7.8   1.0   1   0   0   1   1   1   1 Rhodococcus sp. P14 P14-421, whole genome shotgun sequence.

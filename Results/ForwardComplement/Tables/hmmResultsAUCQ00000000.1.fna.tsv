@@ -1,4 +1,0 @@
-#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
-# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
-#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
-AUCQ01000063.1       -          bacteria16S_508_mod5 -                  0 1147.1   8.5         0 1146.9   5.9   1.0   1   0   0   1   1   1   1 Comamonas composti DSM 21721 G486DRAFT_scaffold00054.54_C, whole genome shotgun sequence.

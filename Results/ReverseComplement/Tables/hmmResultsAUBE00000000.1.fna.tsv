@@ -1,4 +1,0 @@
-#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
-# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
-#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
-AUBE01000050.1       -          bacteria16S_508_mod5 -                  0 1156.8  18.7         0 1156.5  12.9   1.0   1   0   0   1   1   1   1 Streptomyces flavidovirens DSM 40150 G412DRAFT_scaffold00048.48_C, whole genome shotgun sequence.

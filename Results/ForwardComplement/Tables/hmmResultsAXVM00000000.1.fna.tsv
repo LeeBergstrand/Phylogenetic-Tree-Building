@@ -1,4 +1,0 @@
-#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
-# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
-#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
-AXVM01000023.1       -          bacteria16S_508_mod5 -                  0 1536.5  20.6         0 1536.2  14.3   1.0   1   0   0   1   1   1   1 Comamonas badia DSM 17552 K320DRAFT_scaffold00023.23_C, whole genome shotgun sequence.

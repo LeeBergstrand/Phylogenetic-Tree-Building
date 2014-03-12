@@ -1,5 +1,0 @@
-#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
-# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
-#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
-ACHQ01000077.1       -          bacteria16S_508_mod5 -            1.6e-30   99.2   0.1     3e-30   98.3   0.1   1.5   1   0   0   1   1   1   1 Mycobacterium africanum K85 cont1.77, whole genome shotgun sequence.
-ACHQ01000075.1       -          bacteria16S_508_mod5 -            3.2e-21   68.3   0.0   4.1e-21   68.0   0.0   1.1   1   0   0   1   1   1   1 Mycobacterium africanum K85 cont1.75, whole genome shotgun sequence.

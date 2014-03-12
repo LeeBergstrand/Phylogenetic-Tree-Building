@@ -1,4 +1,0 @@
-#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
-# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
-#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
-AGSZ01000327.1       -          bacteria16S_508_mod5 -                  0 1532.6  23.3         0 1532.1  16.1   1.1   1   0   0   1   1   1   1 Mycobacterium mageritense JR2009 342, whole genome shotgun sequence.
