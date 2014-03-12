@@ -1,0 +1,159 @@
+# STOCKHOLM 1.0
+
+#=GS BAGQ01000103.1/39129-40656 DE [subseq from] Mycobacterium intracellulare M.i.198 DNA, contig: CTG00020, whole genome shotgun sequence.
+
+BAGQ01000103.1/39129-40656         UUGGAGAGUUUGAUCCUGGCUCAGGACGAACGCUGGCGGCGUGCUUAACA
+#=GR BAGQ01000103.1/39129-40656 PP 689***********************************************
+#=GC PP_cons                       689***********************************************
+#=GC RF                            xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+BAGQ01000103.1/39129-40656         CAUGCAAGUCGAACGGAAAGGCCCCUUCGGGGGUACUCGAGUGGCGAACG
+#=GR BAGQ01000103.1/39129-40656 PP ***************99555555666666666777779************
+#=GC PP_cons                       ***************99555555666666666777779************
+#=GC RF                            xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+BAGQ01000103.1/39129-40656         GGUGAGUAACACGUGGGCAAUCUGCCCUGCACUUCGGGAUAAGCCUGGGA
+#=GR BAGQ01000103.1/39129-40656 PP **************************************************
+#=GC PP_cons                       **************************************************
+#=GC RF                            xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+BAGQ01000103.1/39129-40656         AACUGGGUCUAAUACCGGAUAGGaCCUUUAGGCGCAUGUCUUUAGGugGA
+#=GR BAGQ01000103.1/39129-40656 PP **********************9877788889999999887766655699
+#=GC PP_cons                       **********************9.7778888999999988776665..99
+#=GC RF                            xxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxx..xx
+
+BAGQ01000103.1/39129-40656         AAGCUUUUGCGGUGUGGGAUGGGCCCGCGGCCUAUCAGCUUGUUGGUGGG
+#=GR BAGQ01000103.1/39129-40656 PP 999879999*****************************************
+#=GC PP_cons                       999879999*****************************************
+#=GC RF                            xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+BAGQ01000103.1/39129-40656         GUGAUGGCCUACCAAGGCGACGACGGGUAGCCGGCCUGAGAGGGUGUCCG
+#=GR BAGQ01000103.1/39129-40656 PP **************************************************
+#=GC PP_cons                       **************************************************
+#=GC RF                            xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+BAGQ01000103.1/39129-40656         GCCACACUGGGACUGAGAUACGGCCCAGACUCCUACGGGAGGCAGCAGUG
+#=GR BAGQ01000103.1/39129-40656 PP **************************************************
+#=GC PP_cons                       **************************************************
+#=GC RF                            xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+BAGQ01000103.1/39129-40656         GGGAAUAUUGCACAAUGGGCGCAAGCCUGAUGCAGCGACGCCGCGUGGGG
+#=GR BAGQ01000103.1/39129-40656 PP **************************************************
+#=GC PP_cons                       **************************************************
+#=GC RF                            xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+BAGQ01000103.1/39129-40656         GAUGACGGCCUUCGGGUUGUAAACCUCUUUCACCAUCGACGAAGGUCCGG
+#=GR BAGQ01000103.1/39129-40656 PP ******************************************99988877
+#=GC PP_cons                       ******************************************99988877
+#=GC RF                            xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+BAGQ01000103.1/39129-40656         GUUUUCUCGGAUUGACGGUAGGUGGAGAAGAAGCACCGGCCAACUACGUG
+#=GR BAGQ01000103.1/39129-40656 PP 655445666889**************************************
+#=GC PP_cons                       655445666889**************************************
+#=GC RF                            xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+BAGQ01000103.1/39129-40656         CCAGCAGCCGCGGUAAUACGUAGGGUGCGAGCGUUGUCCGGAAUUACUGG
+#=GR BAGQ01000103.1/39129-40656 PP **************************************************
+#=GC PP_cons                       **************************************************
+#=GC RF                            xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+BAGQ01000103.1/39129-40656         GCGUAAAGAGCUCGUAGGUGGUUUGUCGCGUUGUUCGUGAAAUCUCACGG
+#=GR BAGQ01000103.1/39129-40656 PP **************************************************
+#=GC PP_cons                       **************************************************
+#=GC RF                            xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+BAGQ01000103.1/39129-40656         CUUAACUGUGAGCGUGCGGGCGAUACGGGCAGACUAGAGUACUGCAGGGG
+#=GR BAGQ01000103.1/39129-40656 PP **************************************************
+#=GC PP_cons                       **************************************************
+#=GC RF                            xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+BAGQ01000103.1/39129-40656         AGACUGGAAUUCCUGGUGUAGCGGUGGAAUGCGCAGAUAUCAGGAGGAAC
+#=GR BAGQ01000103.1/39129-40656 PP **************************************************
+#=GC PP_cons                       **************************************************
+#=GC RF                            xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+BAGQ01000103.1/39129-40656         ACCGGUGGCGAAGGCGGGUCUCUGGGCAGUAACUGACGCUGAGGAGCGAA
+#=GR BAGQ01000103.1/39129-40656 PP **************************************************
+#=GC PP_cons                       **************************************************
+#=GC RF                            xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+BAGQ01000103.1/39129-40656         AGCGUGGGGAGCGAACAGGAUUAGAUACCCUGGUAGUCCACGCCGUAAAC
+#=GR BAGQ01000103.1/39129-40656 PP **************************************************
+#=GC PP_cons                       **************************************************
+#=GC RF                            xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+BAGQ01000103.1/39129-40656         GGUGGGUACUAGGUGUGGGUUUCCUUCcUUGGGAUCCGUGCCGUAGCUAA
+#=GR BAGQ01000103.1/39129-40656 PP *****************9998876655145667899**************
+#=GC PP_cons                       *****************9998876655.45667899**************
+#=GC RF                            xxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxx
+
+BAGQ01000103.1/39129-40656         CGCAUUAAGUACCCCGCCUGGGGAGUACGGCCGCAAGGCUAAAACUCAAA
+#=GR BAGQ01000103.1/39129-40656 PP **************************************************
+#=GC PP_cons                       **************************************************
+#=GC RF                            xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+BAGQ01000103.1/39129-40656         GGAAUUGACGGGGGCCCGCACAAGCGGCGGAGCAUGUGGAUUAAUUCGAU
+#=GR BAGQ01000103.1/39129-40656 PP **************************************************
+#=GC PP_cons                       **************************************************
+#=GC RF                            xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+BAGQ01000103.1/39129-40656         GCAACGCGAAGAACCUUACCUGGGUUUGACAUGCACAGgACGCGUCUAGA
+#=GR BAGQ01000103.1/39129-40656 PP *********************************8877758889999****
+#=GC PP_cons                       *********************************88777.8889999****
+#=GC RF                            xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxx
+
+BAGQ01000103.1/39129-40656         GAUAGGCGUUCCCUUGUGGCCUGUGUGCAGGUGGUGCAUGGCUGUCGUCA
+#=GR BAGQ01000103.1/39129-40656 PP **9988766544443444345555578***********************
+#=GC PP_cons                       **9988766544443444345555578***********************
+#=GC RF                            xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+BAGQ01000103.1/39129-40656         GCUCGUGUCGUGAGAUGUUGGGUUAAGUCCCGCAACGAGCGCAACCCUUG
+#=GR BAGQ01000103.1/39129-40656 PP **************************************************
+#=GC PP_cons                       **************************************************
+#=GC RF                            xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+BAGQ01000103.1/39129-40656         UCUCAUGUUGCCAGCGgGUAAUGCCGGGGACUCGUGAGAGACUGCCGGGG
+#=GR BAGQ01000103.1/39129-40656 PP ****************9*********************************
+#=GC PP_cons                       ****************.*********************************
+#=GC RF                            xxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+BAGQ01000103.1/39129-40656         UCAACUCGGAGGAAGGUGGGGAUGACGUCAAGUCAUCAUGCCCCUUAUGU
+#=GR BAGQ01000103.1/39129-40656 PP **************************************************
+#=GC PP_cons                       **************************************************
+#=GC RF                            xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+BAGQ01000103.1/39129-40656         CCAGGGCUUCACACAUGCUACAAUGGCCGGUACAAAGGGCUGCGAUGCCG
+#=GR BAGQ01000103.1/39129-40656 PP **************************************************
+#=GC PP_cons                       **************************************************
+#=GC RF                            xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+BAGQ01000103.1/39129-40656         CAAGGUUAAGCGAAUCCUuUUAAAGCCGGUCUCAGUUCGGAUUGGGGUCU
+#=GR BAGQ01000103.1/39129-40656 PP ***************8652789****************************
+#=GC PP_cons                       ***************865.789****************************
+#=GC RF                            xxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+BAGQ01000103.1/39129-40656         GCAACUCGACCCCAUGAAGUCGGAGUCGCUAGUAAUCGCAGAUCAGCaAC
+#=GR BAGQ01000103.1/39129-40656 PP ***********************************************99*
+#=GC PP_cons                       ***********************************************.9*
+#=GC RF                            xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xx
+
+BAGQ01000103.1/39129-40656         GCUGCGGUGAAUACGUUCCCGGGCCUUGUACACACCGCCCGUCACGUCAU
+#=GR BAGQ01000103.1/39129-40656 PP **************************************************
+#=GC PP_cons                       **************************************************
+#=GC RF                            xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+BAGQ01000103.1/39129-40656         GAAAGUCGGUAACACCCGAAGCCAGUGGCCUAACCCUUGGGAGGGAGCUG
+#=GR BAGQ01000103.1/39129-40656 PP **************************************************
+#=GC PP_cons                       **************************************************
+#=GC RF                            xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+BAGQ01000103.1/39129-40656         UCGAAGGUGGGAUCGGCGAUUGGGACGAAGUCGUAACAAGGUAGCCGUAC
+#=GR BAGQ01000103.1/39129-40656 PP **************************************************
+#=GC PP_cons                       **************************************************
+#=GC RF                            xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+BAGQ01000103.1/39129-40656         CGGAAGGUGCGGCUGGAUCACCUCCUUU
+#=GR BAGQ01000103.1/39129-40656 PP *************************985
+#=GC PP_cons                       *************************985
+#=GC RF                            xxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

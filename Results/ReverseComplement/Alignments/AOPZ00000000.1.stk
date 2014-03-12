@@ -1,0 +1,159 @@
+# STOCKHOLM 1.0
+
+#=GS AOPZ01000103.1/232-1753 DE [subseq from] Streptomyces aurantiacus JA 4570 Seq103, whole genome shotgun sequence.
+
+AOPZ01000103.1/232-1753         CGGAGAGUUUGAUCCUGGCUCAGGACGAACGCUGGCGGCGUGCUUAACAC
+#=GR AOPZ01000103.1/232-1753 PP 689***********************************************
+#=GC PP_cons                    689***********************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AOPZ01000103.1/232-1753         AUGCAAGUCGAACGAUGAAGCCCUUCGGGGUGGAUUAGUGGCGAACGGGU
+#=GR AOPZ01000103.1/232-1753 PP **************6544555555555566667799**************
+#=GC PP_cons                    **************6544555555555566667799**************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AOPZ01000103.1/232-1753         GAGUAACACGUGGGCAAUCUGCCCUGCACUCUGGGACAAGCCCUGGAAAC
+#=GR AOPZ01000103.1/232-1753 PP **************************************************
+#=GC PP_cons                    **************************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AOPZ01000103.1/232-1753         GGGGUCUAAUACCGGAUACAaCCACCGGCCGCAUGGUCUGGUGgugGAAA
+#=GR AOPZ01000103.1/232-1753 PP ******************99777778899999999887655444569999
+#=GC PP_cons                    ******************99.7777889999999988765544...9999
+#=GC RF                         xxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxx...xxxx
+
+AOPZ01000103.1/232-1753         GCUCCGGCGGUGCAGGAUGAGCCCGCGGCCUAUCAGCUUGUUGGUGAGGU
+#=GR AOPZ01000103.1/232-1753 PP 9888899*******************************************
+#=GC PP_cons                    9888899*******************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AOPZ01000103.1/232-1753         AGAAGCUCACCAAGGCGACGACGGGUAGCCGGCCUGAGAGGGCGACCGGC
+#=GR AOPZ01000103.1/232-1753 PP **************************************************
+#=GC PP_cons                    **************************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AOPZ01000103.1/232-1753         CACACUGGGACUGAGACACGGCCCAGACUCCUACGGGAGGCAGCAGUGGG
+#=GR AOPZ01000103.1/232-1753 PP **************************************************
+#=GC PP_cons                    **************************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AOPZ01000103.1/232-1753         GAAUAUUGCACAAUGGGCGAAAGCCUGAUGCAGCGACGCCGCGUGAGGGA
+#=GR AOPZ01000103.1/232-1753 PP **************************************************
+#=GC PP_cons                    **************************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AOPZ01000103.1/232-1753         UGACGGCCUUCGGGUUGUAAACCUCUUUCAGCAGGGAAGAAGCGAAAGUG
+#=GR AOPZ01000103.1/232-1753 PP ****************************************98776667**
+#=GC PP_cons                    ****************************************98776667**
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AOPZ01000103.1/232-1753         ACGGUACCUGCAGAAGAAGCGCCGGCUAACUACGUGCCAGCAGCCGCGGU
+#=GR AOPZ01000103.1/232-1753 PP **************************************************
+#=GC PP_cons                    **************************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AOPZ01000103.1/232-1753         AAUACGUAGGGCGCAAGCGUUGUCCGGAAUUAUUGGGCGUAAAGAGCUCG
+#=GR AOPZ01000103.1/232-1753 PP **************************************************
+#=GC PP_cons                    **************************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AOPZ01000103.1/232-1753         UAGGCGGCUUGUCACGUCGGUUGUGAAAGCCCGGGGCUUAACCCCGGGUC
+#=GR AOPZ01000103.1/232-1753 PP **************************************************
+#=GC PP_cons                    **************************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AOPZ01000103.1/232-1753         UGCAGUCGAUACGGGCAGGCUAGAGUUCGGUAGGGGAGAUCGGAAUUCCU
+#=GR AOPZ01000103.1/232-1753 PP **************************************************
+#=GC PP_cons                    **************************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AOPZ01000103.1/232-1753         GGUGUAGCGGUGAAAUGCGCAGAUAUCAGGAGGAACACCGGUGGCGAAGG
+#=GR AOPZ01000103.1/232-1753 PP **************************************************
+#=GC PP_cons                    **************************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AOPZ01000103.1/232-1753         CGGAUCUCUGGGCCGAUACUGACGCUGAGGAGCGAAAGCGUGGGGAGCGA
+#=GR AOPZ01000103.1/232-1753 PP **************************************************
+#=GC PP_cons                    **************************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AOPZ01000103.1/232-1753         ACAGGAUUAGAUACCCUGGUAGUCCACGCCGUAAACGGUGGGCACUAGGU
+#=GR AOPZ01000103.1/232-1753 PP **************************************************
+#=GC PP_cons                    **************************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AOPZ01000103.1/232-1753         GUGGGCAACAUuCCACGUUGUCCGUGCCGCAGCUAACGCAUUAAGUGCCC
+#=GR AOPZ01000103.1/232-1753 PP ***999887550566778899*****************************
+#=GC PP_cons                    ***99988755.566778899*****************************
+#=GC RF                         xxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AOPZ01000103.1/232-1753         CGCCUGGGGAGUACGGCCGCAAGGCUAAAACUCAAAGGAAUUGACGGGGG
+#=GR AOPZ01000103.1/232-1753 PP **************************************************
+#=GC PP_cons                    **************************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AOPZ01000103.1/232-1753         CCCGCACAAGCGGCGGAGCAUGUGGCUUAAUUCGACGCAACGCGAAGAAC
+#=GR AOPZ01000103.1/232-1753 PP **************************************************
+#=GC PP_cons                    **************************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AOPZ01000103.1/232-1753         CUUACCAAGGCUUGACAUACACCGgAAAGCAUCAGAGAUGGUGCCCCCCU
+#=GR AOPZ01000103.1/232-1753 PP ******************977666599999********998887665444
+#=GC PP_cons                    ******************977666.99999********998887665444
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxx
+
+AOPZ01000103.1/232-1753         UGUGGUCGGUGUACAGGUGGUGCAUGGCUGUCGUCAGCUCGUGUCGUGAG
+#=GR AOPZ01000103.1/232-1753 PP 444334455569**************************************
+#=GC PP_cons                    444334455569**************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AOPZ01000103.1/232-1753         AUGUUGGGUUAAGUCCCGCAACGAGCGCAACCCUUGUCCCGUGUUGCCAG
+#=GR AOPZ01000103.1/232-1753 PP **************************************************
+#=GC PP_cons                    **************************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AOPZ01000103.1/232-1753         CAGgcccuugUGGUGCUGGGGACUCACGGGAGACCGCCGGGGUCAACUCG
+#=GR AOPZ01000103.1/232-1753 PP 985344433345667899********************************
+#=GC PP_cons                    985.......45667899********************************
+#=GC RF                         xxx.......xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AOPZ01000103.1/232-1753         GAGGAAGGUGGGGACGACGUCAAGUCAUCAUGCCCCUUAUGUCUUGGGCU
+#=GR AOPZ01000103.1/232-1753 PP **************************************************
+#=GC PP_cons                    **************************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AOPZ01000103.1/232-1753         GCACACGUGCUACAAUGGCCGGUACAAUGAGCUGCGAUACCGCGAGGUGG
+#=GR AOPZ01000103.1/232-1753 PP **************************************************
+#=GC PP_cons                    **************************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AOPZ01000103.1/232-1753         AGCGAAUCUCAAAAAGCCGGUCUCAGUUCGGAUUGGGGUCUGCAACUCGA
+#=GR AOPZ01000103.1/232-1753 PP **************************************************
+#=GC PP_cons                    **************************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AOPZ01000103.1/232-1753         CCCCAUGAAGUCGGAGUCGCUAGUAAUCGCAGAUCAGCaUUGCUGCGGUG
+#=GR AOPZ01000103.1/232-1753 PP **************************************557*********
+#=GC PP_cons                    **************************************.57*********
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxx
+
+AOPZ01000103.1/232-1753         AAUACGUUCCCGGGCCUUGUACACACCGCCCGUCACGUCACGAAAGUCGG
+#=GR AOPZ01000103.1/232-1753 PP **************************************************
+#=GC PP_cons                    **************************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AOPZ01000103.1/232-1753         UAACACCCGAAGCCGGUGGCCCAACCccuUGUGGGAGGGAGCUGUCGAAG
+#=GR AOPZ01000103.1/232-1753 PP *************************977777899****************
+#=GC PP_cons                    *************************9...77899****************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxx
+
+AOPZ01000103.1/232-1753         GUGGGACUGGCGAUUGGGACGAAGUCGUAACAAGGUAGCCGUACCGGAAG
+#=GR AOPZ01000103.1/232-1753 PP **************************************************
+#=GC PP_cons                    **************************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AOPZ01000103.1/232-1753         GUGCGGCUGGAUCACCUCCUUU
+#=GR AOPZ01000103.1/232-1753 PP *******************985
+#=GC PP_cons                    *******************985
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxx
+//

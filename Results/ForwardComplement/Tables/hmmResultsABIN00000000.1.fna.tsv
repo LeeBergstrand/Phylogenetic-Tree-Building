@@ -1,0 +1,4 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+ABIN01000139.1       -          bacteria16S_508_mod5 -                  0 1526.6  21.4         0 1525.7  14.8   1.4   1   0   0   1   1   1   1 Mycobacterium intracellulare ATCC 13950 contig00146, whole genome shotgun sequence.

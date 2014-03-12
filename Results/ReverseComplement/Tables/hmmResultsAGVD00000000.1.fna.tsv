@@ -1,0 +1,4 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+AGVD01000134.1       -          bacteria16S_508_mod5 -                  0 1551.4  23.5         0 1551.2  16.3   1.0   1   0   0   1   1   1   1 Rhodococcus opacus PD630 cont5.13_2, whole genome shotgun sequence.

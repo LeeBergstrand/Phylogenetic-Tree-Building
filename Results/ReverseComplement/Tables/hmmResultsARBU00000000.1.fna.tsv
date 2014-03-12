@@ -1,0 +1,5 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+ARBU01000009.1       -          bacteria16S_508_mod5 -                  0 1523.2  25.8         0 1522.7  17.9   1.2   1   0   0   1   1   1   1 Mycobacterium hassiacum DSM 44199 A3G5DRAFT_scaffold_8.9_C, whole genome shotgun sequence.
+ARBU01000050.1       -          bacteria16S_508_mod5 -                  0 1525.8  25.8         0 1525.4  17.9   1.1   1   0   0   1   1   1   1 Mycobacterium hassiacum DSM 44199 A3G5DRAFT_scaffold_45.46_C, whole genome shotgun sequence.

@@ -1,0 +1,275 @@
+# hmmsearch :: search profile(s) against a sequence database
+# HMMER 3.0 (March 2010); http://hmmer.org/
+# Copyright (C) 2010 Howard Hughes Medical Institute.
+# Freely distributed under the GNU General Public License (GPLv3).
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query HMM file:                  SSU.hmm
+# target sequence database:        ../No16SGenomes/ForwardComplement/ACEY00000000.1.fna
+# output directed to file:         hmmHumanResultsACEY00000000.1.fna.txt
+# MSA of all hits saved to file:   hmmAlignACEY00000000.1.fna.stk
+# per-seq hits tabular output:     hmmResultsACEY00000000.1.fna.tsv
+# prefer accessions over names:    yes
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       bacteria16S_508_mod5  [M=1537]
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence       Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------       -----------
+   9.8e-115  379.4   2.6   1.3e-114  379.0   1.8    1.1  1  ACEY01000177.1 Streptomyces lividans TK24 cont1.177, whole g
+    2.2e-90  298.7   1.0    2.9e-90  298.3   0.7    1.1  1  ACEY01000273.1 Streptomyces lividans TK24 cont1.273, whole g
+    6.5e-84  277.3   0.3      9e-84  276.8   0.2    1.1  1  ACEY01000192.1 Streptomyces lividans TK24 cont1.192, whole g
+    6.9e-74  244.0   0.2      9e-74  243.6   0.1    1.1  1  ACEY01000253.1 Streptomyces lividans TK24 cont1.253, whole g
+    1.6e-44  146.7   0.1    2.4e-44  146.1   0.1    1.3  1  ACEY01000274.1 Streptomyces lividans TK24 cont1.274, whole g
+    1.3e-43  143.7   0.1      2e-43  143.1   0.1    1.3  1  ACEY01000178.1 Streptomyces lividans TK24 cont1.178, whole g
+      6e-41  134.8   0.1    8.9e-41  134.3   0.0    1.3  1  ACEY01000193.1 Streptomyces lividans TK24 cont1.193, whole g
+
+
+Domain annotation for each sequence (and alignments):
+>> ACEY01000177.1  Streptomyces lividans TK24 cont1.177, whole genome shotgun sequence.
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  379.0   1.8  2.7e-116  1.3e-114       5     455 ..   19851   20290 ..   19847   20294 .] 0.91
+
+  Alignments for each domain:
+  == domain 1    score: 379.0 bits;  conditional E-value: 2.7e-116
+                             ::::<<<<<_______>>>>>,{{{{-{{{{{{,{{{{{{{{{----{{{-{{{,,<<<--<<<..................... CS
+                             ugaAGaGuuUGAUccUggCuCAGgacGaaCGCuGGCGGCguGCuUAAcaCAuGCAAGuCGAgCg..................... RF
+  bacteria16S_508_mod5     5 uggagaguuugauccuggcucagaaugaacgcuggcggcgugccuaacacaugcaagucgaacgguaaaaggagcuugcuauuuu 89   
+                              ggagaguuugauccuggcucag+a+gaacgcuggcggcgugc+uaacacaugcaagucgaacg u    g a c       u++
+        ACEY01000177.1 19851 CGGAGAGUUUGAUCCUGGCUCAGGACGAACGCUGGCGGCGUGCUUAACACAUGCAAGUCGAACGAU----GAACCACUUCGGUGG 19931
+                             689*************************************************************66....444444444555566 PP
+
+                             .....>>>>>>,,,,,,[[[,,,,,,((((((((--((---(((((((,<<<<----<<<<<<<____>>>>>>>----->>>>, CS
+                             .....cGcGgCGgAcGGGuGAGUAAuacgcgGGuAAccUgcCccagaGagcGGgAuAaCgcccgGAAAcgggcGuUAAUACCgcA RF
+  bacteria16S_508_mod5    90 gggugaguggcggacgggugaguaacgcguggguaaucugccuuuuagugggggauaacuuuuggaaacgguggcuaauaccgca 174  
+                             gg u+aguggcg+acgggugaguaac+cguggg aaucugcc+uu a u  ggga aa +++uggaaacgg+g cuaauaccg+a
+        ACEY01000177.1 19932 GGAUUAGUGGCGAACGGGUGAGUAACACGUGGGCAAUCUGCCCUUCACUCUGGGACAAGCCCUGGAAACGGGGUCUAAUACCGGA 20016
+                             66799******************************************************************************** PP
+
+                             ,,,,<<<<....<<<<<____>>>>>>>>>,,,,<<...........>>,)))))))--))))))))))<<<--<-<<<--<<<< CS
+                             UAauaaaa....aaacCaaaaGguuuuuuugAAAGa...........uCgCucuggGAuggaCCcgcgucggAUaAGCuAGuuGG RF
+  bacteria16S_508_mod5   175 uaaguuuu....uuaucgcaugguuuuuuagaaagauggggagccuuucgcuauaggaugggcccgcgucggauuagcuaguugg 255  
+                             ua + +       ++ c   ug  +  uu gaaag u       c   cg u +aggaug+gcccgcg c++au agcu guugg
+        ACEY01000177.1 20017 UACUGACCcucgCAGGCAUCUGCGAGGUUCGAAAGCU-------CCGGCGGUGAAGGAUGAGCCCGCGGCCUAUCAGCUUGUUGG 20094
+                             **98433300012233334444455555669999987.......8899************************************* PP
+
+                             <<<<_______>>>>>>>>>>>----->>>>,,<<<<<<<<____>>>>--->>>>]]],<<<<<<__________>>>>>>,<< CS
+                             uggGGUAAagGCccaCCaagGCgAcGAuccgUAGCcGgcCuGAGAgGgcGAuCgGCCaCAcuGGgccUGAGAcAcGgcCCagACu RF
+  bacteria16S_508_mod5   256 ugggguaauggcuuaccaaggcgacgauccguagcuggucugagaggaugaucagccacacugggacugagacacggcccagacu 340  
+                             ug+gguaauggcu+accaaggcgacga ++guagc+gg+cugagagg+ ga c+gccacacugggacugagacacggcccagacu
+        ACEY01000177.1 20095 UGAGGUAAUGGCUCACCAAGGCGACGACGGGUAGCCGGCCUGAGAGGGCGACCGGCCACACUGGGACUGAGACACGGCCCAGACU 20179
+                             ************************************************************************************9 PP
+
+                             <<____>>>>,,,}}}}}}-},,,,,<-<<<--<<<<<<____>>>>>>>>>>,}}-}}}}}},,<<<<------<<<<____>> CS
+                             CCUAcGGGaGGcAGCaGuggGGAAUauUgcacAuugGGcGaAAgCCugaugcaGCaAcGCCGCGUGaGcGAaGAAggccuucGgg RF
+  bacteria16S_508_mod5   341 ccuacgggaggcagcaguggggaauauugcacaaugggcgaaagccugaugcagcaaugccgcgugagugaugaaggccuucggg 425  
+                             c uacg gaggcagcagug ggaaua ugcacaaugggcgaaagccugaugcagc a+gccgcgugag gauga ggccuucggg
+        ACEY01000177.1 20180 C-UACG-GAGGCAGCAGUG-GGAAUA-UGCACAAUGGGCGAAAGCCUGAUGCAGCGACGCCGCGUGAGGGAUGACGGCCUUCGGG 20260
+                             5.9996.6*********97.578888.69******************************************************** PP
+
+                             >>----->>>>,<--<<<<<<---<-.... CS
+                             ucGUAAAgCuCUcUuagcgggGAaGA.... RF
+  bacteria16S_508_mod5   426 uuguaaagcucuuuuauuagggaagaagag 455  
+                             uuguaaa cucuuu+a +agggaagaag g
+        ACEY01000177.1 20261 UUGUAAACCUCUUUCAGCAGGGAAGAAGCG 20290
+                             **************************9765 PP
+
+>> ACEY01000273.1  Streptomyces lividans TK24 cont1.273, whole genome shotgun sequence.
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  298.3   0.7   6.1e-92   2.9e-90       5     369 ..   25486   25845 ..   25482   25846 .] 0.90
+
+  Alignments for each domain:
+  == domain 1    score: 298.3 bits;  conditional E-value: 6.1e-92
+                             ::::<<<<<_______>>>>>,{{{{-{{{{{{,{{{{{{{{{----{{{-{{{,,<<<--<<<..................... CS
+                             ugaAGaGuuUGAUccUggCuCAGgacGaaCGCuGGCGGCguGCuUAAcaCAuGCAAGuCGAgCg..................... RF
+  bacteria16S_508_mod5     5 uggagaguuugauccuggcucagaaugaacgcuggcggcgugccuaacacaugcaagucgaacgguaaaaggagcuugcuauuuu 89   
+                              ggagaguuugauccuggcucag+a+gaacgcuggcggcgugc+uaacacaugcaagucgaacg u    g a c       u++
+        ACEY01000273.1 25486 CGGAGAGUUUGAUCCUGGCUCAGGACGAACGCUGGCGGCGUGCUUAACACAUGCAAGUCGAACGAU----GAACCACUUCGGUGG 25566
+                             689*************************************************************66....444444444555566 PP
+
+                             .....>>>>>>,,,,,,[[[,,,,,,((((((((--((---(((((((,<<<<----<<<<<<<____>>>>>>>----->>>>, CS
+                             .....cGcGgCGgAcGGGuGAGUAAuacgcgGGuAAccUgcCccagaGagcGGgAuAaCgcccgGAAAcgggcGuUAAUACCgcA RF
+  bacteria16S_508_mod5    90 gggugaguggcggacgggugaguaacgcguggguaaucugccuuuuagugggggauaacuuuuggaaacgguggcuaauaccgca 174  
+                             gg u+aguggcg+acgggugaguaac+cguggg aaucugcc+uu a u  ggga aa +++uggaaacgg+g cuaauaccg+a
+        ACEY01000273.1 25567 GGAUUAGUGGCGAACGGGUGAGUAACACGUGGGCAAUCUGCCCUUCACUCUGGGACAAGCCCUGGAAACGGGGUCUAAUACCGGA 25651
+                             66799******************************************************************************** PP
+
+                             ,,,,<<<<....<<<<<____>>>>>>>>>,,,,<<...........>>,)))))))--))))))))))<<<--<-<<<--<<<< CS
+                             UAauaaaa....aaacCaaaaGguuuuuuugAAAGa...........uCgCucuggGAuggaCCcgcgucggAUaAGCuAGuuGG RF
+  bacteria16S_508_mod5   175 uaaguuuu....uuaucgcaugguuuuuuagaaagauggggagccuuucgcuauaggaugggcccgcgucggauuagcuaguugg 255  
+                             ua + +       ++ c   ug  +  uu gaaag u       c   cg u +aggaug+gcccgcg c++au agcu guugg
+        ACEY01000273.1 25652 UACUGACCcucgCAGGCAUCUGCGAGGUUCGAAAGCU-------CCGGCGGUGAAGGAUGAGCCCGCGGCCUAUCAGCUUGUUGG 25729
+                             **98433300012233334444455555669999987.......8899************************************* PP
+
+                             <<<<_______>>>>>>>>>>>----->>>>,,<<<<<<<<____>>>>--->>>>]]],<<<<<<__________>>>>>>,<< CS
+                             uggGGUAAagGCccaCCaagGCgAcGAuccgUAGCcGgcCuGAGAgGgcGAuCgGCCaCAcuGGgccUGAGAcAcGgcCCagACu RF
+  bacteria16S_508_mod5   256 ugggguaauggcuuaccaaggcgacgauccguagcuggucugagaggaugaucagccacacugggacugagacacggcccagacu 340  
+                             ug+gguaauggcu+accaaggcgacga ++guagc+gg+cugagagg+ ga c+gccacacugggacugagacacggcccagacu
+        ACEY01000273.1 25730 UGAGGUAAUGGCUCACCAAGGCGACGACGGGUAGCCGGCCUGAGAGGGCGACCGGCCACACUGGGACUGAGACACGGCCCAGACU 25814
+                             ************************************************************************************* PP
+
+                             <<____>.>>>,,,}}}}}}-.},,,,,<-< CS
+                             CCUAcGG.GaGGcAGCaGugg.GGAAUauUg RF
+  bacteria16S_508_mod5   341 ccuacgg.gaggcagcagugg.ggaauauug 369  
+                             ccuacgg gaggcagcagugg ggaauauug
+        ACEY01000273.1 25815 CCUACGGgGAGGCAGCAGUGGgGGAAUAUUG 25845
+                             *****7527**********862579999987 PP
+
+>> ACEY01000192.1  Streptomyces lividans TK24 cont1.192, whole genome shotgun sequence.
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  276.8   0.2   1.9e-85     9e-84       5     347 ..   15250   15585 .]   15246   15585 .] 0.91
+
+  Alignments for each domain:
+  == domain 1    score: 276.8 bits;  conditional E-value: 1.9e-85
+                             ::::<<<<<_______>>>>>,{{{{-{{{{{{,{{{{{{{{{----{{{-{{{,,<<<--<<<..................... CS
+                             ugaAGaGuuUGAUccUggCuCAGgacGaaCGCuGGCGGCguGCuUAAcaCAuGCAAGuCGAgCg..................... RF
+  bacteria16S_508_mod5     5 uggagaguuugauccuggcucagaaugaacgcuggcggcgugccuaacacaugcaagucgaacgguaaaaggagcuugcuauuuu 89   
+                              ggagaguuugauccuggcucag+a+gaacgcuggcggcgugc+uaacacaugcaagucgaacg u    g a c       u++
+        ACEY01000192.1 15250 CGGAGAGUUUGAUCCUGGCUCAGGACGAACGCUGGCGGCGUGCUUAACACAUGCAAGUCGAACGAU----GAACCACUUCGGUGG 15330
+                             689*************************************************************66....444444444555566 PP
+
+                             .....>>>>>>,,,,,,[[[,,,,,,((((((((--((---(((((((,<<<<----<<<<<<<____>>>>>>>----->>>>, CS
+                             .....cGcGgCGgAcGGGuGAGUAAuacgcgGGuAAccUgcCccagaGagcGGgAuAaCgcccgGAAAcgggcGuUAAUACCgcA RF
+  bacteria16S_508_mod5    90 gggugaguggcggacgggugaguaacgcguggguaaucugccuuuuagugggggauaacuuuuggaaacgguggcuaauaccgca 174  
+                             gg u+aguggcg+acgggugaguaac+cguggg aaucugcc+uu a u  ggga aa +++uggaaacgg+g cuaauaccg+a
+        ACEY01000192.1 15331 GGAUUAGUGGCGAACGGGUGAGUAACACGUGGGCAAUCUGCCCUUCACUCUGGGACAAGCCCUGGAAACGGGGUCUAAUACCGGA 15415
+                             66799******************************************************************************** PP
+
+                             ,,,,....<<<<<<<<<____>>>>>>>>>,,,,<<...........>>,)))))))--))))))))))<<<--<-<<<--<<<< CS
+                             UAau....aaaaaaacCaaaaGguuuuuuugAAAGa...........uCgCucuggGAuggaCCcgcgucggAUaAGCuAGuuGG RF
+  bacteria16S_508_mod5   175 uaag....uuuuuuaucgcaugguuuuuuagaaagauggggagccuuucgcuauaggaugggcccgcgucggauuagcuaguugg 255  
+                             ua +    +uu  ++ c   ug  +  uu gaaag u       c   cg u +aggaug+gcccgcg c++au agcu guugg
+        ACEY01000192.1 15416 UACUgaccCUUGCAGGCAUCUGCGAGGUUCGAAAGCU-------CCGGCGGUGAAGGAUGAGCCCGCGGCCUAUCAGCUUGUUGG 15493
+                             **98421112223333444455555566669999987.......8899************************************* PP
+
+                             <<<<_______>>>>>>>>>>>----->>>>,,<<<<<<<<____>>>>--->>>>]]],<<<<<<__________>>>>>>,<< CS
+                             uggGGUAAagGCccaCCaagGCgAcGAuccgUAGCcGgcCuGAGAgGgcGAuCgGCCaCAcuGGgccUGAGAcAcGgcCCagACu RF
+  bacteria16S_508_mod5   256 ugggguaauggcuuaccaaggcgacgauccguagcuggucugagaggaugaucagccacacugggacugagacacggcccagacu 340  
+                             ug+gguaauggcu+accaaggcgacga ++guagc+gg+cugagagg+ ga c+gccacacugggacugagacacggcccagacu
+        ACEY01000192.1 15494 UGAGGUAAUGGCUCACCAAGGCGACGACGGGUAGCCGGCCUGAGAGGGCGACCGGCCACACUGGGACUGAGACACGGCCCAGACU 15578
+                             ************************************************************************************* PP
+
+                             <<____> CS
+                             CCUAcGG RF
+  bacteria16S_508_mod5   341 ccuacgg 347  
+                             ccuacgg
+        ACEY01000192.1 15579 CCUACGG 15585
+                             *****97 PP
+
+>> ACEY01000253.1  Streptomyces lividans TK24 cont1.253, whole genome shotgun sequence.
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  243.6   0.1   1.9e-75     9e-74       5     325 ..   16778   17091 .]   16774   17091 .] 0.90
+
+  Alignments for each domain:
+  == domain 1    score: 243.6 bits;  conditional E-value: 1.9e-75
+                             ::::<<<<<_______>>>>>,{{{{-{{{{{{,{{{{{{{{{----{{{-{{{,,<<<--<<<..................... CS
+                             ugaAGaGuuUGAUccUggCuCAGgacGaaCGCuGGCGGCguGCuUAAcaCAuGCAAGuCGAgCg..................... RF
+  bacteria16S_508_mod5     5 uggagaguuugauccuggcucagaaugaacgcuggcggcgugccuaacacaugcaagucgaacgguaaaaggagcuugcuauuuu 89   
+                              ggagaguuugauccuggcucag+a+gaacgcuggcggcgugc+uaacacaugcaagucgaacg u    g a c       u++
+        ACEY01000253.1 16778 CGGAGAGUUUGAUCCUGGCUCAGGACGAACGCUGGCGGCGUGCUUAACACAUGCAAGUCGAACGAU----GAACCACUUCGGUGG 16858
+                             689*************************************************************66....444444444555566 PP
+
+                             .....>>>>>>,,,,,,[[[,,,,,,((((((((--((---(((((((,<<<<----<<<<<<<____>>>>>>>----->>>>, CS
+                             .....cGcGgCGgAcGGGuGAGUAAuacgcgGGuAAccUgcCccagaGagcGGgAuAaCgcccgGAAAcgggcGuUAAUACCgcA RF
+  bacteria16S_508_mod5    90 gggugaguggcggacgggugaguaacgcguggguaaucugccuuuuagugggggauaacuuuuggaaacgguggcuaauaccgca 174  
+                             gg u+aguggcg+acgggugaguaac+cguggg aaucugcc+uu a u  ggga aa +++uggaaacgg+g cuaauaccg+a
+        ACEY01000253.1 16859 GGAUUAGUGGCGAACGGGUGAGUAACACGUGGGCAAUCUGCCCUUCACUCUGGGACAAGCCCUGGAAACGGGGUCUAAUACCGGA 16943
+                             66799******************************************************************************** PP
+
+                             ,,,,<<<<....<<<<<____>>>>>>>>>,,,,<<...........>>,)))))))--))))))))))<<<--<-<<<--<<<< CS
+                             UAauaaaa....aaacCaaaaGguuuuuuugAAAGa...........uCgCucuggGAuggaCCcgcgucggAUaAGCuAGuuGG RF
+  bacteria16S_508_mod5   175 uaaguuuu....uuaucgcaugguuuuuuagaaagauggggagccuuucgcuauaggaugggcccgcgucggauuagcuaguugg 255  
+                             ua + +       ++ c   ug  +  uu gaaag u       c   cg u +aggaug+gcccgcg c++au agcu guugg
+        ACEY01000253.1 16944 UACUGACCcucgCAGGCAUCUGCGAGGUUCGAAAGCU-------CCGGCGGUGAAGGAUGAGCCCGCGGCCUAUCAGCUUGUUGG 17021
+                             **98433300012233334444455555669999987.......8899************************************* PP
+
+                             <<<<_______>>>>>>>>>>>----->>>>,,<<<<<<<<____>>>>--->>>>]]],<<<<<<____ CS
+                             uggGGUAAagGCccaCCaagGCgAcGAuccgUAGCcGgcCuGAGAgGgcGAuCgGCCaCAcuGGgccUGA RF
+  bacteria16S_508_mod5   256 ugggguaauggcuuaccaaggcgacgauccguagcuggucugagaggaugaucagccacacugggacuga 325  
+                             ug+gguaauggcu+accaaggcgacga ++guagc+gg+cugagagg+ ga c+gccacacugggacuga
+        ACEY01000253.1 17022 UGAGGUAAUGGCUCACCAAGGCGACGACGGGUAGCCGGCCUGAGAGGGCGACCGGCCACACUGGGACUGA 17091
+                             ********************************************************************97 PP
+
+>> ACEY01000274.1  Streptomyces lividans TK24 cont1.274, whole genome shotgun sequence.
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  146.1   0.1   5.1e-46   2.4e-44    1376    1537 .]       1     165 [.       1     165 [. 0.98
+
+  Alignments for each domain:
+  == domain 1    score: 146.1 bits;  conditional E-value: 5.1e-46
+                            ---}}}}}}}}}}-}},,<-<<-<<-<-<<<<<<<<--<<<<<<<<<<<<----<<<<<<.......................>>>> CS
+                            UccCGGGcCuuGuACacACcGccCGUCACaCCccgggAgccgguuacaccagAAGucggc.......................gccg RF
+  bacteria16S_508_mod5 1376 ucccgggccuuguacacaccgcccgucacaccaugggaguugguuacacccgaagucggugggcuaacc...uuaaggagggagcug 1459
+                            ucccgggccuuguacacaccgcccgucac  ca g+ agu ggu+acacccgaag+cggugg+c aacc   u ++ggagggagcug
+        ACEY01000274.1    1 UCCCGGGCCUUGUACACACCGCCCGUCACGUCACGAAAGUCGGUAACACCCGAAGCCGGUGGCCCAACCccuUGUGGGAGGGAGCUG 87  
+                            699*****************************************************************977777899********** PP
+
+                            >>--->>>>>>>>>>>>-->>>>>>>>-->->>-->>-->,<<<<<<<<<<____>>>>>>>>>>::::::::::::: CS
+                            aCuAagguguaaccggcgAcuggGGuGAAGUCGUAgCAAGGuaGCCGuagggGAAccugCGGCugGAUcAccUccUUu RF
+  bacteria16S_508_mod5 1460 uccaaggugggauugaugacuggggugaagucguaacaagguagccguaggggaacgugcggcuggaucaccuccuuu 1537
+                            uc aagguggga+ug+ ga+uggg  gaagucguaacaagguagccgua++ggaa+gugcggcuggaucaccuccuuu
+        ACEY01000274.1   88 UCGAAGGUGGGACUGGCGAUUGGGACGAAGUCGUAACAAGGUAGCCGUACCGGAAGGUGCGGCUGGAUCACCUCCUUU 165 
+                            ***************************************************************************985 PP
+
+>> ACEY01000178.1  Streptomyces lividans TK24 cont1.178, whole genome shotgun sequence.
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  143.1   0.1   4.1e-45     2e-43    1378    1537 .]       1     163 [.       1     163 [. 0.98
+
+  Alignments for each domain:
+  == domain 1    score: 143.1 bits;  conditional E-value: 4.1e-45
+                            -}}}}}}}}}}-}},,<-<<-<<-<-<<<<<<<<--<<<<<<<<<<<<----<<<<<<.......................>>>>>> CS
+                            cCGGGcCuuGuACacACcGccCGUCACaCCccgggAgccgguuacaccagAAGucggc.......................gccgaC RF
+  bacteria16S_508_mod5 1378 ccgggccuuguacacaccgcccgucacaccaugggaguugguuacacccgaagucggugggcuaacc...uuaaggagggagcuguc 1461
+                            ccgggccuuguacacaccgcccgucac  ca g+ agu ggu+acacccgaag+cggugg+c aacc   u ++ggagggagcuguc
+        ACEY01000178.1    1 CCGGGCCUUGUACACACCGCCCGUCACGUCACGAAAGUCGGUAACACCCGAAGCCGGUGGCCCAACCccuUGUGGGAGGGAGCUGUC 87  
+                            69****************************************************************977777899************ PP
+
+                            --->>>>>>>>>>>>-->>>>>>>>-->->>-->>-->,<<<<<<<<<<____>>>>>>>>>>::::::::::::: CS
+                            uAagguguaaccggcgAcuggGGuGAAGUCGUAgCAAGGuaGCCGuagggGAAccugCGGCugGAUcAccUccUUu RF
+  bacteria16S_508_mod5 1462 caaggugggauugaugacuggggugaagucguaacaagguagccguaggggaacgugcggcuggaucaccuccuuu 1537
+                             aagguggga+ug+ ga+uggg  gaagucguaacaagguagccgua++ggaa+gugcggcuggaucaccuccuuu
+        ACEY01000178.1   88 GAAGGUGGGACUGGCGAUUGGGACGAAGUCGUAACAAGGUAGCCGUACCGGAAGGUGCGGCUGGAUCACCUCCUUU 163 
+                            *************************************************************************985 PP
+
+>> ACEY01000193.1  Streptomyces lividans TK24 cont1.193, whole genome shotgun sequence.
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  134.3   0.0   1.9e-42   8.9e-41    1384    1537 .]       1     157 [.       1     157 [. 0.98
+
+  Alignments for each domain:
+  == domain 1    score: 134.3 bits;  conditional E-value: 1.9e-42
+                            }}}}}-}},,<-<<-<<-<-<<<<<<<<--<<<<<<<<<<<<----<<<<<<.......................>>>>>>--->>> CS
+                            CuuGuACacACcGccCGUCACaCCccgggAgccgguuacaccagAAGucggc.......................gccgaCuAaggu RF
+  bacteria16S_508_mod5 1384 cuuguacacaccgcccgucacaccaugggaguugguuacacccgaagucggugggcuaacc...uuaaggagggagcuguccaaggu 1467
+                            cuuguacacaccgcccgucac  ca g+ agu ggu+acacccgaag+cggugg+c aacc   u ++ggagggagcuguc aaggu
+        ACEY01000193.1    1 CUUGUACACACCGCCCGUCACGUCACGAAAGUCGGUAACACCCGAAGCCGGUGGCCCAACCccuUGUGGGAGGGAGCUGUCGAAGGU 87  
+                            69**********************************************************977777899****************** PP
+
+                            >>>>>>>>>-->>>>>>>>-->->>-->>-->,<<<<<<<<<<____>>>>>>>>>>::::::::::::: CS
+                            guaaccggcgAcuggGGuGAAGUCGUAgCAAGGuaGCCGuagggGAAccugCGGCugGAUcAccUccUUu RF
+  bacteria16S_508_mod5 1468 gggauugaugacuggggugaagucguaacaagguagccguaggggaacgugcggcuggaucaccuccuuu 1537
+                            ggga+ug+ ga+uggg  gaagucguaacaagguagccgua++ggaa+gugcggcuggaucaccuccuuu
+        ACEY01000193.1   88 GGGACUGGCGAUUGGGACGAAGUCGUAACAAGGUAGCCGUACCGGAAGGUGCGGCUGGAUCACCUCCUUU 157 
+                            *******************************************************************985 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                            1  (1537 nodes)
+Target sequences:                        333  (8190887 residues)
+Passed MSV filter:                        16  (0.048048); expected 6.7 (0.02)
+Passed bias filter:                        7  (0.021021); expected 6.7 (0.02)
+Passed Vit filter:                         7  (0.021021); expected 0.3 (0.001)
+Passed Fwd filter:                         7  (0.021021); expected 0.0 (1e-05)
+Initial search space (Z):                333  [actual number of targets]
+Domain search space  (domZ):               7  [number of targets reported over threshold]
+# CPU time: 2.15u 0.03s 00:00:02.17 Elapsed: 00:00:00.64
+# Mc/sec: 19670.93
+//
+# Alignment of 7 hits satisfying inclusion thresholds saved to: hmmAlignACEY00000000.1.fna.stk

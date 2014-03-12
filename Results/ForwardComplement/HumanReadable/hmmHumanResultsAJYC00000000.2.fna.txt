@@ -1,0 +1,73 @@
+# hmmsearch :: search profile(s) against a sequence database
+# HMMER 3.0 (March 2010); http://hmmer.org/
+# Copyright (C) 2010 Howard Hughes Medical Institute.
+# Freely distributed under the GNU General Public License (GPLv3).
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query HMM file:                  SSU.hmm
+# target sequence database:        ../No16SGenomes/ForwardComplement/AJYC00000000.2.fna
+# output directed to file:         hmmHumanResultsAJYC00000000.2.fna.txt
+# MSA of all hits saved to file:   hmmAlignAJYC00000000.2.fna.stk
+# per-seq hits tabular output:     hmmResultsAJYC00000000.2.fna.tsv
+# prefer accessions over names:    yes
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       bacteria16S_508_mod5  [M=1537]
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence       Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------       -----------
+    7.6e-82  270.9   0.1    8.6e-82  270.8   0.0    1.0  1  AJYC02000171.1 Rhodococcus opacus M213 contig_171, whole gen
+
+
+Domain annotation for each sequence (and alignments):
+>> AJYC02000171.1  Rhodococcus opacus M213 contig_171, whole genome shotgun sequence.
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  270.8   0.0   1.8e-84   8.6e-82    1278    1537 .]       2     265 ..       1     265 [. 0.98
+
+  Alignments for each domain:
+  == domain 1    score: 270.8 bits;  conditional E-value: 1.8e-84
+                            >>----->>>>>>>,,,,,,<---<<<<<<<<________>>>>>>>>--->,,,,,}}}}},,,,,<<<<<<<<_____.__>>>> CS
+                            cCaaAAAaccggcCuuAGUuCgGAauGcaggCUGcAAcucGccugCauGAAGuuGGAauCGCUAGUAacCGcgguUcAGa.Auaccg RF
+  bacteria16S_508_mod5 1278 ucauaaagccggucucaguucggauuguagucugcaacucgacuccaugaagucggaaucgcuaguaaucgcggaucagc.augccg 1363
+                            +c+uaaagccggucucaguucggau g+ gucugcaacucgac cc ugaagucgga ucgcuaguaaucgc+gaucagc a gc+g
+        AJYC02000171.1    2 CCUUAAAGCCGGUCUCAGUUCGGAUCGGGGUCUGCAACUCGACCCCGUGAAGUCGGAGUCGCUAGUAAUCGCAGAUCAGCaACGCUG 88  
+                            6789****************************************************************************99***** PP
+
+                            >>>>,,,,,,}}---}}}}}}}}}}-}},,<-<<-<<-<-<<<<<<<<--<<<<<<<<<<<<----<<<<<<............... CS
+                            CGguGAAUAcGuUccCGGGcCuuGuACacACcGccCGUCACaCCccgggAgccgguuacaccagAAGucggc............... RF
+  bacteria16S_508_mod5 1364 cggugaauacguucccgggccuuguacacaccgcccgucacaccaugggaguugguuacacccgaagucggugggcuaacc...uua 1447
+                            cggugaauacguucccgggccuuguacacaccgcccgucac  caug+ agu ggu+acacccgaag+cggugg+cuaacc   u +
+        AJYC02000171.1   89 CGGUGAAUACGUUCCCGGGCCUUGUACACACCGCCCGUCACGUCAUGAAAGUCGGUAACACCCGAAGCCGGUGGCCUAACCccuUGU 175 
+                            ********************************************************************************9777778 PP
+
+                            ........>>>>>>--->>>>>>>>>>>>-->>>>>>>>-->->>-->>-->,<<<<<<<<<<____>>>>>>>>>>:::::::::: CS
+                            ........gccgaCuAagguguaaccggcgAcuggGGuGAAGUCGUAgCAAGGuaGCCGuagggGAAccugCGGCugGAUcAccUcc RF
+  bacteria16S_508_mod5 1448 aggagggagcuguccaaggugggauugaugacuggggugaagucguaacaagguagccguaggggaacgugcggcuggaucaccucc 1534
+                            +ggagggagc+guc aaggugggau+g+ ga+uggg  gaagucguaacaagguagccgua++ggaa+gugcggcuggaucaccucc
+        AJYC02000171.1  176 GGGAGGGAGCCGUCGAAGGUGGGAUCGGCGAUUGGGACGAAGUCGUAACAAGGUAGCCGUACCGGAAGGUGCGGCUGGAUCACCUCC 262 
+                            99************************************************************************************* PP
+
+                            ::: CS
+                            UUu RF
+  bacteria16S_508_mod5 1535 uuu 1537
+                            uuu
+        AJYC02000171.1  263 UUU 265 
+                            985 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                            1  (1537 nodes)
+Target sequences:                        483  (9194165 residues)
+Passed MSV filter:                         9  (0.0186335); expected 9.7 (0.02)
+Passed bias filter:                        1  (0.00207039); expected 9.7 (0.02)
+Passed Vit filter:                         1  (0.00207039); expected 0.5 (0.001)
+Passed Fwd filter:                         1  (0.00207039); expected 0.0 (1e-05)
+Initial search space (Z):                483  [actual number of targets]
+Domain search space  (domZ):               1  [number of targets reported over threshold]
+# CPU time: 1.49u 0.01s 00:00:01.50 Elapsed: 00:00:00.25
+# Mc/sec: 56525.73
+//
+# Alignment of 1 hits satisfying inclusion thresholds saved to: hmmAlignAJYC00000000.2.fna.stk

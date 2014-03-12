@@ -1,0 +1,159 @@
+# STOCKHOLM 1.0
+
+#=GS AXVM01000023.1/265-1795 DE [subseq from] Comamonas badia DSM 17552 K320DRAFT_scaffold00023.23_C, whole genome shotgun sequence.
+
+AXVM01000023.1/265-1795         ACUGAAGAGUUUGAUCCUGGCUCAGAUUGAACGCUGGCGGCAUGCCUUAC
+#=GR AXVM01000023.1/265-1795 PP 67999*********************************************
+#=GC PP_cons                    67999*********************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AXVM01000023.1/265-1795         ACAUGCAAGUCGAACGGCAGCGCGUCCUUCGGGAUGGCGGCGAGUGGCGA
+#=GR AXVM01000023.1/265-1795 PP *******************999999999999999999999**********
+#=GC PP_cons                    *******************999999999999999999999**********
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AXVM01000023.1/265-1795         ACGGGUGAGUAAAGCAUCGGAACGUGCCCGGUAGUGCGGGAUAGCUCGGC
+#=GR AXVM01000023.1/265-1795 PP ********************9*****************************
+#=GC PP_cons                    ********************9*****************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AXVM01000023.1/265-1795         GAAAGCCGGAUUAAUACCGCAUGAGAUCCGAGGAUGAAAGCAGGGGAccc
+#=GR AXVM01000023.1/265-1795 PP *************************9999999999*******99998888
+#=GC PP_cons                    *************************9999999999*******99998...
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...
+
+AXVM01000023.1/265-1795         gcaaggGCCUUGCGCUACUGGAGCGGCCGAUGUCAGAUUAGGUAGUUGGU
+#=GR AXVM01000023.1/265-1795 PP 88888788999***************************************
+#=GC PP_cons                    ......88999***************************************
+#=GC RF                         ......xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AXVM01000023.1/265-1795         GAGGUAAAGGCUCACCAAGCCUGCGAUCUGUAGCUGGUCUGAGAGGAUGA
+#=GR AXVM01000023.1/265-1795 PP **************************************************
+#=GC PP_cons                    **************************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AXVM01000023.1/265-1795         UCAGCCACAUCGGGACUGAGACACGGCCCGAACUCCUACGGGAGGCAGCA
+#=GR AXVM01000023.1/265-1795 PP **************************************************
+#=GC PP_cons                    **************************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AXVM01000023.1/265-1795         GUGGGGAAUUUUGGACAAUGGGCGCAAGCCUGAUCCAGCCAUGCCGCGUG
+#=GR AXVM01000023.1/265-1795 PP **************************************************
+#=GC PP_cons                    **************************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AXVM01000023.1/265-1795         CAGGAUGAAGGCCUUCGGGUUGUAAACUGCUUUUGUACGGAACGAAAAGC
+#=GR AXVM01000023.1/265-1795 PP *********************************************99987
+#=GC PP_cons                    *********************************************99987
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AXVM01000023.1/265-1795         CUCUcuuuaaUAAAUGGGGGUGAUGACGGUACCGUAAGAAUAAGCACCGG
+#=GR AXVM01000023.1/265-1795 PP 76654443323444466778899***************************
+#=GC PP_cons                    7665......3444466778899***************************
+#=GC RF                         xxxx......xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AXVM01000023.1/265-1795         CUAACUACGUGCCAGCAGCCGCGGUAAUACGUAGGGUGCGAGCGUUAAUC
+#=GR AXVM01000023.1/265-1795 PP **************************************************
+#=GC PP_cons                    **************************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AXVM01000023.1/265-1795         GGAAUUACUGGGCGUAAAGCGUGCGCAGGCGGUCUUGCAAGACAGUGGUG
+#=GR AXVM01000023.1/265-1795 PP **************************************************
+#=GC PP_cons                    **************************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AXVM01000023.1/265-1795         AAAUCCCCGGGCUCAACCUGGGAACUGCCAUUGUGACUGCAAGGCUGGAG
+#=GR AXVM01000023.1/265-1795 PP **************************************************
+#=GC PP_cons                    **************************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AXVM01000023.1/265-1795         UGCGGCAGAGGGGGAUGGAAUUCCGCGUGUAGCAGUGAAAUGCGUAGAUA
+#=GR AXVM01000023.1/265-1795 PP **************************************************
+#=GC PP_cons                    **************************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AXVM01000023.1/265-1795         UGCGGAGGAACACCGAUGGCGAAGGCAAUCCCCUGGGCCUGCACUGACGC
+#=GR AXVM01000023.1/265-1795 PP **************************************************
+#=GC PP_cons                    **************************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AXVM01000023.1/265-1795         UCAUGCACGAAAGCGUGGGGAGCAAACAGGAUUAGAUACCCUGGUAGUCC
+#=GR AXVM01000023.1/265-1795 PP **************************************************
+#=GC PP_cons                    **************************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AXVM01000023.1/265-1795         ACGCCCUAAACGAUGUCAACUGGUUGUUGGGGAUUAACUUUCUCAGUAAC
+#=GR AXVM01000023.1/265-1795 PP ****************************9998766777889*********
+#=GC PP_cons                    ****************************9998766777889*********
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AXVM01000023.1/265-1795         GAAGCUAACGCGUGAAGUUGACCGCCUGGGGAGUACGGCCGCAAGGUUAA
+#=GR AXVM01000023.1/265-1795 PP **************************************************
+#=GC PP_cons                    **************************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AXVM01000023.1/265-1795         AACUCAAAGGAAUUGACGGGGACCCGCACAAGCGGUGGAUGAUGUGGUUU
+#=GR AXVM01000023.1/265-1795 PP **************************************************
+#=GC PP_cons                    **************************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AXVM01000023.1/265-1795         AAUUCGAUGCAACGCGAAAAACCUUACCCACCUUUGACAUGUAUGGAAUC
+#=GR AXVM01000023.1/265-1795 PP **************************************************
+#=GC PP_cons                    **************************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AXVM01000023.1/265-1795         CCGAAGAGAUUUGGGAGUGcuCGCAAGAGAGCCAUAACACAGGUGCUGCA
+#=GR AXVM01000023.1/265-1795 PP ************9999999334455677788999****************
+#=GC PP_cons                    ************9999999..4455677788999****************
+#=GC RF                         xxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AXVM01000023.1/265-1795         UGGCUGUCGUCAGCUCGUGUCGUGAGAUGUUGGGUUAAGUCCCGCAACGA
+#=GR AXVM01000023.1/265-1795 PP **************************************************
+#=GC PP_cons                    **************************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AXVM01000023.1/265-1795         GCGCAACCCUUGCCAUCAGUUGCUACGAAAGGGCACUCUGAUGGGACUGC
+#=GR AXVM01000023.1/265-1795 PP ***********************987445789******************
+#=GC PP_cons                    ***********************987445789******************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AXVM01000023.1/265-1795         CGGUGACAAACCGGAGGAAGGUGGGGAUGACGUCAAGUCCUCAUGGCCCU
+#=GR AXVM01000023.1/265-1795 PP **************************************************
+#=GC PP_cons                    **************************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AXVM01000023.1/265-1795         UAUAGGUGGGGCUACACACGUCAUACAAUGGCUGGUACAAAGGGUUGCCA
+#=GR AXVM01000023.1/265-1795 PP **************************************************
+#=GC PP_cons                    **************************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AXVM01000023.1/265-1795         ACCCGCGAGGGGGAGCCAAUCCCACAAAGCCAGUCGUAGUCCGGAUUGCA
+#=GR AXVM01000023.1/265-1795 PP **************************************************
+#=GC PP_cons                    **************************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AXVM01000023.1/265-1795         GGCUGCAACUCGCCUGCAUGAAGUCGGAAUCGCUAGUAAUCGUGGAUCAG
+#=GR AXVM01000023.1/265-1795 PP **************************************************
+#=GC PP_cons                    **************************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AXVM01000023.1/265-1795         CAUGUCACGGUGAAUACGUUCCCGGGUCUUGUACACACCGCCCGUCACAC
+#=GR AXVM01000023.1/265-1795 PP **************************************************
+#=GC PP_cons                    **************************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AXVM01000023.1/265-1795         CAUGGGAGCGGGUCUCACCAGAAGUAGGUAGCCUAACCGCAAGGAGGGCG
+#=GR AXVM01000023.1/265-1795 PP **************************************************
+#=GC PP_cons                    **************************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AXVM01000023.1/265-1795         CUUACCACGGUGGGGUUCGUGACUGGGGUGAAGUCGUAACAAGGUAGCCG
+#=GR AXVM01000023.1/265-1795 PP **************************************************
+#=GC PP_cons                    **************************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AXVM01000023.1/265-1795         UAUCGGAAGGUGCGGCUGGAUCACCUCCUUU
+#=GR AXVM01000023.1/265-1795 PP ****************************985
+#=GC PP_cons                    ****************************985
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

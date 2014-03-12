@@ -1,0 +1,4 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+FM211192.1           -          bacteria16S_508_mod5 -                  0 1512.6  19.0         0 1512.0  13.2   1.2   1   0   0   1   1   1   1 Mycobacterium leprae Br4923, complete genome sequence.

@@ -1,0 +1,105 @@
+# STOCKHOLM 1.0
+
+#=GS ACEX01000476.1/4-252       DE [subseq from] Streptomyces himastatinicus ATCC 53653 cont1.476, whole genome shotgun sequence.
+#=GS ACEX01000611.1/20922-21194 DE [subseq from] Streptomyces himastatinicus ATCC 53653 cont1.611, whole genome shotgun sequence.
+#=GS ACEX01000475.1/5370-5540   DE [subseq from] Streptomyces himastatinicus ATCC 53653 cont1.475, whole genome shotgun sequence.
+
+ACEX01000476.1/4-252               --------------------------------------------------
+#=GR ACEX01000476.1/4-252       PP ..................................................
+ACEX01000611.1/20922-21194         CGGAGAGUUUGAUCCUGGCUCAGGACGAACGCUGGCGGCGUGCUUAACAC
+#=GR ACEX01000611.1/20922-21194 PP 689***********************************************
+ACEX01000475.1/5370-5540           CGGAGAGUUUGAUCCUGGCUCAGGACGAACGCUGGCGGCGUGCUUAACAC
+#=GR ACEX01000475.1/5370-5540   PP 689***********************************************
+#=GC PP_cons                       689***********************************************
+#=GC RF                            xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ACEX01000476.1/4-252               --------------------------------------------------
+#=GR ACEX01000476.1/4-252       PP ..................................................
+ACEX01000611.1/20922-21194         AUGCAAGUCGAACGAUGAAGCCCUUCGGGGUGGAUUAGUGGCGAACGGGU
+#=GR ACEX01000611.1/20922-21194 PP **************6544555555555566667799**************
+ACEX01000475.1/5370-5540           AUGCAAGUCGAACGAUGAAGCCCUUCGGGGUGGAUUAGUGGCGAACGGGU
+#=GR ACEX01000475.1/5370-5540   PP **************6544555555555566667799**************
+#=GC PP_cons                       **************6544555555555566667799**************
+#=GC RF                            xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ACEX01000476.1/4-252               --------------------------------------------------
+#=GR ACEX01000476.1/4-252       PP ..................................................
+ACEX01000611.1/20922-21194         GAGUAACACGUGGGCAAUCUGCCCUUCACUCUGGGACAAGCCCUGGAAAC
+#=GR ACEX01000611.1/20922-21194 PP **************************************************
+ACEX01000475.1/5370-5540           GAGUAACACGUGGGCAAUCUGCCCUUCACUCUGGGACAAGCCCUGGAAAC
+#=GR ACEX01000475.1/5370-5540   PP **************************************************
+#=GC PP_cons                       **************************************************
+#=GC RF                            xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ACEX01000476.1/4-252               --------------------.----------------------...----
+#=GR ACEX01000476.1/4-252       PP ..................................................
+ACEX01000611.1/20922-21194         GGGGUCUAAUACCGGAUAUGaUCACCGGCCGCAUGGUCUGGUGaugGAAA
+#=GR ACEX01000611.1/20922-21194 PP ********************777778899999999887655444569999
+ACEX01000475.1/5370-5540           GGGGUCUAAUACCGGAUAUG.------A---------------...----
+#=GR ACEX01000475.1/5370-5540   PP *****************998.......3......................
+#=GC PP_cons                       *****************999.7777886999999988765544...9999
+#=GC RF                            xxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxx...xxxx
+
+ACEX01000476.1/4-252               --------------------------------------------------
+#=GR ACEX01000476.1/4-252       PP ..................................................
+ACEX01000611.1/20922-21194         GCUCCGGCGGUGAAGGAUGAGCCCGCGGCCUAUCAGCUUGUUGGUGGGGU
+#=GR ACEX01000611.1/20922-21194 PP 9878899*******************************************
+ACEX01000475.1/5370-5540           --------------------------------------------------
+#=GR ACEX01000475.1/5370-5540   PP ..................................................
+#=GC PP_cons                       9878899*******************************************
+#=GC RF                            xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ACEX01000476.1/4-252               -----------------------GUCGGAUGUGAAAGCCCGGGGCUUAAC
+#=GR ACEX01000476.1/4-252       PP .......................7899***********************
+ACEX01000611.1/20922-21194         GAUGGCCUACCAAGGCGACGACG---------------------------
+#=GR ACEX01000611.1/20922-21194 PP ********************976...........................
+ACEX01000475.1/5370-5540           --------------------------------------------------
+#=GR ACEX01000475.1/5370-5540   PP ..................................................
+#=GC PP_cons                       ********************9767899***********************
+#=GC RF                            xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ACEX01000476.1/4-252               CCCGGGUCUGCAUUCGAUACGGGCAGGCUAGAGUUCGGUAGGGGAGAUCG
+#=GR ACEX01000476.1/4-252       PP **************************************************
+ACEX01000611.1/20922-21194         --------------------------------------------------
+#=GR ACEX01000611.1/20922-21194 PP ..................................................
+ACEX01000475.1/5370-5540           --------------------------------------------------
+#=GR ACEX01000475.1/5370-5540   PP ..................................................
+#=GC PP_cons                       **************************************************
+#=GC RF                            xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ACEX01000476.1/4-252               GAAUUCCUGGUGUAGCGGUGAAAUGCGCAGAUAUCAGGAGGAACACCGGU
+#=GR ACEX01000476.1/4-252       PP **************************************************
+ACEX01000611.1/20922-21194         --------------------------------------------------
+#=GR ACEX01000611.1/20922-21194 PP ..................................................
+ACEX01000475.1/5370-5540           --------------------------------------------------
+#=GR ACEX01000475.1/5370-5540   PP ..................................................
+#=GC PP_cons                       **************************************************
+#=GC RF                            xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ACEX01000476.1/4-252               GGCGAAGGCGGAUCUCUGGGCCGAUACUGACGCUGAGGAGCGAAAGCGUG
+#=GR ACEX01000476.1/4-252       PP **************************************************
+ACEX01000611.1/20922-21194         --------------------------------------------------
+#=GR ACEX01000611.1/20922-21194 PP ..................................................
+ACEX01000475.1/5370-5540           --------------------------------------------------
+#=GR ACEX01000475.1/5370-5540   PP ..................................................
+#=GC PP_cons                       **************************************************
+#=GC RF                            xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ACEX01000476.1/4-252               GGGAGCGAACAGGAUUAGAUACCCUGgGUAGUCCACGCCGUAAaACGUUG
+#=GR ACEX01000476.1/4-252       PP ************************9637*************752799998
+ACEX01000611.1/20922-21194         --------------------------.----------------.------
+#=GR ACEX01000611.1/20922-21194 PP ..................................................
+ACEX01000475.1/5370-5540           --------------------------.----------------.------
+#=GR ACEX01000475.1/5370-5540   PP ..................................................
+#=GC PP_cons                       ************************96.7*************75.799998
+#=GC RF                            xxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxx.xxxxxx
+
+ACEX01000476.1/4-252               GgAAACUAGGUGUGGGCGACAU
+#=GR ACEX01000476.1/4-252       PP 61578********999887665
+ACEX01000611.1/20922-21194         -.--------------------
+#=GR ACEX01000611.1/20922-21194 PP ......................
+ACEX01000475.1/5370-5540           -.--------------------
+#=GR ACEX01000475.1/5370-5540   PP ......................
+#=GC PP_cons                       6.578********999887665
+#=GC RF                            x.xxxxxxxxxxxxxxxxxxxx
+//

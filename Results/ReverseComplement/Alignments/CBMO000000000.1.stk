@@ -1,0 +1,159 @@
+# STOCKHOLM 1.0
+
+#=GS CBMO010000165.1/28-1542 DE [subseq from] Mycobacterium septicum DSM 44393 WGS project CBMO00000000 data, type strain DSM 44393T, contig00165, whole genome shotgun sequence.
+
+CBMO010000165.1/28-1542         UUGGAGAGUUUGAUUCUGGCUCAGGACGAACGCUGGCGGCGUGCUUAACA
+#=GR CBMO010000165.1/28-1542 PP 689***********************************************
+#=GC PP_cons                    689***********************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+CBMO010000165.1/28-1542         CAUGCAAGUCGAACGGAAAGGCCCUUCGGGGUACUCGAGUGGCGAACGGG
+#=GR CBMO010000165.1/28-1542 PP ***************9844444444433344445599*************
+#=GC PP_cons                    ***************9844444444433344445599*************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+CBMO010000165.1/28-1542         UGAGUAACACGUGGGUGAUCUGCCCUGCACUUUGGGAUAAGCCUGGGAAA
+#=GR CBMO010000165.1/28-1542 PP **************************************************
+#=GC PP_cons                    **************************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+CBMO010000165.1/28-1542         CUGGGUCUAAUACCGAAUAUGaCCGCGCACUUCCUGGUGUGUGGugGAAA
+#=GR CBMO010000165.1/28-1542 PP ********************9644445555555555555444334599**
+#=GC PP_cons                    ********************9.4444555555555555544433..99**
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxx..xxxx
+
+CBMO010000165.1/28-1542         GCUUUUGCGGUGUGGGAUGGGCCCGCGGCCUAUCAGCUUGUUGGUGGGGU
+#=GR CBMO010000165.1/28-1542 PP 988999********************************************
+#=GC PP_cons                    988999********************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+CBMO010000165.1/28-1542         AAUGGCCUACCAAGGCGACGACGGGUAGCCGGCCUGAGAGGGUGACCGGC
+#=GR CBMO010000165.1/28-1542 PP **************************************************
+#=GC PP_cons                    **************************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+CBMO010000165.1/28-1542         CACACUGGGACUGAGAUACGGCCCAGACUCCUACGGGAGGCAGCAGUGGG
+#=GR CBMO010000165.1/28-1542 PP **************************************************
+#=GC PP_cons                    **************************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+CBMO010000165.1/28-1542         GAAUAUUGCACAAUGGGCGCAAGCCUGAUGCAGCGACGCCGCGUGAGGGA
+#=GR CBMO010000165.1/28-1542 PP **************************************************
+#=GC PP_cons                    **************************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+CBMO010000165.1/28-1542         UGACGGCCUUCGGGUUGUAAACCUCUUUCAAUAGGGACGAAGCGCAAGUG
+#=GR CBMO010000165.1/28-1542 PP ****************************************98876667**
+#=GC PP_cons                    ****************************************98876667**
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+CBMO010000165.1/28-1542         ACGGUACCUAUAGAAGAAGGACCGGCCAACUACGUGCCAGCAGCCGCGGU
+#=GR CBMO010000165.1/28-1542 PP **************************************************
+#=GC PP_cons                    **************************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+CBMO010000165.1/28-1542         AAUACGUAGGGUCCGAGCGUUGUCCGGAAUUACUGGGCGUAAAGAGCUCG
+#=GR CBMO010000165.1/28-1542 PP **************************************************
+#=GC PP_cons                    **************************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+CBMO010000165.1/28-1542         UAGGUGGUUUGUCGCGUUGUUCGUGAAAACUCACAGCUUAACUGUGGGCG
+#=GR CBMO010000165.1/28-1542 PP **************************************************
+#=GC PP_cons                    **************************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+CBMO010000165.1/28-1542         UGCGGGCGAUACGGGCAGACUAGAGUACUGCAGGGGAGACUGGAAUUCCU
+#=GR CBMO010000165.1/28-1542 PP **************************************************
+#=GC PP_cons                    **************************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+CBMO010000165.1/28-1542         GGUGUAGCGGUGGAAUGCGCAGAUAUCAGGAGGAACACCGGUGGCGAAGG
+#=GR CBMO010000165.1/28-1542 PP **************************************************
+#=GC PP_cons                    **************************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+CBMO010000165.1/28-1542         CGGGUCUCUGGGCAGUAACUGACGCUGAGGAGCGAAAGCGUGGGGAGCGA
+#=GR CBMO010000165.1/28-1542 PP **************************************************
+#=GC PP_cons                    **************************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+CBMO010000165.1/28-1542         ACAGGAUUAGAUACCCUGGUAGUCCACGCCGUAAACGGUGGGUACUAGGU
+#=GR CBMO010000165.1/28-1542 PP **************************************************
+#=GC PP_cons                    **************************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+CBMO010000165.1/28-1542         GUGGGUUUCCUUCcUUGGGAUCCGUGCCGUAGCUAACGCAUUAAGUACCC
+#=GR CBMO010000165.1/28-1542 PP ***9998876655145667899****************************
+#=GC PP_cons                    ***9998876655.45667899****************************
+#=GC RF                         xxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+CBMO010000165.1/28-1542         CGCCUGGGGAGUACGGCCGCAAGGCUAAAACUCAAAGAAAUUGACGGGGG
+#=GR CBMO010000165.1/28-1542 PP **************************************************
+#=GC PP_cons                    **************************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+CBMO010000165.1/28-1542         CCCGCACAAGCGGCGGAGCAUGUGGAUUAAUUCGAUGCAACGCGAAGAAC
+#=GR CBMO010000165.1/28-1542 PP **************************************************
+#=GC PP_cons                    **************************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+CBMO010000165.1/28-1542         CUUACCUGGGUUUGACAUGCACAGgACGCCAGUAGAGAUAUUGGUUCCCU
+#=GR CBMO010000165.1/28-1542 PP *******************8877758889999******998876654444
+#=GC PP_cons                    *******************88777.8889999******998876654444
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxx
+
+CBMO010000165.1/28-1542         UGUGGCCUGUGUGCAGGUGGUGCAUGGCUGUCGUCAGCUCGUGUCGUGAG
+#=GR CBMO010000165.1/28-1542 PP 4444345555578*************************************
+#=GC PP_cons                    4444345555578*************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+CBMO010000165.1/28-1542         AUGUUGGGUUAAGUCCCGCAACGAGCGCAACCCUUGUCUCAUGUUGCCAG
+#=GR CBMO010000165.1/28-1542 PP **************************************************
+#=GC PP_cons                    **************************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+CBMO010000165.1/28-1542         CAcGUAAUGGUGGGGACUCGUGAGAGACUGCCGGGGUCAACUCGGAGGAA
+#=GR CBMO010000165.1/28-1542 PP **************************************************
+#=GC PP_cons                    **.***********************************************
+#=GC RF                         xx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+CBMO010000165.1/28-1542         GGUGGGGAUGACGUCAAGUCAUCAUGCCCCUUAUGUCCAGGGCUUCACAC
+#=GR CBMO010000165.1/28-1542 PP **************************************************
+#=GC PP_cons                    **************************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+CBMO010000165.1/28-1542         AUGCUACAAUGGCCGGUACAAAGGGCUGCGAUGCCGUGAGGUGGAGCGAA
+#=GR CBMO010000165.1/28-1542 PP **************************************************
+#=GC PP_cons                    **************************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+CBMO010000165.1/28-1542         UCCUuUCAAAGCCGGUCUCAGUUCGGAUCGGGGUCUGCAACUCGACCCCG
+#=GR CBMO010000165.1/28-1542 PP *87526799*****************************************
+#=GC PP_cons                    *875.6799*****************************************
+#=GC RF                         xxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+CBMO010000165.1/28-1542         UGAAGUCGGAGUCGCUAGUAAUCGCAGAUCAGCaACGCUGCGGUGAAUAC
+#=GR CBMO010000165.1/28-1542 PP *********************************99***************
+#=GC PP_cons                    *********************************.9***************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxx
+
+CBMO010000165.1/28-1542         GUUCCCGGGCCUUGUACACACCGCCCGUCACGUCAUGAAAGUCGGUAACA
+#=GR CBMO010000165.1/28-1542 PP **************************************************
+#=GC PP_cons                    **************************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+CBMO010000165.1/28-1542         CCCGAAGCCGGUGGCCUAACCcUUGUGGAGGGAGCCGUCGAAGGUGGGAU
+#=GR CBMO010000165.1/28-1542 PP *******************9989999************************
+#=GC PP_cons                    *******************99.9999************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+CBMO010000165.1/28-1542         CGGCGAUUGGGACGAAGUCGUAACAAGGUAGCCGUACCGGAAGGUGCGGC
+#=GR CBMO010000165.1/28-1542 PP **************************************************
+#=GC PP_cons                    **************************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+CBMO010000165.1/28-1542         UGGAUCACCUCCUUU
+#=GR CBMO010000165.1/28-1542 PP ************985
+#=GC PP_cons                    ************985
+#=GC RF                         xxxxxxxxxxxxxxx
+//

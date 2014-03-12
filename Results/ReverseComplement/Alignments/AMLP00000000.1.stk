@@ -1,0 +1,159 @@
+# STOCKHOLM 1.0
+
+#=GS AMLP01000299.1/235-1756 DE [subseq from] Streptomyces viridochromogenes Tue57 Seq299, whole genome shotgun sequence.
+
+AMLP01000299.1/235-1756         CGGAGAGUUUGAUCCUGGCUCAGGACGAACGCUGGCGGCGUGCUUAACAC
+#=GR AMLP01000299.1/235-1756 PP 689***********************************************
+#=GC PP_cons                    689***********************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AMLP01000299.1/235-1756         AUGCAAGUCGAACGAUGAACCACUUCGGUGGGGAUUAGUGGCGAACGGGU
+#=GR AMLP01000299.1/235-1756 PP **************6644444444455556666799**************
+#=GC PP_cons                    **************6644444444455556666799**************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AMLP01000299.1/235-1756         GAGUAACACGUGGGCAAUCUGCCCUUCACUCUGGGACAAGCCCUGGAAAC
+#=GR AMLP01000299.1/235-1756 PP **************************************************
+#=GC PP_cons                    **************************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AMLP01000299.1/235-1756         GGGGUCUAAUACCGGAUAUCacuCUCAUGGGCAUCUGUGAGGGUUGAAAG
+#=GR AMLP01000299.1/235-1756 PP *****************998422222233344444555555555688888
+#=GC PP_cons                    *****************998...222233344444555555555688888
+#=GC RF                         xxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AMLP01000299.1/235-1756         CUCCGGCGGUGAAGGAUGAGCCCGCGGCCUAUCAGCUUGUUGGUGAGGUA
+#=GR AMLP01000299.1/235-1756 PP 778899********************************************
+#=GC PP_cons                    778899********************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AMLP01000299.1/235-1756         ACGGCUCACCAAGGCGACGACGGGUAGCCGGCCUGAGAGGGCGACCGGCC
+#=GR AMLP01000299.1/235-1756 PP **************************************************
+#=GC PP_cons                    **************************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AMLP01000299.1/235-1756         ACACUGGGACUGAGACACGGCCCAGACUCCUACGGGAGGCAGCAGUGGGG
+#=GR AMLP01000299.1/235-1756 PP **************************************************
+#=GC PP_cons                    **************************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AMLP01000299.1/235-1756         AAUAUUGCACAAUGGGCGAAAGCCUGAUGCAGCGACGCCGCGUGAGGGAU
+#=GR AMLP01000299.1/235-1756 PP **************************************************
+#=GC PP_cons                    **************************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AMLP01000299.1/235-1756         GACGGCCUUCGGGUUGUAAACCUCUUUCAGCAGGGAAGAAGCGAAAGUGA
+#=GR AMLP01000299.1/235-1756 PP ***************************************98776667***
+#=GC PP_cons                    ***************************************98776667***
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AMLP01000299.1/235-1756         CGGUACCUGCAGAAGAAGCGCCGGCUAACUACGUGCCAGCAGCCGCGGUA
+#=GR AMLP01000299.1/235-1756 PP **************************************************
+#=GC PP_cons                    **************************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AMLP01000299.1/235-1756         AUACGUAGGGCGCAAGCGUUGUCCGGAAUUAUUGGGCGUAAAGAGCUCGU
+#=GR AMLP01000299.1/235-1756 PP **************************************************
+#=GC PP_cons                    **************************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AMLP01000299.1/235-1756         AGGCGGCUUGUCACGUCGGGUGUGAAAGCCCGGGGCUUAACCCCGGGUCU
+#=GR AMLP01000299.1/235-1756 PP **************************************************
+#=GC PP_cons                    **************************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AMLP01000299.1/235-1756         GCAUUCGAUACGGGCUAGCUAGAGUGUGGUAGGGGAGAUCGGAAUUCCUG
+#=GR AMLP01000299.1/235-1756 PP **************************************************
+#=GC PP_cons                    **************************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AMLP01000299.1/235-1756         GUGUAGCGGUGAAAUGCGCAGAUAUCAGGAGGAACACCGGUGGCGAAGGC
+#=GR AMLP01000299.1/235-1756 PP **************************************************
+#=GC PP_cons                    **************************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AMLP01000299.1/235-1756         GGAUCUCUGGGCCAUUACUGACGCUGAGGAGCGAAAGCGUGGGGAGCGAA
+#=GR AMLP01000299.1/235-1756 PP **************************************************
+#=GC PP_cons                    **************************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AMLP01000299.1/235-1756         CAGGAUUAGAUACCCUGGUAGUCCACGCCGUAAACGGUGGGAACUAGGUG
+#=GR AMLP01000299.1/235-1756 PP **************************************************
+#=GC PP_cons                    **************************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AMLP01000299.1/235-1756         UUGGCGACAUUcCACGUCGUCGGUGCCGCAGCUAACGCAUUAAGUUCCCC
+#=GR AMLP01000299.1/235-1756 PP ****998865516678899*******************************
+#=GC PP_cons                    ****9988655.6678899*******************************
+#=GC RF                         xxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AMLP01000299.1/235-1756         GCCUGGGGAGUACGGCCGCAAGGCUAAAACUCAAAGGAAUUGACGGGGGC
+#=GR AMLP01000299.1/235-1756 PP **************************************************
+#=GC PP_cons                    **************************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AMLP01000299.1/235-1756         CCGCACAAGCAGCGGAGCAUGUGGCUUAAUUCGACGCAACGCGAAGAACC
+#=GR AMLP01000299.1/235-1756 PP **************************************************
+#=GC PP_cons                    **************************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AMLP01000299.1/235-1756         UUACCAAGGCUUGACAUACACCGgAAACAUCCAGAGAUGGGUGCCCCCUU
+#=GR AMLP01000299.1/235-1756 PP *****************977666599999********9988776644444
+#=GC PP_cons                    *****************977666.99999********9988776644444
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AMLP01000299.1/235-1756         GUGGUCGGUGUACAGGUGGUGCAUGGCUGUCGUCAGCUCGUGUCGUGAGA
+#=GR AMLP01000299.1/235-1756 PP 43334445568***************************************
+#=GC PP_cons                    43334445568***************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AMLP01000299.1/235-1756         UGUUGGGUUAAGUCCCGCAACGAGCGCAACCCUUGUCCUGUGUUGCCAGC
+#=GR AMLP01000299.1/235-1756 PP *************************************************9
+#=GC PP_cons                    *************************************************9
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AMLP01000299.1/235-1756         AUGCccuucgggGUGAUGGGGACUCACAGGAGACCGCCGGGGUCAACUCG
+#=GR AMLP01000299.1/235-1756 PP 9543111111113456899*******************************
+#=GC PP_cons                    9543........3456899*******************************
+#=GC RF                         xxxx........xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AMLP01000299.1/235-1756         GAGGAAGGUGGGGACGACGUCAAGUCAUCAUGCCCCUUAUGUCUUGGGCU
+#=GR AMLP01000299.1/235-1756 PP **************************************************
+#=GC PP_cons                    **************************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AMLP01000299.1/235-1756         GCACACGUGCUACAAUGGCCGGUACAAUGAGCUGCGAAACCGUGAGGUGG
+#=GR AMLP01000299.1/235-1756 PP **************************************************
+#=GC PP_cons                    **************************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AMLP01000299.1/235-1756         AGCGAAUCUCAAAAAGCCGGUCUCAGUUCGGAUUGGGGUCUGCAACUCGA
+#=GR AMLP01000299.1/235-1756 PP **************************************************
+#=GC PP_cons                    **************************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AMLP01000299.1/235-1756         CCCCAUGAAGUCGGAGUUGCUAGUAAUCGCAGAUCAGCaUUGCUGCGGUG
+#=GR AMLP01000299.1/235-1756 PP **************************************557*********
+#=GC PP_cons                    **************************************.57*********
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxx
+
+AMLP01000299.1/235-1756         AAUACGUUCCCGGGCCUUGUACACACCGCCCGUCACGUCACGAAAGUCGG
+#=GR AMLP01000299.1/235-1756 PP **************************************************
+#=GC PP_cons                    **************************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AMLP01000299.1/235-1756         UAACACCCGAAGCCGGUGGCCCAACCccuUGUGGGAGGGAGCUGUCGAAG
+#=GR AMLP01000299.1/235-1756 PP *************************977777899****************
+#=GC PP_cons                    *************************9...77899****************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxx
+
+AMLP01000299.1/235-1756         GUGGGACUGGCGAUUGGGACGAAGUCGUAACAAGGUAGCCGUACCGGAAG
+#=GR AMLP01000299.1/235-1756 PP **************************************************
+#=GC PP_cons                    **************************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AMLP01000299.1/235-1756         GUGCGGCUGGAUCACCUCCUUU
+#=GR AMLP01000299.1/235-1756 PP *******************985
+#=GC PP_cons                    *******************985
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxx
+//

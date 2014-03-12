@@ -1,0 +1,292 @@
+# hmmsearch :: search profile(s) against a sequence database
+# HMMER 3.0 (March 2010); http://hmmer.org/
+# Copyright (C) 2010 Howard Hughes Medical Institute.
+# Freely distributed under the GNU General Public License (GPLv3).
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query HMM file:                  SSU.hmm
+# target sequence database:        ../No16SGenomes/ForwardComplement/ANGC00000000.1.fna
+# output directed to file:         hmmHumanResultsANGC00000000.1.fna.txt
+# MSA of all hits saved to file:   hmmAlignANGC00000000.1.fna.stk
+# per-seq hits tabular output:     hmmResultsANGC00000000.1.fna.tsv
+# prefer accessions over names:    yes
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       bacteria16S_508_mod5  [M=1537]
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence       Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------       -----------
+          0 1542.0  23.9          0 1541.8  16.5    1.0  1  ANGC01000111.1 Rhodococcus ruber Chol-4 contig00111, whole g
+   3.5e-203  671.5   0.1   3.9e-203  671.3   0.1    1.0  1  ANGC01000134.1 Rhodococcus ruber Chol-4 contig00134, whole g
+   5.4e-181  597.9   5.2   6.8e-181  597.6   3.6    1.0  1  ANGC01000119.1 Rhodococcus ruber Chol-4 contig00119, whole g
+
+
+Domain annotation for each sequence (and alignments):
+>> ANGC01000111.1  Rhodococcus ruber Chol-4 contig00111, whole genome shotgun sequence.
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ! 1541.8  16.5         0         0       4    1537 .]      91    1610 ..      88    1610 .. 0.97
+
+  Alignments for each domain:
+  == domain 1    score: 1541.8 bits;  conditional E-value: 0
+                            :::::<<<<<_______>>>>>,{{{{-{{{{{{,{{{{{{{{{----{{{-{{{,,<<<--<<<...................... CS
+                            augaAGaGuuUGAUccUggCuCAGgacGaaCGCuGGCGGCguGCuUAAcaCAuGCAAGuCGAgCg...................... RF
+  bacteria16S_508_mod5    4 auggagaguuugauccuggcucagaaugaacgcuggcggcgugccuaacacaugcaagucgaacgguaaaag.gagcuugcuauuuu 89  
+                            a ggagaguuugauccuggcucag+a+gaacgcuggcggcgugc+uaacacaugcaagucgaacg u aa    agcuugcu   +u
+        ANGC01000111.1   91 ACGGAGAGUUUGAUCCUGGCUCAGGACGAACGCUGGCGGCGUGCUUAACACAUGCAAGUCGAACGAUGAAGCcCAGCUUGCU-GGGU 176 
+                            6789*************************************************************98774440444555544.4455 PP
+
+                            .....>>>>>>,,,,,,[[[,,,,,,((((((((--((---(((((((,<<<<----<<<<<<<____>>>>>>>----->>>>,,, CS
+                            .....cGcGgCGgAcGGGuGAGUAAuacgcgGGuAAccUgcCccagaGagcGGgAuAaCgcccgGAAAcgggcGuUAAUACCgcAUA RF
+  bacteria16S_508_mod5   90 gggugaguggcggacgggugaguaacgcguggguaaucugccuuuuagugggggauaacuuuuggaaacgguggcuaauaccgcaua 176 
+                            gg u+aguggcg+acgggugaguaac+cgugggu aucugcc+u  a u  gggauaa ++u+ggaaac+g+g cuaauaccg+aua
+        ANGC01000111.1  177 GGAUUAGUGGCGAACGGGUGAGUAACACGUGGGUGAUCUGCCCUGCACUUCGGGAUAAGCCUGGGAAACUGGGUCUAAUACCGGAUA 263 
+                            66699********************************************************************************** PP
+
+                            ,,.<<<<<<<<<____>>>>>>>>>..,,,,<<...........>>,)))))))--))))))))))<<<--<-<<<--<<<<<<<<_ CS
+                            au.aaaaaaacCaaaaGguuuuuuu..gAAAGa...........uCgCucuggGAuggaCCcgcgucggAUaAGCuAGuuGGuggGG RF
+  bacteria16S_508_mod5  177 ag.uuuuuuaucgcaugguuuuuua..gaaagauggggagccuuucgcuauaggaugggcccgcgucggauuagcuaguuggugggg 260 
+                             g + u + +  gcaug u    ++  gaaag+u       +uu cg u  aggaugggcccgcg c++au agcu guuggugggg
+        ANGC01000111.1  264 GGaCCUCGGGAUGCAUGUUCCGGGGugGAAAGGU-------UUUCCGGUGCAGGAUGGGCCCGCGGCCUAUCAGCUUGUUGGUGGGG 343 
+                            *965566666667777766654444459999987.......9999****************************************** PP
+
+                            ______>>>>>>>>>>>----->>>>,,<<<<<<<<____>>>>--->>>>]]],<<<<<<__________>>>>>>,<<<<____> CS
+                            UAAagGCccaCCaagGCgAcGAuccgUAGCcGgcCuGAGAgGgcGAuCgGCCaCAcuGGgccUGAGAcAcGgcCCagACuCCUAcGG RF
+  bacteria16S_508_mod5  261 uaauggcuuaccaaggcgacgauccguagcuggucugagaggaugaucagccacacugggacugagacacggcccagacuccuacgg 347 
+                            uaa+ggc++accaaggcgacga ++guagc+gg+cugagagg+ ga c+gccacacugggacugagacacggcccagacuccuacgg
+        ANGC01000111.1  344 UAACGGCCCACCAAGGCGACGACGGGUAGCCGGCCUGAGAGGGCGACCGGCCACACUGGGACUGAGACACGGCCCAGACUCCUACGG 430 
+                            *************************************************************************************** PP
+
+                            >>>,,,}}}}}}-},,,,,<-<<<--<<<<<<____>>>>>>>>>>,}}-}}}}}},,<<<<------<<<<____>>>>----->> CS
+                            GaGGcAGCaGuggGGAAUauUgcacAuugGGcGaAAgCCugaugcaGCaAcGCCGCGUGaGcGAaGAAggccuucGggucGUAAAgC RF
+  bacteria16S_508_mod5  348 gaggcagcaguggggaauauugcacaaugggcgaaagccugaugcagcaaugccgcgugagugaugaaggccuucggguuguaaagc 434 
+                            gaggcagcaguggggaauauugcacaaugggcg aagccugaugcagc a+gccgcgugag gauga ggccuucggguuguaaa c
+        ANGC01000111.1  431 GAGGCAGCAGUGGGGAAUAUUGCACAAUGGGCGCAAGCCUGAUGCAGCGACGCCGCGUGAGGGAUGACGGCCUUCGGGUUGUAAACC 517 
+                            *************************************************************************************** PP
+
+                            >>,<--<<<<<<---<-......................___>---->>>>>>-->,,,<<<<<------<<<<<-----<<____> CS
+                            uCUcUuagcgggGAaGA......................uGACGgUAcccgcugAgaAAGcccCGGcuAACuccGUGccAGCAGccG RF
+  bacteria16S_508_mod5  435 ucuuuuauuagggaagaagagauuauuaauauuuuuuauugacgguaccugaagaagaagcaccggcuaacuacgugccagcagccg 521 
+                            ucuuu+a ua  ga gaag g                a ugacggua  u+ agaagaagcaccggc aacuacgugccagcagccg
+        ANGC01000111.1  518 UCUUUCAGUACCGACGAAGCGC--------------AAGUGACGGUAGGUACAGAAGAAGCACCGGCCAACUACGUGCCAGCAGCCG 590 
+                            *****************98876..............667************************************************ PP
+
+                            >------->>>>>>>>>>,}}}}}}}}}},,,,,,,,,,{{{-----{,[[[[-[-[[[,<<<<<<<-<<<<<<<<<<<----<<<< CS
+                            CGGUAAUACggaGGgggCaaGCGuugucCGGAAUuAcUGGGCGUAAAGaGcgCGcAgGcGGcccgccAaGucggguGcgAAAuuccc RF
+  bacteria16S_508_mod5  522 cgguaauacguagggugcaagcguuauucggaauuacugggcguaaagcgcgcguaggcgguuuguuaagucagaugugaaauccca 608 
+                            cgguaauacguagggugc+agcguu+u+cggaauuacugggcguaaag gc cguaggcgguuugu   guc   ugugaaa ccc+
+        ANGC01000111.1  591 CGGUAAUACGUAGGGUGCGAGCGUUGUCCGGAAUUACUGGGCGUAAAGAGCUCGUAGGCGGUUUGUCGCGUCGUCUGUGAAAACCCG 677 
+                            *************************************************************************************** PP
+
+                            <<<_____>>>>>>>-.>>>>>>>>>-->>>>>>>>>,,,(((((((((--(((((((<<--<<<<<<<<---<<<______>>>-- CS
+                            ggGcUuAACccgggaAacgCacccgaaACuggcgggCUaGaGuacgggcGAgGggggcggAAcucCcgguGUAGcgGUGAAAugCGu RF
+  bacteria16S_508_mod5  609 gggcucaaccuuggaacugcauuugaaacugguagacuagagugugguagaggaaaguggaauuccagguguagcggugaaaugcgu 695 
+                              gcucaac+  gg  +ugca   ga+ac gg+agacu+gagu++ g ag gga+a uggaauucc+gguguagcggugaaaugcg 
+        ANGC01000111.1  678 CAGCUCAACUGCGGGCUUGCAGGCGAUACGGGCAGACUUGAGUACUGCAGGGGAGACUGGAAUUCCUGGUGUAGCGGUGAAAUGCGC 764 
+                            *************************************************************************************** PP
+
+                            ---->>>>>>>>-->>,,,,<--<<____>>>)))))))-)))))-)))),,,]]]]--]]]],,,,<<<<<<---<<---<<<<__ CS
+                            AGAuaucgGgagGAacAccAguGGCGAAGGCcgccccCuGgcccgauaCuGAcgCugAgGcgCGAAAGCguGGGgAgCAAACaGGAU RF
+  bacteria16S_508_mod5  696 agauaucuggaggaacaccaguggcgaaggcggcuuucuggacuguuacugacgcugaggcgcgaaagcguggggagcaaacaggau 782 
+                            agauauc+ggaggaacacc+guggcgaaggcgg u+ucugg+c gu+acugacgcugagg gcgaaagcguggg agc aacaggau
+        ANGC01000111.1  765 AGAUAUCAGGAGGAACACCGGUGGCGAAGGCGGGUCUCUGGGCAGUAACUGACGCUGAGGAGCGAAAGCGUGGGUAGCGAACAGGAU 851 
+                            *************************************************************************************** PP
+
+                            _______>>>>--->>>>>>>>,,,,,,,,,,((((((,,<<<<<<<<<<...........>>>>>>>>>>,,,<<____>>,,,,, CS
+                            UAGAUAcCCuGGUAGcCCacGCcgUAAAcGAUGagcgCUAGgcgccgggg...........ccucggcgcCGaAGCUAAcGCauuAA RF
+  bacteria16S_508_mod5  783 uagauacccugguaguccacgccguaaacgaugaguacuagguguuggggguuu.ugaccccuucagugccgcagcuaacgcauuaa 868 
+                            uagauacccugguaguccacgccguaaacg ug g +cuaggugu gg   ++u   ac+   uc gugccg+agcuaacgcauuaa
+        ANGC01000111.1  852 UAGAUACCCUGGUAGUCCACGCCGUAAACGGUGGGCGCUAGGUGUGGGUUUCCUuCCACGGGAUCCGUGCCGUAGCUAACGCAUUAA 938 
+                            **********************************************99988755056677889************************ PP
+
+                            ))))))}}}},<<<------<<<<____>>>>---->>>,,,,,,,,{{{{{-{{{{{{{-{{,,{{{{{{{{{{{{{{{{{,,,,< CS
+                            GcgcuCCGCCUGgGgAgUAcggcCGcAAGgcuaAAACuCAAAgGAAUuGaCgGgGgCCCGcaCAAGCGguGgaGcacGuGGuUUAAu RF
+  bacteria16S_508_mod5  869 guauuccgccuggggaguacggccgcaagguuaaaacucaaaggaauugacgggggcccgcacaagcgguggagcaugugguuuaau 955 
+                            g+ + ccgccuggggaguacggccgcaagg uaaaacucaaaggaauugacgggggcccgcacaagcgg ggagcaugugg uuaau
+        ANGC01000111.1  939 GCGCCCCGCCUGGGGAGUACGGCCGCAAGGCUAAAACUCAAAGGAAUUGACGGGGGCCCGCACAAGCGGCGGAGCAUGUGGAUUAAU 1025
+                            *************************************************************************************** PP
+
+                            <<<________>>>>,,,,,,,,{{{{{{{,,,,,<<<<<<<<.--<<<<<<<____>>>>>>>.............>>>>>->>>, CS
+                            uCGAaGcAAcGCGaagAAccUUACCuggccUUGAcguccccgg.AAcaccccagAgAuggggug.............ccgggagacA RF
+  bacteria16S_508_mod5  956 ucgaugcaacgcgaagaaccuuaccuggucuugacauccuggg.aauuuucuagagauaggguagugccuucgggaacuuugagaca 1041
+                            ucgaugcaacgcgaagaaccuuaccugg+ uugacau c+  g a + ++c+agagau+gggu++ +c+u  gg    +++   aca
+        ANGC01000111.1 1026 UCGAUGCAACGCGAAGAACCUUACCUGGGUUUGACAUACACCGgACCGCCCCAGAGAUGGGGUUUCCCUUGUGG--U-CGGUGUACA 1109
+                            **************************************7776658999999*******9988766544444433..4.445568*** PP
+
+                            [[-[[[[--[[[[[[[[[,,,((((((<<<____>>>,,<<<<______>>>>,,)))))),,,,,((((,<<<<<<<---<<--<< CS
+                            GGUGcugcAuGgcuGuCGUcAGCuCGugucGUGAgauGUugGGUUAAGUCCcgcAaCGaGCGcAAcCCccaccccuagUUgCcAgCa RF
+  bacteria16S_508_mod5 1042 ggugcugcauggcugucgucagcucgugucgugagauguuggguuaagucccgcaacgagcgcaacccuuguccuuaguugccagca 1128
+                            ggug+ugcauggcugucgucagcucgugucgugagauguuggguuaagucccgcaacgagcgcaacccuuguccu  guugccagca
+        ANGC01000111.1 1110 GGUGGUGCAUGGCUGUCGUCAGCUCGUGUCGUGAGAUGUUGGGUUAAGUCCCGCAACGAGCGCAACCCUUGUCCUGUGUUGCCAGCA 1196
+                            *************************************************************************************** PP
+
+                            ........>>>>---->>>>>>>,,<<<<<<<<_____>>>>>>>>,,,,,)))),,,,]]]]-]]]---]]]]]]]],,,,}}}}} CS
+                            ........uGgGaAcUcuagggggACcgCCggugAuAAaccGGagGAAGGuggGGAuGACGuCAagucAuCauggCCCUUAuggcca RF
+  bacteria16S_508_mod5 1129 .guaagggugggcacucuaaggagacugccggugauaaaccggaggaagguggggaugacgucaagucaucauggcccuuaugacca 1214
+                             guaa+gguggg acuc  aggagacugccgg g +aa  cggaggaaggugggga gacgucaagucaucaug+cccuuaug+cca
+        ANGC01000111.1 1197 cGUAAUGGUGGGGACUCGCAGGAGACUGCCGGGGUCAACUCGGAGGAAGGUGGGGACGACGUCAAGUCAUCAUGCCCCUUAUGUCCA 1283
+                            *************************************************************************************** PP
+
+                            }},,,}}-}}}}}}}}}},,,<<<<<<<-----<<<--<<---<<<____>>>--->>---->>>----->>>>>>>,,,,,,<--- CS
+                            GGGcuaCACaCgugCuaCAAUGgccgguAcAaaGgGuaGCaAacccGcGAgggggAGCuAAuCcCaaAAAaccggcCuuAGUuCgGA RF
+  bacteria16S_508_mod5 1215 gggcuacacacgugcuacaauggccgguacaaaggguagcgaaaccgcgagguggagcuaaucucauaaagccggucucaguucgga 1301
+                            gggcu cacac ugcuacaauggccgguaca+aggg++gcga accgcgagguggagc aauc+c+uaaagccggucucaguucgga
+        ANGC01000111.1 1284 GGGCUUCACACAUGCUACAAUGGCCGGUACAGAGGGCUGCGAUACCGCGAGGUGGAGCGAAUCCCUUAAAGCCGGUCUCAGUUCGGA 1370
+                            *************************************************************************************** PP
+
+                            <<<<<<<<________>>>>>>>>--->,,,,,}}}}},,,,,<<<<<<<<_____.__>>>>>>>>,,,,,,}}---}}}}}}}}} CS
+                            auGcaggCUGcAAcucGccugCauGAAGuuGGAauCGCUAGUAacCGcgguUcAGa.AuaccgCGguGAAUAcGuUccCGGGcCuuG RF
+  bacteria16S_508_mod5 1302 uuguagucugcaacucgacuccaugaagucggaaucgcuaguaaucgcggaucagc.augccgcggugaauacguucccgggccuug 1387
+                            u g+ gucugcaacucgac cc ugaagucgga ucgcuaguaaucgc+gaucagc a gc+gcggugaauacguucccgggccuug
+        ANGC01000111.1 1371 UCGGGGUCUGCAACUCGACCCCGUGAAGUCGGAGUCGCUAGUAAUCGCAGAUCAGCaACGCUGCGGUGAAUACGUUCCCGGGCCUUG 1457
+                            ********************************************************99***************************** PP
+
+                            }-}},,<-<<-<<-<-<<<<<<<<--<<<<<<<<<<<<----<<<<<<.......................>>>>>>--->>>>>>> CS
+                            uACacACcGccCGUCACaCCccgggAgccgguuacaccagAAGucggc.......................gccgaCuAagguguaa RF
+  bacteria16S_508_mod5 1388 uacacaccgcccgucacaccaugggaguugguuacacccgaagucggugggcuaacc...uuaaggagggagcuguccaagguggga 1471
+                            uacacaccgcccgucac  caug+ agu ggu+acacccgaag+cggugg+cuaacc     ++ggagggagc+guc aagguggga
+        ANGC01000111.1 1458 UACACACCGCCCGUCACGUCAUGAAAGUCGGUAACACCCGAAGCCGGUGGCCUAACCccuCGUGGGAGGGAGCCGUCGAAGGUGGGA 1544
+                            ********************************************************976666789********************** PP
+
+                            >>>>>-->>>>>>>>-->->>-->>-->,<<<<<<<<<<____>>>>>>>>>>::::::::::::: CS
+                            ccggcgAcuggGGuGAAGUCGUAgCAAGGuaGCCGuagggGAAccugCGGCugGAUcAccUccUUu RF
+  bacteria16S_508_mod5 1472 uugaugacuggggugaagucguaacaagguagccguaggggaacgugcggcuggaucaccuccuuu 1537
+                            u+g+ ga+uggg  gaagucguaacaagguagccgua++ggaa+gugcggcuggaucaccuccuuu
+        ANGC01000111.1 1545 UCGGCGAUUGGGACGAAGUCGUAACAAGGUAGCCGUACCGGAAGGUGCGGCUGGAUCACCUCCUUU 1610
+                            ***************************************************************985 PP
+
+>> ANGC01000134.1  Rhodococcus ruber Chol-4 contig00134, whole genome shotgun sequence.
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  671.3   0.1  7.4e-205  3.9e-203     928    1531 ..       1     603 []       1     603 [] 0.98
+
+  Alignments for each domain:
+  == domain 1    score: 671.3 bits;  conditional E-value: 7.4e-205
+                            {-{{,,{{{{{{{{{{{{{{{{{,,,,<<<<________>>>>,,,,,,,,{{{{{{{,,,,,<<<<<<<<.--<<<<<<<____>> CS
+                            GcaCAAGCGguGgaGcacGuGGuUUAAuuCGAaGcAAcGCGaagAAccUUACCuggccUUGAcguccccgg.AAcaccccagAgAug RF
+  bacteria16S_508_mod5  928 gcacaagcgguggagcaugugguuuaauucgaugcaacgcgaagaaccuuaccuggucuugacauccuggg.aauuuucuagagaua 1013
+                            gcacaagcgguggagcaugugguuuaauucga+gcaacgcgaagaaccuuacc+ggucuugacau cu g     u+++uagagaua
+        ANGC01000134.1    1 GCACAAGCGGUGGAGCAUGUGGUUUAAUUCGAAGCAACGCGAAGAACCUUACCAGGUCUUGACAUACUCGUgCUAUCCUUAGAGAUA 87  
+                            79***************************************************************966554377888999*****99 PP
+
+                            >>>>>.............>>>>>->>>,[[-[[[[--[[[[[[[[[,,,((((((<<<____>>>,,<<<<______>>>>,,)))) CS
+                            gggug.............ccgggagacAGGUGcugcAuGgcuGuCGUcAGCuCGugucGUGAgauGUugGGUUAAGUCCcgcAaCGa RF
+  bacteria16S_508_mod5 1014 ggguagugccuucgggaacuuugagacaggugcugcauggcugucgucagcucgugucgugagauguuggguuaagucccgcaacga 1100
+                             gg  gu ccuucggga  +++ga acaggug+ugcaugg+ugucgucagcucgugucgugagauguuggguuaagucccgcaacga
+        ANGC01000134.1   88 AGGA-GUUCCUUCGGGACACGGGAUACAGGUGGUGCAUGGUUGUCGUCAGCUCGUGUCGUGAGAUGUUGGGUUAAGUCCCGCAACGA 173 
+                            8765.56689999************************************************************************** PP
+
+                            )),,,,,((((,<<<<<<<---<<--<<.......>>>>---->>>>>>>,,<<<<<<<<_____>>>>>>>>,,,,,)))),,,,] CS
+                            GCGcAAcCCccaccccuagUUgCcAgCa.......uGgGaAcUcuagggggACcgCCggugAuAAaccGGagGAAGGuggGGAuGAC RF
+  bacteria16S_508_mod5 1101 gcgcaacccuuguccuuaguugccagcaguaagggugggcacucuaaggagacugccggugauaaaccggaggaagguggggaugac 1187
+                            gcgcaacccuu+u   uaguugcca+ca+uaag+ ugggcacucua+ gagacugccggugauaaaccggaggaagguggggaugac
+        ANGC01000134.1  174 GCGCAACCCUUAUUACUAGUUGCCAUCAUUAAGU-UGGGCACUCUAGUGAGACUGCCGGUGAUAAACCGGAGGAAGGUGGGGAUGAC 259 
+                            ****************************999999.**************************************************** PP
+
+                            ]]]-]]]---]]]]]]]],,,,}}}}}}},,,}}-}}}}}}}}}},,,<<<<<<<-----<<<--<<---<<<____>>>--->>-- CS
+                            GuCAagucAuCauggCCCUUAuggccaGGGcuaCACaCgugCuaCAAUGgccgguAcAaaGgGuaGCaAacccGcGAgggggAGCuA RF
+  bacteria16S_508_mod5 1188 gucaagucaucauggcccuuaugaccagggcuacacacgugcuacaauggccgguacaaaggguagcgaaaccgcgagguggagcua 1274
+                            gucaa+ucaucaug+cccuuaugacc+gggcuacacacgugcuacaaugg +gguacaa g+gu gc aa+ccgcgagg++g gcua
+        ANGC01000134.1  260 GUCAAAUCAUCAUGCCCCUUAUGACCUGGGCUACACACGUGCUACAAUGGAUGGUACAACGAGUCGCCAACCCGCGAGGGUGCGCUA 346 
+                            *************************************************************************************** PP
+
+                            -->>>----->>>>>>>,,,,,,<---<<<<<<<<________>>>>>>>>--->,,,,,}}}}},,,,,<<<<<<<<_______>> CS
+                            AuCcCaaAAAaccggcCuuAGUuCgGAauGcaggCUGcAAcucGccugCauGAAGuuGGAauCGCUAGUAacCGcgguUcAGaAuac RF
+  bacteria16S_508_mod5 1275 aucucauaaagccggucucaguucggauuguagucugcaacucgacuccaugaagucggaaucgcuaguaaucgcggaucagcaugc 1361
+                            aucuc+uaaa+cc  ucucaguucggauug ag cugcaacucg cu+caugaagucggaaucgcuaguaaucgcggaucagca gc
+        ANGC01000134.1  347 AUCUCUUAAAACCAUUCUCAGUUCGGAUUGCAGGCUGCAACUCGCCUGCAUGAAGUCGGAAUCGCUAGUAAUCGCGGAUCAGCACGC 433 
+                            *************************************************************************************** PP
+
+                            >>>>>>,,,,,,}}---}}}}}}}}}}-}},,<-<<-<<-<-<<<<<<<<--<<<<<<<<<<<<----<<<<<<............. CS
+                            cgCGguGAAUAcGuUccCGGGcCuuGuACacACcGccCGUCACaCCccgggAgccgguuacaccagAAGucggc............. RF
+  bacteria16S_508_mod5 1362 cgcggugaauacguucccgggccuuguacacaccgcccgucacaccaugggaguugguuacacccgaagucggugggcuaaccuuaa 1448
+                            cgcggugaauacguucccgggccuuguacacaccgcccgucacacca gg aguugg +++accc aagu ggu g+cuaacc  aa
+        ANGC01000134.1  434 CGCGGUGAAUACGUUCCCGGGCCUUGUACACACCGCCCGUCACACCACGGAAGUUGGGAGUACCCAAAGUAGGUUGCCUAACCGCAA 520 
+                            *************************************************************************************** PP
+
+                            .......>>>>>>--->>>>>>>>>>>>-->>>>>>>>-->->>-->>-->,<<<<<<<<<<____>>>>>>>>>>::::::: CS
+                            .......gccgaCuAagguguaaccggcgAcuggGGuGAAGUCGUAgCAAGGuaGCCGuagggGAAccugCGGCugGAUcAcc RF
+  bacteria16S_508_mod5 1449 ggagggagcuguccaaggugggauugaugacuggggugaagucguaacaagguagccguaggggaacgugcggcuggaucacc 1531
+                            ggaggg gcu++c+aaggu+ ga++gaugacuggggugaagucguaacaagguagccgua++ggaa+gugcggcuggaucacc
+        ANGC01000134.1  521 GGAGGGCGCUUCCUAAGGUAAGACCGAUGACUGGGGUGAAGUCGUAACAAGGUAGCCGUAUCGGAAGGUGCGGCUGGAUCACC 603 
+                            *********************************************************************************96 PP
+
+>> ANGC01000119.1  Rhodococcus ruber Chol-4 contig00119, whole genome shotgun sequence.
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  597.6   3.6  1.3e-182  6.8e-181       4     675 ..     268     953 ..     265     954 .] 0.93
+
+  Alignments for each domain:
+  == domain 1    score: 597.6 bits;  conditional E-value: 1.3e-182
+                           :::::<<<<<_______>>>>>,{{{{-{{{{{{,{{{{{{{{{----{{{-{{{,,<<<--<<<........................ CS
+                           augaAGaGuuUGAUccUggCuCAGgacGaaCGCuGGCGGCguGCuUAAcaCAuGCAAGuCGAgCg........................ RF
+  bacteria16S_508_mod5   4 auggagaguuugauccuggcucagaaugaacgcuggcggcgugccuaacacaugcaagucgaacgguaa....aaggagcuugcuauuu 88 
+                           a  gagaguuugauccuggcucag+a+gaacgcuggcggcgugccuaa acaugcaagucga+cg u a    a + agcuugcuauuu
+        ANGC01000119.1 268 AAUGAGAGUUUGAUCCUGGCUCAGGACGAACGCUGGCGGCGUGCCUAAUACAUGCAAGUCGAGCGAUGAuuaaAGAUAGCUUGCUAUUU 356
+                           56799************************************************************998743333344445555444433 PP
+
+                           ........>>>>>>,,,,,,[[[,,,,,,((((((((--((---(((((((,<<<<----<<<<<<<____>>>>>>>----->>>>,, CS
+                           ........cGcGgCGgAcGGGuGAGUAAuacgcgGGuAAccUgcCccagaGagcGGgAuAaCgcccgGAAAcgggcGuUAAUACCgcAU RF
+  bacteria16S_508_mod5  89 uggg..ugaguggcggacgggugaguaacgcguggguaaucugccuuuuagugggggauaacuuuuggaaacgguggcuaauaccgcau 175
+                           u+ +   gag+ggcg+acgggugaguaacgcguggg+aaucugcc   uag ggggga aac uuuggaaacg+  gcuaauaccgcau
+        ANGC01000119.1 357 UUAUgaAGAGCGGCGAACGGGUGAGUAACGCGUGGGAAAUCUGCCGAGUAGCGGGGGACAACGUUUGGAAACGAACGCUAAUACCGCAU 445
+                           332233899******************************************************************************** PP
+
+                           ,,,.<<<<<<<<<____>>>>>>>>>..,,,,<<...........>>,)))))))--))))))))))<<<--<-<<<--<<<<<<<<__ CS
+                           Aau.aaaaaaacCaaaaGguuuuuuu..gAAAGa...........uCgCucuggGAuggaCCcgcgucggAUaAGCuAGuuGGuggGGU RF
+  bacteria16S_508_mod5 176 aag.uuuuuuaucgcaugguuuuuua..gaaagauggggagccuuucgcuauaggaugggcccgcgucggauuagcuaguugguggggu 261
+                           aa   u +++aucgcaug+uu uu++   aaaga+g   a++  uuc cua + gaug+ cccgcgu g+auuagcuaguuggu g gu
+        ANGC01000119.1 446 AACaAUGAGAAUCGCAUGAUUCUUAUuuAAAAGAAGC-AAUUGCUUCACUACUUGAUGAUCCCGCGUUGUAUUAGCUAGUUGGUAGUGU 533
+                           **9778889999******9997766664666666655.556667789****************************************** PP
+
+                           _____>>>>>>>>>>>----->>>>,,<<<<<<<<____>>>>--->>>>]]],<<<<<<__________>>>>>>,<<<<____>>>> CS
+                           AAagGCccaCCaagGCgAcGAuccgUAGCcGgcCuGAGAgGgcGAuCgGCCaCAcuGGgccUGAGAcAcGgcCCagACuCCUAcGGGaG RF
+  bacteria16S_508_mod5 262 aauggcuuaccaaggcgacgauccguagcuggucugagaggaugaucagccacacugggacugagacacggcccagacuccuacgggag 350
+                           aa+gg +uaccaaggcga gau c uagc+g +cugagagg+ugauc+gccacacugggacugagacacggcccagacuccuacgggag
+        ANGC01000119.1 534 AAAGGACUACCAAGGCGAUGAUACAUAGCCGACCUGAGAGGGUGAUCGGCCACACUGGGACUGAGACACGGCCCAGACUCCUACGGGAG 622
+                           ***************************************************************************************** PP
+
+                           ,,,}}}}}}-},,,,,<-<<<--<<<<<<____>>>>>>>>>>,}}-}}}}}},,<<<<------<<<<____>>>>----->>>>,<- CS
+                           GcAGCaGuggGGAAUauUgcacAuugGGcGaAAgCCugaugcaGCaAcGCCGCGUGaGcGAaGAAggccuucGggucGUAAAgCuCUcU RF
+  bacteria16S_508_mod5 351 gcagcaguggggaauauugcacaaugggcgaaagccugaugcagcaaugccgcgugagugaugaaggccuucggguuguaaagcucuuu 439
+                           gcagcagu gggaau+uu ++caauggg g aa ccuga++ agcaa+gccgcgugaguga+gaagg  uucgg u guaaa cucu u
+        ANGC01000119.1 623 GCAGCAGUAGGGAAUCUUCGGCAAUGGGGGCAACCCUGACCGAGCAACGCCGCGUGAGUGAAGAAGGUUUUCGGAUCGUAAAACUCUGU 711
+                           ***************************************************************************************** PP
+
+                           -<<<<<<---<-.............................___>---->>>>>>-->,,,<<<<<------<<<<<-----<<____> CS
+                           uagcgggGAaGA.............................uGACGgUAcccgcugAgaAAGcccCGGcuAACuccGUGccAGCAGccG RF
+  bacteria16S_508_mod5 440 uauuagggaagaagagauuau.......uaauauuuuuuauugacgguaccugaagaagaagcaccggcuaacuacgugccagcagccg 521
+                           u+uuag gaagaa ++ +++u       +aa  u  uu a ugacggua cu+a  a  aag   cggcuaacuacgugccagcagccg
+        ANGC01000119.1 712 UGUUAGAGAAGAACGUUAAGUagaguggAAAAUUACUUAAGUGACGGUAUCUAACCAGAAAGGGACGGCUAACUACGUGCCAGCAGCCG 800
+                           ************99887766644444434444477778899************************************************ PP
+
+                           >------->>>>>>>>>>,}}}}}}}}}},,,,,,,,,,{{{-----{,[[[[-[-[[[,<<<<<<<-<<<<<<<<<<<----<<<<<< CS
+                           CGGUAAUACggaGGgggCaaGCGuugucCGGAAUuAcUGGGCGUAAAGaGcgCGcAgGcGGcccgccAaGucggguGcgAAAuucccgg RF
+  bacteria16S_508_mod5 522 cgguaauacguagggugcaagcguuauucggaauuacugggcguaaagcgcgcguaggcgguuuguuaagucagaugugaaaucccagg 610
+                           cgguaauacguagg   caagcguu+u+cgga uua+ugggcguaaagcg gcg+agg gguuu uuaaguc+gaugu aaa+ c + g
+        ANGC01000119.1 801 CGGUAAUACGUAGGUCCCAAGCGUUGUCCGGAUUUAUUGGGCGUAAAGCGAGCGCAGGUGGUUUCUUAAGUCUGAUGUAAAAGGCAGUG 889
+                           ***************************************************************************************** PP
+
+                           <_____>>>>>>>-.>>>>>>>>>-->>>>>>>>>,,,(((((((((--(((((((<<--<<<<< CS
+                           GcUuAACccgggaAacgCacccgaaACuggcgggCUaGaGuacgggcGAgGggggcggAAcucCc RF
+  bacteria16S_508_mod5 611 gcucaaccuuggaacugcauuugaaacugguagacuagagugugguagaggaaaguggaauucca 675
+                           gcucaacc u g   ugcauu+gaaacugg agacu+gagug++g+agagga+aguggaauucca
+        ANGC01000119.1 890 GCUCAACCAUUGUG-UGCAUUGGAAACUGGGAGACUUGAGUGCAGGAGAGGAGAGUGGAAUUCCA 953
+                           ********999875.6**********************************************986 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                            1  (1537 nodes)
+Target sequences:                        158  (5400989 residues)
+Passed MSV filter:                         8  (0.0506329); expected 3.2 (0.02)
+Passed bias filter:                        4  (0.0253165); expected 3.2 (0.02)
+Passed Vit filter:                         3  (0.0189873); expected 0.2 (0.001)
+Passed Fwd filter:                         3  (0.0189873); expected 0.0 (1e-05)
+Initial search space (Z):                158  [actual number of targets]
+Domain search space  (domZ):               3  [number of targets reported over threshold]
+# CPU time: 0.80u 0.03s 00:00:00.83 Elapsed: 00:00:00.27
+# Mc/sec: 30745.63
+//
+# Alignment of 3 hits satisfying inclusion thresholds saved to: hmmAlignANGC00000000.1.fna.stk

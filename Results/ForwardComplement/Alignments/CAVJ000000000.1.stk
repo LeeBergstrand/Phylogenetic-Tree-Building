@@ -1,0 +1,159 @@
+# STOCKHOLM 1.0
+
+#=GS CAVJ010000087.1/127-1645 DE [subseq from] Rhodococcus opacus EsD8 WGS project CAVJ000000000 data, contig 87, whole genome shotgun sequence.
+
+CAVJ010000087.1/127-1645         ACGGAGAGUUUGAUCCUGGCUCAGGACGAACGCUGGCGGCGUGCUUAACA
+#=GR CAVJ010000087.1/127-1645 PP 6789**********************************************
+#=GC PP_cons                     6789**********************************************
+#=GC RF                          xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+CAVJ010000087.1/127-1645         CAUGCAAGUCGAACGAUGAAGCcCAGCUUGCUGGGUGGAUUAGUGGCGAA
+#=GR CAVJ010000087.1/127-1645 PP ***************98774440444555544445566699*********
+#=GC PP_cons                     ***************9877444.444555544445566699*********
+#=GC RF                          xxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+CAVJ010000087.1/127-1645         CGGGUGAGUAACACGUGGGUGAUCUGCCCUGCACUUCGGGAUAAGCCUGG
+#=GR CAVJ010000087.1/127-1645 PP **************************************************
+#=GC PP_cons                     **************************************************
+#=GC RF                          xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+CAVJ010000087.1/127-1645         GAAACUGGGUCUAAUACCGGAUAGGaCCUCGGGAUGCAUGUUCCGGGGug
+#=GR CAVJ010000087.1/127-1645 PP ************************96556666666777776665444445
+#=GC PP_cons                     ************************9.5566666667777766654444..
+#=GC RF                          xxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxx..
+
+CAVJ010000087.1/127-1645         GAAAGGUUUUCCGGUGCAGGAUGGGCCCGCGGCCUAUCAGCUUGUUGGUG
+#=GR CAVJ010000087.1/127-1645 PP 99999879999***************************************
+#=GC PP_cons                     99999879999***************************************
+#=GC RF                          xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+CAVJ010000087.1/127-1645         GGGUAACGGCCCACCAAGGCGACGACGGGUAGCCGGCCUGAGAGGGCGAC
+#=GR CAVJ010000087.1/127-1645 PP **************************************************
+#=GC PP_cons                     **************************************************
+#=GC RF                          xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+CAVJ010000087.1/127-1645         CGGCCACACUGGGACUGAGACACGGCCCAGACUCCUACGGGAGGCAGCAG
+#=GR CAVJ010000087.1/127-1645 PP **************************************************
+#=GC PP_cons                     **************************************************
+#=GC RF                          xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+CAVJ010000087.1/127-1645         UGGGGAAUAUUGCACAAUGGGCGCAAGCCUGAUGCAGCGACGCCGCGUGA
+#=GR CAVJ010000087.1/127-1645 PP **************************************************
+#=GC PP_cons                     **************************************************
+#=GC RF                          xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+CAVJ010000087.1/127-1645         GGGAUGACGGCCUUCGGGUUGUAAACCUCUUUCAGUACCGACGAAGCGCG
+#=GR CAVJ010000087.1/127-1645 PP ********************************************988766
+#=GC PP_cons                     ********************************************988766
+#=GC RF                          xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+CAVJ010000087.1/127-1645         AGUGACGGUAGGUACAGAAGAAGCACCGGCCAACUACGUGCCAGCAGCCG
+#=GR CAVJ010000087.1/127-1645 PP 77************************************************
+#=GC PP_cons                     77************************************************
+#=GC RF                          xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+CAVJ010000087.1/127-1645         CGGUAAUACGUAGGGUGCGAGCGUUGUCCGGAAUUACUGGGCGUAAAGAG
+#=GR CAVJ010000087.1/127-1645 PP **************************************************
+#=GC PP_cons                     **************************************************
+#=GC RF                          xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+CAVJ010000087.1/127-1645         CUCGUAGGCGGUUUGUCGCGUCGUCUGUGAAAACCCGCAGCUCAACUGCG
+#=GR CAVJ010000087.1/127-1645 PP **************************************************
+#=GC PP_cons                     **************************************************
+#=GC RF                          xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+CAVJ010000087.1/127-1645         GGCUUGCAGGCGAUACGGGCAGACUUGAGUACUGCAGGGGAGACUGGAAU
+#=GR CAVJ010000087.1/127-1645 PP **************************************************
+#=GC PP_cons                     **************************************************
+#=GC RF                          xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+CAVJ010000087.1/127-1645         UCCUGGUGUAGCGGUGAAAUGCGCAGAUAUCAGGAGGAACACCGGUGGCG
+#=GR CAVJ010000087.1/127-1645 PP **************************************************
+#=GC PP_cons                     **************************************************
+#=GC RF                          xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+CAVJ010000087.1/127-1645         AAGGCGGGUCUCUGGGCAGUAACUGACGCUGAGGAGCGAAAGCGUGGGUA
+#=GR CAVJ010000087.1/127-1645 PP **************************************************
+#=GC PP_cons                     **************************************************
+#=GC RF                          xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+CAVJ010000087.1/127-1645         GCGAACAGGAUUAGAUACCCUGGUAGUCCACGCCGUAAACGGUGGGCGCU
+#=GR CAVJ010000087.1/127-1645 PP **************************************************
+#=GC PP_cons                     **************************************************
+#=GC RF                          xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+CAVJ010000087.1/127-1645         AGGUGUGGGUUUCCUuCCACGGGAUCCGUGCCGUAGCUAACGCAUUAAGC
+#=GR CAVJ010000087.1/127-1645 PP *******99988755056677889**************************
+#=GC PP_cons                     *******99988755.56677889**************************
+#=GC RF                          xxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+CAVJ010000087.1/127-1645         GCCCCGCCUGGGGAGUACGGCCGCAAGGCUAAAACUCAAAGGAAUUGACG
+#=GR CAVJ010000087.1/127-1645 PP **************************************************
+#=GC PP_cons                     **************************************************
+#=GC RF                          xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+CAVJ010000087.1/127-1645         GGGGCCCGCACAAGCGGCGGAGCAUGUGGAUUAAUUCGAUGCAACGCGAA
+#=GR CAVJ010000087.1/127-1645 PP **************************************************
+#=GC PP_cons                     **************************************************
+#=GC RF                          xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+CAVJ010000087.1/127-1645         GAACCUUACCUGGGUUUGACAUACACCGgACCGCCCCAGAGAUGGGGUUU
+#=GR CAVJ010000087.1/127-1645 PP ***********************7776658999999*******9988766
+#=GC PP_cons                     ***********************77766.8999999*******9988766
+#=GC RF                          xxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxx
+
+CAVJ010000087.1/127-1645         CCCUUGUGGUCGGUGUACAGGUGGUGCAUGGCUGUCGUCAGCUCGUGUCG
+#=GR CAVJ010000087.1/127-1645 PP 5444444334445568**********************************
+#=GC PP_cons                     5444444334445568**********************************
+#=GC RF                          xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+CAVJ010000087.1/127-1645         UGAGAUGUUGGGUUAAGUCCCGCAACGAGCGCAACCCUUGUCCUGUGUUG
+#=GR CAVJ010000087.1/127-1645 PP **************************************************
+#=GC PP_cons                     **************************************************
+#=GC RF                          xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+CAVJ010000087.1/127-1645         CCAGCAAUUCGGUUGGGGACUCGCAGGAGACUGCCGGGGUCAACUCGGAG
+#=GR CAVJ010000087.1/127-1645 PP ******9999999*************************************
+#=GC PP_cons                     ******9999999*************************************
+#=GC RF                          xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+CAVJ010000087.1/127-1645         GAAGGUGGGGACGACGUCAAGUCAUCAUGCCCCUUAUGUCCAGGGCUUCA
+#=GR CAVJ010000087.1/127-1645 PP **************************************************
+#=GC PP_cons                     **************************************************
+#=GC RF                          xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+CAVJ010000087.1/127-1645         CACAUGCUACAAUGGCCGGUACAGAGGGCUGCGAUACCGCGAGGUGGAGC
+#=GR CAVJ010000087.1/127-1645 PP **************************************************
+#=GC PP_cons                     **************************************************
+#=GC RF                          xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+CAVJ010000087.1/127-1645         GAAUCCCUUAAAGCCGGUCUCAGUUCGGAUCGGGGUCUGCAACUCGACCC
+#=GR CAVJ010000087.1/127-1645 PP **************************************************
+#=GC PP_cons                     **************************************************
+#=GC RF                          xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+CAVJ010000087.1/127-1645         CGUGAAGUCGGAGUCGCUAGUAAUCGCAGAUCAGCaACGCUGCGGUGAAU
+#=GR CAVJ010000087.1/127-1645 PP ***********************************99*************
+#=GC PP_cons                     ***********************************.9*************
+#=GC RF                          xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxx
+
+CAVJ010000087.1/127-1645         ACGUUCCCGGGCCUUGUACACACCGCCCGUCACGUCAUGAAAGUCGGUAA
+#=GR CAVJ010000087.1/127-1645 PP **************************************************
+#=GC PP_cons                     **************************************************
+#=GC RF                          xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+CAVJ010000087.1/127-1645         CACCCGAAGCCGGUGGCCUAACCccuCGUGGGAGGGAGCCGUCGAAGGUG
+#=GR CAVJ010000087.1/127-1645 PP **********************976666789*******************
+#=GC PP_cons                     **********************9...66789*******************
+#=GC RF                          xxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxx
+
+CAVJ010000087.1/127-1645         GGAUCGGCGAUUGGGACGAAGUCGUAACAAGGUAGCCGUACCGGAAGGUG
+#=GR CAVJ010000087.1/127-1645 PP **************************************************
+#=GC PP_cons                     **************************************************
+#=GC RF                          xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+CAVJ010000087.1/127-1645         CGGCUGGAUCACCUCCUUU
+#=GR CAVJ010000087.1/127-1645 PP ****************985
+#=GC PP_cons                     ****************985
+#=GC RF                          xxxxxxxxxxxxxxxxxxx
+//

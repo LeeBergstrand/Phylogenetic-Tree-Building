@@ -1,0 +1,82 @@
+# STOCKHOLM 1.0
+
+#=GS ABYX01000208.1/10-258      DE [subseq from] Streptomyces roseosporus NRRL 11379 cont3.208, whole genome shotgun sequence.
+#=GS ABYX01000207.1/28251-28524 DE [subseq from] Streptomyces roseosporus NRRL 11379 cont3.207, whole genome shotgun sequence.
+
+ABYX01000208.1/10-258              --------------------------------------------------
+#=GR ABYX01000208.1/10-258      PP ..................................................
+ABYX01000207.1/28251-28524         CGGAGAGUUUGAUCCUGGCUCAGGACGAACGCUGGCGGCGUGCUUAACAC
+#=GR ABYX01000207.1/28251-28524 PP 689***********************************************
+#=GC PP_cons                       689***********************************************
+#=GC RF                            xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ABYX01000208.1/10-258              --------------------------------------------------
+#=GR ABYX01000208.1/10-258      PP ..................................................
+ABYX01000207.1/28251-28524         AUGCAAGUCGAACGAUGAAAUCACUUCGGUGGUGGAUUAGUGGCGAACGG
+#=GR ABYX01000207.1/28251-28524 PP **************997766666666655554455599************
+#=GC PP_cons                       **************997766666666655554455599************
+#=GC RF                            xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ABYX01000208.1/10-258              --------------------------------------------------
+#=GR ABYX01000208.1/10-258      PP ..................................................
+ABYX01000207.1/28251-28524         GUGAGUAACACGUGGGCAAUCUGCCCUUCACUCUGGGACAAGCCCUGGAA
+#=GR ABYX01000207.1/28251-28524 PP **************************************************
+#=GC PP_cons                       **************************************************
+#=GC RF                            xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ABYX01000208.1/10-258              ----------------------.----------------------..---
+#=GR ABYX01000208.1/10-258      PP ..................................................
+ABYX01000207.1/28251-28524         ACGGGGUCUAAUACCGGAUAACaCUCUGUCCCGCAUGGGACGGGGuuGAA
+#=GR ABYX01000207.1/28251-28524 PP *********************977778888899999887765555569**
+#=GC PP_cons                       *********************9.7778888899999887765555..9**
+#=GC RF                            xxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxx..xxx
+
+ABYX01000208.1/10-258              --------------------------------------------------
+#=GR ABYX01000208.1/10-258      PP ..................................................
+ABYX01000207.1/28251-28524         AGCUCCGGCGGUGAAGGAUGAGCCCGCGGCCUAUCAGCUUGUUGGUGGGG
+#=GR ABYX01000207.1/28251-28524 PP **888999******************************************
+#=GC PP_cons                       **888999******************************************
+#=GC RF                            xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ABYX01000208.1/10-258              ------------------------GAUGGGGACUCACAGGAGACUGCCGG
+#=GR ABYX01000208.1/10-258      PP ........................5689**********************
+ABYX01000207.1/28251-28524         UAAUGGCCUACCAAGGCGACGACG--------------------------
+#=GR ABYX01000207.1/28251-28524 PP *********************976..........................
+#=GC PP_cons                       *********************9765689**********************
+#=GC RF                            xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ABYX01000208.1/10-258              GGUCAACUCGGAGGAAGGUGGGGACGACGUCAAGUCAUCAUGCCCCUUAU
+#=GR ABYX01000208.1/10-258      PP **************************************************
+ABYX01000207.1/28251-28524         --------------------------------------------------
+#=GR ABYX01000207.1/28251-28524 PP ..................................................
+#=GC PP_cons                       **************************************************
+#=GC RF                            xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ABYX01000208.1/10-258              GUCUUGGGCUGCACACGUGCUACAAUGGCCGGUACAAUGAGCUGCGAUGC
+#=GR ABYX01000208.1/10-258      PP **************************************************
+ABYX01000207.1/28251-28524         --------------------------------------------------
+#=GR ABYX01000207.1/28251-28524 PP ..................................................
+#=GC PP_cons                       **************************************************
+#=GC RF                            xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ABYX01000208.1/10-258              CGCGAGGCGGAGCGAAUCUCAAAAAGCCGGUCUCAGUUCGGAUUGGGGUC
+#=GR ABYX01000208.1/10-258      PP **************************************************
+ABYX01000207.1/28251-28524         --------------------------------------------------
+#=GR ABYX01000207.1/28251-28524 PP ..................................................
+#=GC PP_cons                       **************************************************
+#=GC RF                            xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ABYX01000208.1/10-258              UGCAACUCGACCCCAUGAAGUCGGAGUUGCUAGUAAUCGCAGAUCAGCaU
+#=GR ABYX01000208.1/10-258      PP ************************************************55
+ABYX01000207.1/28251-28524         ------------------------------------------------.-
+#=GR ABYX01000207.1/28251-28524 PP ..................................................
+#=GC PP_cons                       ************************************************.5
+#=GC RF                            xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.x
+
+ABYX01000208.1/10-258              UGCUGCGGUGAAUACGUUCCCGG
+#=GR ABYX01000208.1/10-258      PP 7********************97
+ABYX01000207.1/28251-28524         -----------------------
+#=GR ABYX01000207.1/28251-28524 PP .......................
+#=GC PP_cons                       7********************97
+#=GC RF                            xxxxxxxxxxxxxxxxxxxxxxx
+//

@@ -1,0 +1,159 @@
+# STOCKHOLM 1.0
+
+#=GS AJVB01000676.1/88-1606 DE [subseq from] Rhodococcus sp. R1101 Cont0676, whole genome shotgun sequence.
+
+AJVB01000676.1/88-1606         ACGGAGAGUUUGAUCCUGGCUCAGGACGAACGCUGGCGGCGUGCUUAACA
+#=GR AJVB01000676.1/88-1606 PP 6789**********************************************
+#=GC PP_cons                   6789**********************************************
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AJVB01000676.1/88-1606         CAUGCAAGUCGAACGAUGAAGCcCAGCUUGCUGGGUGGAUUAGUGGCGAA
+#=GR AJVB01000676.1/88-1606 PP ***************98774440444555544445566699*********
+#=GC PP_cons                   ***************9877444.444555544445566699*********
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AJVB01000676.1/88-1606         CGGGUGAGUAACACGUGGGUGAUCUGCCCUGCACUCUGGGAUAAGCCUGG
+#=GR AJVB01000676.1/88-1606 PP **************************************************
+#=GC PP_cons                   **************************************************
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AJVB01000676.1/88-1606         GAAACUGGGUCUAAUACCGGAUAGGaCCUUCGGCCGCAUGGCUGGGGGug
+#=GR AJVB01000676.1/88-1606 PP ************************98778888999999999876555445
+#=GC PP_cons                   ************************9.7788889999999998765554..
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxx..
+
+AJVB01000676.1/88-1606         GAAAGUUUUUCGGUGCAGGAUGAGCCCGCGGCCUAUCAGCUUGUUGGUGG
+#=GR AJVB01000676.1/88-1606 PP 7888766899****************************************
+#=GC PP_cons                   7888766899****************************************
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AJVB01000676.1/88-1606         GGUAAUGGCCUACCAAGGCGACGACGGGUAGCCGGCCUGAGAGGGCGACC
+#=GR AJVB01000676.1/88-1606 PP **************************************************
+#=GC PP_cons                   **************************************************
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AJVB01000676.1/88-1606         GGCCACACUGGGACUGAGACACGGCCCAGACUCCUACGGGAGGCAGCAGU
+#=GR AJVB01000676.1/88-1606 PP **************************************************
+#=GC PP_cons                   **************************************************
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AJVB01000676.1/88-1606         GGGGAAUAUUGCACAAUGGGCGCAAGCCUGAUGCAGCGACGCCGCGUGAG
+#=GR AJVB01000676.1/88-1606 PP **************************************************
+#=GC PP_cons                   **************************************************
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AJVB01000676.1/88-1606         GGAUGACGGCCUUCGGGUUGUAAACCUCUUUCACCCAUGACGAAGCGCAA
+#=GR AJVB01000676.1/88-1606 PP *******************************************9887666
+#=GC PP_cons                   *******************************************9887666
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AJVB01000676.1/88-1606         GUGACGGUAGUGGGAGAAGAAGCACCGGCCAACUACGUGCCAGCAGCCGC
+#=GR AJVB01000676.1/88-1606 PP 7*************************************************
+#=GC PP_cons                   7*************************************************
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AJVB01000676.1/88-1606         GGUAAUACGUAGGGUGCGAGCGUUGUCCGGAAUUACUGGGCGUAAAGAGC
+#=GR AJVB01000676.1/88-1606 PP **************************************************
+#=GC PP_cons                   **************************************************
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AJVB01000676.1/88-1606         UCGUAGGCGGUUUGUCGCGUCGUCUGUGAAAACCCGCAGCUCAACUGCGG
+#=GR AJVB01000676.1/88-1606 PP **************************************************
+#=GC PP_cons                   **************************************************
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AJVB01000676.1/88-1606         GCUUGCAGGCGAUACGGGCAGACUCGAGUACUGCAGGGGAGACUGGAAUU
+#=GR AJVB01000676.1/88-1606 PP **************************************************
+#=GC PP_cons                   **************************************************
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AJVB01000676.1/88-1606         CCUGGUGUAGCGGUGAAAUGCGCAGAUAUCAGGAGGAACACCGGUGGCGA
+#=GR AJVB01000676.1/88-1606 PP **************************************************
+#=GC PP_cons                   **************************************************
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AJVB01000676.1/88-1606         AGGCGGGUCUCUGGGCAGUAACUGACGCUGAGGAGCGAAAGCGUGGGUAG
+#=GR AJVB01000676.1/88-1606 PP **************************************************
+#=GC PP_cons                   **************************************************
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AJVB01000676.1/88-1606         CGAACAGGAUUAGAUACCCUGGUAGUCCACGCCGUAAACGGUGGGCGCUA
+#=GR AJVB01000676.1/88-1606 PP **************************************************
+#=GC PP_cons                   **************************************************
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AJVB01000676.1/88-1606         GGUGUGGGUUUCCUuCCACGGGAUCCGUGCCGUAGCCAACGCAUUAAGCG
+#=GR AJVB01000676.1/88-1606 PP ******99988755056677889***************************
+#=GC PP_cons                   ******99988755.56677889***************************
+#=GC RF                        xxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AJVB01000676.1/88-1606         CCCCGCCUGGGGAGUACGGCCGCAAGGCUAAAACUCAAAGGAAUUGACGG
+#=GR AJVB01000676.1/88-1606 PP **************************************************
+#=GC PP_cons                   **************************************************
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AJVB01000676.1/88-1606         GGGCCCGCACAAGCGGCGGAGCAUGUGGAUUAAUUCGAUGCAACGCGAAG
+#=GR AJVB01000676.1/88-1606 PP **************************************************
+#=GC PP_cons                   **************************************************
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AJVB01000676.1/88-1606         AACCUUACCUGGGUUUGACAUGUACCGgACGACUGCAGAGAUGUGGUUUC
+#=GR AJVB01000676.1/88-1606 PP **********************66655499999*********99887765
+#=GC PP_cons                   **********************66655.99999*********99887765
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxx
+
+AJVB01000676.1/88-1606         CCUUGUGGCCGGUAGACAGGUGGUGCAUGGCUGUCGUCAGCUCGUGUCGU
+#=GR AJVB01000676.1/88-1606 PP 55444444888999************************************
+#=GC PP_cons                   55444444888999************************************
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AJVB01000676.1/88-1606         GAGAUGUUGGGUUAAGUCCCGCAACGAGCGCAACCCUUGUCCUGUGUUGC
+#=GR AJVB01000676.1/88-1606 PP **************************************************
+#=GC PP_cons                   **************************************************
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AJVB01000676.1/88-1606         CAGCAcGUGAUGGUGGGGACUCGCAGGAGACUGCCGGGGUCAACUCGGAG
+#=GR AJVB01000676.1/88-1606 PP **************************************************
+#=GC PP_cons                   *****.********************************************
+#=GC RF                        xxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AJVB01000676.1/88-1606         GAAGGUGGGGACGACGUCAAGUCAUCAUGCCCCUUAUGUCCAGGGCUUCA
+#=GR AJVB01000676.1/88-1606 PP **************************************************
+#=GC PP_cons                   **************************************************
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AJVB01000676.1/88-1606         CACAUGCUACAAUGGUCGGUACAGAGGGCUGCGAUACCGUGAGGUGGAGC
+#=GR AJVB01000676.1/88-1606 PP **************************************************
+#=GC PP_cons                   **************************************************
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AJVB01000676.1/88-1606         GAAUCCCUUAAAGCCGGUCUCAGUUCGGAUCGGGGUCUGCAACUCGACCC
+#=GR AJVB01000676.1/88-1606 PP **************************************************
+#=GC PP_cons                   **************************************************
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AJVB01000676.1/88-1606         CGUGAAGUCGGAGUCGCUAGUAAUCGCAGAUCAGCaACGCUGCGGUGAAU
+#=GR AJVB01000676.1/88-1606 PP ***********************************99*************
+#=GC PP_cons                   ***********************************.9*************
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxx
+
+AJVB01000676.1/88-1606         ACGUUCCCGGGCCUUGUACACACCGCCCGUCACGUCAUGAAAGUCGGUAA
+#=GR AJVB01000676.1/88-1606 PP **************************************************
+#=GC PP_cons                   **************************************************
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AJVB01000676.1/88-1606         CACCCGAAGCCGGUGGCCUAACCccuCGUGGGAGGGAGCCGUCGAAGGUG
+#=GR AJVB01000676.1/88-1606 PP **********************976666789*******************
+#=GC PP_cons                   **********************9...66789*******************
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxx
+
+AJVB01000676.1/88-1606         GGAUCGGCGAUUGGGACGAAGUCGUAACAAGGUAGCCGUACCGGAAGGUG
+#=GR AJVB01000676.1/88-1606 PP **************************************************
+#=GC PP_cons                   **************************************************
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AJVB01000676.1/88-1606         CGGCUGGAUCACCUCCUUU
+#=GR AJVB01000676.1/88-1606 PP ****************985
+#=GC PP_cons                   ****************985
+#=GC RF                        xxxxxxxxxxxxxxxxxxx
+//

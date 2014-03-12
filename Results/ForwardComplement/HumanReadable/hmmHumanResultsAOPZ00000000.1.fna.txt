@@ -1,0 +1,41 @@
+# hmmsearch :: search profile(s) against a sequence database
+# HMMER 3.0 (March 2010); http://hmmer.org/
+# Copyright (C) 2010 Howard Hughes Medical Institute.
+# Freely distributed under the GNU General Public License (GPLv3).
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query HMM file:                  SSU.hmm
+# target sequence database:        ../No16SGenomes/ForwardComplement/AOPZ00000000.1.fna
+# output directed to file:         hmmHumanResultsAOPZ00000000.1.fna.txt
+# MSA of all hits saved to file:   hmmAlignAOPZ00000000.1.fna.stk
+# per-seq hits tabular output:     hmmResultsAOPZ00000000.1.fna.tsv
+# prefer accessions over names:    yes
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       bacteria16S_508_mod5  [M=1537]
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence Description
+    ------- ------ -----    ------- ------ -----   ---- --  -------- -----------
+
+   [No hits detected that satisfy reporting thresholds]
+
+
+Domain annotation for each sequence (and alignments):
+
+   [No targets detected that satisfy reporting thresholds]
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                            1  (1537 nodes)
+Target sequences:                        568  (8762126 residues)
+Passed MSV filter:                        19  (0.0334507); expected 11.4 (0.02)
+Passed bias filter:                        1  (0.00176056); expected 11.4 (0.02)
+Passed Vit filter:                         0  (0); expected 0.6 (0.001)
+Passed Fwd filter:                         0  (0); expected 0.0 (1e-05)
+Initial search space (Z):                568  [actual number of targets]
+Domain search space  (domZ):               0  [number of targets reported over threshold]
+# CPU time: 1.39u 0.01s 00:00:01.40 Elapsed: 00:00:00.24
+# Mc/sec: 56114.12
+//
+# No hits satisfy inclusion thresholds; no alignment saved

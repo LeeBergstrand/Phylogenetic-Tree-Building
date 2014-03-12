@@ -1,0 +1,159 @@
+# STOCKHOLM 1.0
+
+#=GS AJTQ01000380.1/189-1721 DE [subseq from] Streptomyces sulphureus L180 contig_380, whole genome shotgun sequence.
+
+AJTQ01000380.1/189-1721         AUGGAGAGUUUGAUCCUGGCUCAGGACGAACGCUGGCGGCGUGCUUAACA
+#=GR AJTQ01000380.1/189-1721 PP 689***********************************************
+#=GC PP_cons                    689***********************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AJTQ01000380.1/189-1721         CAUGCAAGUCGAACGAUGAAGCCGCUUCGGUGGUGGAUUAGUGGCGAACG
+#=GR AJTQ01000380.1/189-1721 PP ***************886544444444444445556699***********
+#=GC PP_cons                    ***************886544444444444445556699***********
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AJTQ01000380.1/189-1721         GGUGAGUAACACGUGGGCAAUCUGCCCUGUACUUCGGGAUAAGCCUUGGA
+#=GR AJTQ01000380.1/189-1721 PP **************************************************
+#=GC PP_cons                    **************************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AJTQ01000380.1/189-1721         AACGGGGUCUAAUACCGGAUGGGaCUGCCGGCCGCAUGGUCUGGUGgugG
+#=GR AJTQ01000380.1/189-1721 PP *********************99777788899999999887655444569
+#=GC PP_cons                    *********************99.7778889999999988765544...9
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxx...x
+
+AJTQ01000380.1/189-1721         AAAGCUCCGGCGGUACAGGAUGAGCUCGCGGCCUAUCAGCUUGUUGGUGG
+#=GR AJTQ01000380.1/189-1721 PP 9999888999****************************************
+#=GC PP_cons                    9999888999****************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AJTQ01000380.1/189-1721         GGUGAUGGCCUACCAAGGCGACGACGGGUAGCCGGCCUGAGAGGGCGACC
+#=GR AJTQ01000380.1/189-1721 PP **************************************************
+#=GC PP_cons                    **************************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AJTQ01000380.1/189-1721         GGCCACACUGGGACUGAGACACGGCCCAGACUCCUACGGGAGGCAGCAGU
+#=GR AJTQ01000380.1/189-1721 PP **************************************************
+#=GC PP_cons                    **************************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AJTQ01000380.1/189-1721         GGGGAAUAUUGCACAAUGGGCGCAAGCCUGAUGCAGCGACGCCGCGUGAG
+#=GR AJTQ01000380.1/189-1721 PP **************************************************
+#=GC PP_cons                    **************************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AJTQ01000380.1/189-1721         GGAUGACGGCCUUCGGGUUGUAAACCUCUUUCAGCAGGGAAGAAGCCUUA
+#=GR AJTQ01000380.1/189-1721 PP *******************************************9877654
+#=GC PP_cons                    *******************************************9877654
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AJTQ01000380.1/189-1721         AAAAGUGACGGUACCUGCAGAAGAAGCACCGGCUAACUACGUGCCAGCAG
+#=GR AJTQ01000380.1/189-1721 PP 44678*********************************************
+#=GC PP_cons                    44678*********************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AJTQ01000380.1/189-1721         CCGCGGUAAUACGUAGGGUGCAAGCGUUGUCCGGAAUUAUUGGGCGUAAA
+#=GR AJTQ01000380.1/189-1721 PP **************************************************
+#=GC PP_cons                    **************************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AJTQ01000380.1/189-1721         GAGCUCGUAGGCGGCGUGUCGCGUCGGAUGUGAAAGCCCGGGGCUUAACC
+#=GR AJTQ01000380.1/189-1721 PP **************************************************
+#=GC PP_cons                    **************************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AJTQ01000380.1/189-1721         CCGGGUUGGCAUUCGAUACGGGCAGGCUAGAGUUCGGUAGGGGAGAUUGG
+#=GR AJTQ01000380.1/189-1721 PP **************************************************
+#=GC PP_cons                    **************************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AJTQ01000380.1/189-1721         AAUUCCUGGUGUAGCGGUGAAAUGCGCAGAUAUCAGGAGGAACACCGGUG
+#=GR AJTQ01000380.1/189-1721 PP **************************************************
+#=GC PP_cons                    **************************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AJTQ01000380.1/189-1721         GCGAAGGCGGAUCUCUGGGCCGAUACUGACGCUGAGGAGCGAAAGCGUGG
+#=GR AJTQ01000380.1/189-1721 PP **************************************************
+#=GC PP_cons                    **************************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AJTQ01000380.1/189-1721         GGAGCGAACAGGAUUAGAUACCCUGGUAGUCCACGCCGUAAACGUUGGGC
+#=GR AJTQ01000380.1/189-1721 PP **************************************************
+#=GC PP_cons                    **************************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AJTQ01000380.1/189-1721         ACUAGGUGUGGGCGGCaUUCCACGUCGUCCGUGCCGCAGCUAACGCAUUA
+#=GR AJTQ01000380.1/189-1721 PP **********99988724556778899***********************
+#=GC PP_cons                    **********999887.4556778899***********************
+#=GC RF                         xxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AJTQ01000380.1/189-1721         AGUGCCCCGCCUGGGGAGUACGGCCGCAAGGCUAAAACUCAAAGGAAUUG
+#=GR AJTQ01000380.1/189-1721 PP **************************************************
+#=GC PP_cons                    **************************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AJTQ01000380.1/189-1721         ACGGGGGCCCGCACAAGCGGCGGAGCAUGUGGCUUAAUUCGACGCAACGC
+#=GR AJTQ01000380.1/189-1721 PP **************************************************
+#=GC PP_cons                    **************************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AJTQ01000380.1/189-1721         GAAGAACCUUACCAAGGCUUGACAUACACCGgAAUCGGCCAGAGAUGGUC
+#=GR AJTQ01000380.1/189-1721 PP **************************776665999999*******99877
+#=GC PP_cons                    **************************77666.999999*******99877
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxx
+
+AJTQ01000380.1/189-1721         GCGCCUUUUGGGCUGGUGUACAGGUGGUGCAUGGCUGUCGUCAGCUCGUG
+#=GR AJTQ01000380.1/189-1721 PP 7664444444447777889*******************************
+#=GC PP_cons                    7664444444447777889*******************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AJTQ01000380.1/189-1721         UCGUGAGAUGUUGGGUUAAGUCCCGCAACGAGCGCAACCCUUGUUCUGUG
+#=GR AJTQ01000380.1/189-1721 PP **************************************************
+#=GC PP_cons                    **************************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AJTQ01000380.1/189-1721         UUGCCAGCAcGCCcuucgggGUGGUGGGGACUCACAGGAGACUGCCGGGG
+#=GR AJTQ01000380.1/189-1721 PP *******98433211111113456899***********************
+#=GC PP_cons                    *******98.332.......3456899***********************
+#=GC RF                         xxxxxxxxx.xxx.......xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AJTQ01000380.1/189-1721         UCAACUCGGAGGAAGGUGGGGACGACGUCAAGUCAUCAUGCCCCUUAUGU
+#=GR AJTQ01000380.1/189-1721 PP **************************************************
+#=GC PP_cons                    **************************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AJTQ01000380.1/189-1721         CUUGGGCUGCACACGUGCUACAAUGGCCGGUACAAUGAGAGGCGAGGCCG
+#=GR AJTQ01000380.1/189-1721 PP **************************************************
+#=GC PP_cons                    **************************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AJTQ01000380.1/189-1721         UGAGGUGGAGCGAAUCUCAAAAAGCCGGUCUCAGUUCGGAUUGGGGUCUG
+#=GR AJTQ01000380.1/189-1721 PP **************************************************
+#=GC PP_cons                    **************************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AJTQ01000380.1/189-1721         CAACUCGACCCCAUGAAGUCGGAGUCGCUAGUAAUCGCAGAUCAGCaGUG
+#=GR AJTQ01000380.1/189-1721 PP **********************************************77**
+#=GC PP_cons                    **********************************************.7**
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxx
+
+AJTQ01000380.1/189-1721         CUGCGGUGAAUACGUUCCCGGGCCUUGUACACACCGCCCGUCACGUCACG
+#=GR AJTQ01000380.1/189-1721 PP **************************************************
+#=GC PP_cons                    **************************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AJTQ01000380.1/189-1721         AAAGUCGGUAACACCCGAAGCCGGUGGCCUAACCcccuuuGUGGGGAGGG
+#=GR AJTQ01000380.1/189-1721 PP *********************************977666556789*****
+#=GC PP_cons                    *********************************9......56789*****
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx......xxxxxxxxxx
+
+AJTQ01000380.1/189-1721         AGUCGUCGAAGGUGGGACUGGCGAUUGGGACGAAGUCGUAACAAGGUAGC
+#=GR AJTQ01000380.1/189-1721 PP **************************************************
+#=GC PP_cons                    **************************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AJTQ01000380.1/189-1721         CGUACCGGAAGGUGCGGCUGGAUCACCUCCUUU
+#=GR AJTQ01000380.1/189-1721 PP ******************************985
+#=GC PP_cons                    ******************************985
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

@@ -1,0 +1,4 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+AOEX01000005.1       -          bacteria16S_508_mod5 -                  0 1196.5  15.4         0 1196.3  10.7   1.0   1   0   0   1   1   1   1 Rhodococcus ruber BKS 20-38 Contig005, whole genome shotgun sequence.

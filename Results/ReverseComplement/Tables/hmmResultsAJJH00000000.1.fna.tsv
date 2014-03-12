@@ -1,0 +1,5 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+AJJH01000098.1       -          bacteria16S_508_mod5 -           6.3e-149  491.8   2.7    7e-149  491.7   1.9   1.0   1   0   0   1   1   1   1 Rhodococcus imtechensis RKJ300 = JCM 13270 strain RKJ300 Contig97_1, whole genome shotgun sequence.
+AJJH01000099.1       -          bacteria16S_508_mod5 -           2.7e-147  486.4   2.8    3e-147  486.2   1.9   1.0   1   0   0   1   1   1   1 Rhodococcus imtechensis RKJ300 = JCM 13270 strain RKJ300 Contig98_1, whole genome shotgun sequence.

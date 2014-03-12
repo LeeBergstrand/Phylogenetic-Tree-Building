@@ -1,0 +1,4 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+CBMJ020000103.1      -          bacteria16S_508_mod5 -                  0 1526.8  23.2         0 1526.2  16.1   1.2   1   0   0   1   1   1   1 Mycobacterium simiae ATCC 25275 = DSM 44165 WGS project CBMJ000000000 data, contig 00103, whole genome shotgun sequence.

@@ -1,0 +1,4 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+ARND01000005.1       -          bacteria16S_508_mod5 -                  0 1132.7  19.3         0 1132.5  13.4   1.0   1   0   0   1   1   1   1 Rhodococcus sp. 29MFTsu3.1 G416DRAFT_scaffold00053.53_C, whole genome shotgun sequence.

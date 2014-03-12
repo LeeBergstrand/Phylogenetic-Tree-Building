@@ -1,0 +1,159 @@
+# STOCKHOLM 1.0
+
+#=GS ARCK01000107.1/145-1684 DE [subseq from] Streptomyces vitaminophilus DSM 41686 A3IGDRAFT_scaffold_105.106_C, whole genome shotgun sequence.
+
+ARCK01000107.1/145-1684         CGGAGAGUUUGAUCCUGGCUCAGGACGAAUGCUGGCGGCGUGCUUAACAC
+#=GR ARCK01000107.1/145-1684 PP 689***********************************************
+#=GC PP_cons                    689***********************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ARCK01000107.1/145-1684         AUGCAAGUCGAACGGUGAAGCCCUUCGGGGUGGAUCAGUGGCGAACGGGU
+#=GR ARCK01000107.1/145-1684 PP **************8733333344444455556699**************
+#=GC PP_cons                    **************8733333344444455556699**************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ARCK01000107.1/145-1684         GAGUAACACGUGGGCAAUCUGCCUCGUACUUUGGGAUAACCCGGGGAAAC
+#=GR ARCK01000107.1/145-1684 PP **************************************************
+#=GC PP_cons                    **************************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ARCK01000107.1/145-1684         UCGGGCUAAUACCGGAUAGGaCUGCUGGGCGCAUGCCUGGUGGugGAAAG
+#=GR ARCK01000107.1/145-1684 PP *******************9777778888999998887655555699999
+#=GC PP_cons                    *******************9.7777888899999888765555..99999
+#=GC RF                         xxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxx..xxxxx
+
+ARCK01000107.1/145-1684         CUCCGGCGGUACGAGAUGAGCCCGCGGCCUAUCAGCUUGUUGGUGGGGUG
+#=GR ARCK01000107.1/145-1684 PP 888999********************************************
+#=GC PP_cons                    888999********************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ARCK01000107.1/145-1684         AUGGCCUACCAAGGCGACGACGGGUAGCCGGCCUGAGAGGGCGACCGGCC
+#=GR ARCK01000107.1/145-1684 PP **************************************************
+#=GC PP_cons                    **************************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ARCK01000107.1/145-1684         ACACUGGGACUGAGACACGGCCCAGACUCCUACGGGAGGCAGCAGUGGGG
+#=GR ARCK01000107.1/145-1684 PP **************************************************
+#=GC PP_cons                    **************************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ARCK01000107.1/145-1684         AAUAUUGCACAAUGGGCGCAAGCCUGAUGCAGCGACGCCGCGUGAGGGAU
+#=GR ARCK01000107.1/145-1684 PP **************************************************
+#=GC PP_cons                    **************************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ARCK01000107.1/145-1684         GACGGCCUUCGGGUUGUAAACCUCUUUCAGCAGGGAAGAAGCCUUGGCCU
+#=GR ARCK01000107.1/145-1684 PP ******************************************99999999
+#=GC PP_cons                    ******************************************99999999
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ARCK01000107.1/145-1684         UUUGGUUGGGGUGACGGUACUUGCAGAAGAAGCACCGGCUAACUACGUGC
+#=GR ARCK01000107.1/145-1684 PP 9999999999****************************************
+#=GC PP_cons                    9999999999****************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ARCK01000107.1/145-1684         CAGCAGCCGCGGUAAUACGUAGGGUGCGAGCAUUGUCCGGAAUUAUUGGG
+#=GR ARCK01000107.1/145-1684 PP **************************************************
+#=GC PP_cons                    **************************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ARCK01000107.1/145-1684         CGUAAAGAGCUCGUAGGCGGCUUGUUGCGUCGGAUGUGAAAGCCCGGGGC
+#=GR ARCK01000107.1/145-1684 PP **************************************************
+#=GC PP_cons                    **************************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ARCK01000107.1/145-1684         UUAACCCCGGGUCUGCAUUCGAUACGGGCAGGCUAGAGUUCGGUAGGGGA
+#=GR ARCK01000107.1/145-1684 PP **************************************************
+#=GC PP_cons                    **************************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ARCK01000107.1/145-1684         GACUGGAAUUCCUGGUGUAGCGGUGAAAUGCGCAGAUAUCAGGAGGAACA
+#=GR ARCK01000107.1/145-1684 PP **************************************************
+#=GC PP_cons                    **************************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ARCK01000107.1/145-1684         CCGGUGGCGAAGGCGGGUCUCUGGGCCGAUACUGACGCUGAGGAGCGAAA
+#=GR ARCK01000107.1/145-1684 PP **************************************************
+#=GC PP_cons                    **************************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ARCK01000107.1/145-1684         GCGUGGGGAGCGAACAGGAUUAGAUACCCUGGUAGUCCACGCCGUAAACG
+#=GR ARCK01000107.1/145-1684 PP **************************************************
+#=GC PP_cons                    **************************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ARCK01000107.1/145-1684         UUGGGAACUAGGUGUGGGCGACAUUcCACGUUGUCCGUGCCGUAGCUAAC
+#=GR ARCK01000107.1/145-1684 PP *****************99987655156778899****************
+#=GC PP_cons                    *****************99987655.56778899****************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxx
+
+ARCK01000107.1/145-1684         GCAUUAAGUUCCCCGCCUGGGGAGUACGGCCGCAAGGCUAAAACUCAAAG
+#=GR ARCK01000107.1/145-1684 PP **************************************************
+#=GC PP_cons                    **************************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ARCK01000107.1/145-1684         GAAUUGACGGGGGCCCGCACAAGAGGCGGAGCAUGUGGCUUAAUUCGACG
+#=GR ARCK01000107.1/145-1684 PP **************************************************
+#=GC PP_cons                    **************************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ARCK01000107.1/145-1684         CAACGCGAAGAACCUUACCAAGGCUUGACAUCgCCGGGACGGCUCCAGAG
+#=GR ARCK01000107.1/145-1684 PP ********************************5666669999********
+#=GC PP_cons                    ********************************.666669999********
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxx
+
+ARCK01000107.1/145-1684         AUGGGGUUUCCUUUUGGUCCGGUGACAGGUGGUGCAUGGCUGUCGUCAGC
+#=GR ARCK01000107.1/145-1684 PP *99877654555555544567789**************************
+#=GC PP_cons                    *99877654555555544567789**************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ARCK01000107.1/145-1684         UCGUGUCGUGAGAUGUUGGGUUAAGUCCCGCAACGAGCGCAACCCUUGUU
+#=GR ARCK01000107.1/145-1684 PP **************************************************
+#=GC PP_cons                    **************************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ARCK01000107.1/145-1684         CUGUGUUGCCAGCAcGcuccuuuUUgggGUGGUGGGGACUCACAGGAGAC
+#=GR ARCK01000107.1/145-1684 PP ************98532222221111112456899***************
+#=GC PP_cons                    ************98.3.......11...2456899***************
+#=GC RF                         xxxxxxxxxxxxxx.x.......xx...xxxxxxxxxxxxxxxxxxxxxx
+
+ARCK01000107.1/145-1684         UGCCGGGGUCAACUCGGAGGAAGGUGGGGACGACGUCAAGUCAUCAUGCC
+#=GR ARCK01000107.1/145-1684 PP **************************************************
+#=GC PP_cons                    **************************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ARCK01000107.1/145-1684         CCUUAUGUCUUGGGCUGCACACGUGCUACAAUGGCCGGUACAGUGAGCUG
+#=GR ARCK01000107.1/145-1684 PP **************************************************
+#=GC PP_cons                    **************************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ARCK01000107.1/145-1684         CGAUACCGUGAGGUGGAGCGAAUCUCUAAAAGCCGGUCUCAGUUCGGAUU
+#=GR ARCK01000107.1/145-1684 PP **************************************************
+#=GC PP_cons                    **************************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ARCK01000107.1/145-1684         GGGGUCUGCAACUCGACCCCAUGAAGUCGGAGUCUCUAGUAAUCGCAGAU
+#=GR ARCK01000107.1/145-1684 PP **************************************************
+#=GC PP_cons                    **************************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ARCK01000107.1/145-1684         CAGCaUUGCUGCGGUGAAUACGUUCCCGGGCCUUGUACACACCGCCCGUC
+#=GR ARCK01000107.1/145-1684 PP ****557*******************************************
+#=GC PP_cons                    ****.57*******************************************
+#=GC RF                         xxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ARCK01000107.1/145-1684         ACGUCACGAAAGUCGGUAACACCCGAAGCCGGUGGCCCAACCcccuuGUG
+#=GR ARCK01000107.1/145-1684 PP ****************************************9977766678
+#=GC PP_cons                    ****************************************99.....678
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.....xxx
+
+ARCK01000107.1/145-1684         GGGAGGGAGUCGUCGAAGGUGGGACUGGCGAUUGGGACGAAGUCGUAACA
+#=GR ARCK01000107.1/145-1684 PP 99************************************************
+#=GC PP_cons                    99************************************************
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ARCK01000107.1/145-1684         AGGUAGCCGUACCGGAAGGUGCGGCUGGAUCACCUCCUUU
+#=GR ARCK01000107.1/145-1684 PP *************************************985
+#=GC PP_cons                    *************************************985
+#=GC RF                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

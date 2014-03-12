@@ -1,0 +1,6 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+ACEX01000476.1       -          bacteria16S_508_mod5 -            4.9e-69  229.2   1.7   5.7e-69  228.9   1.2   1.0   1   0   0   1   1   1   1 Streptomyces himastatinicus ATCC 53653 cont1.476, whole genome shotgun sequence.
+ACEX01000611.1       -          bacteria16S_508_mod5 -            1.3e-59  198.0   0.1   1.7e-59  197.6   0.1   1.1   1   0   0   1   1   1   1 Streptomyces himastatinicus ATCC 53653 cont1.611, whole genome shotgun sequence.
+ACEX01000475.1       -          bacteria16S_508_mod5 -            2.5e-41  137.4   0.0   3.6e-41  136.8   0.0   1.1   1   0   0   1   1   1   1 Streptomyces himastatinicus ATCC 53653 cont1.475, whole genome shotgun sequence.

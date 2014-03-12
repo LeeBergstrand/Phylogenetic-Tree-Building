@@ -1,0 +1,222 @@
+# STOCKHOLM 1.0
+
+#=GS ARBU01000009.1/157676-159197 DE [subseq from] Mycobacterium hassiacum DSM 44199 A3G5DRAFT_scaffold_8.9_C, whole genome shotgun sequence.
+#=GS ARBU01000050.1/24809-26330   DE [subseq from] Mycobacterium hassiacum DSM 44199 A3G5DRAFT_scaffold_45.46_C, whole genome shotgun sequence.
+
+ARBU01000009.1/157676-159197         UUGGAGAGUUUGAUCCUGGCUCAGGACGAACGCUGGCGGCGUGCUUAACA
+#=GR ARBU01000009.1/157676-159197 PP 689***********************************************
+ARBU01000050.1/24809-26330           UUGGAGAGUUUGAUCCUGGCUCAGGACGAACGCUGGCGGCGUGCUUAACA
+#=GR ARBU01000050.1/24809-26330   PP 689***********************************************
+#=GC PP_cons                         689***********************************************
+#=GC RF                              xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ARBU01000009.1/157676-159197         CAUGCAAGUCGAACGGAAAGGCCCCUUCGGGGGUACUCGAGUGGCGAACG
+#=GR ARBU01000009.1/157676-159197 PP ***************99555555666666666777779************
+ARBU01000050.1/24809-26330           CAUGCAAGUCGAACGGAAAGGCCCCUUCGGGGGUACUCGAGUGGCGAACG
+#=GR ARBU01000050.1/24809-26330   PP ***************99555555666666666777779************
+#=GC PP_cons                         ***************99555555666666666777779************
+#=GC RF                              xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ARBU01000009.1/157676-159197         GGUGAGUAACACGUGGGUGACCUGCCCUGCACUCUGGGAUAAGCCUGGGA
+#=GR ARBU01000009.1/157676-159197 PP **************************************************
+ARBU01000050.1/24809-26330           GGUGAGUAACACGUGGGUGACCUGCCCUGCACUCUGGGAUAAGCCUGGGA
+#=GR ARBU01000050.1/24809-26330   PP **************************************************
+#=GC PP_cons                         **************************************************
+#=GC RF                              xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ARBU01000009.1/157676-159197         AACUGGGUCUAAUACCGGAUAUUccCUUCUGGCCGCAUGGUUGGUUGggG
+#=GR ARBU01000009.1/157676-159197 PP *********************99766667888999999999876665568
+ARBU01000050.1/24809-26330           AACUGGGUCUAAUACCGGAUAUUccCUUCUGGCCGCAUGGUUGGUUGggG
+#=GR ARBU01000050.1/24809-26330   PP *********************99766667888999999999876665568
+#=GC PP_cons                         *********************99..6667888999999999876665..8
+#=GC RF                              xxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxx..x
+
+ARBU01000009.1/157676-159197         AAAGCGUUAUGUAGCGGUGUGGGAUGGGCCCGCGGCCUAUCAGCUUGUUG
+#=GR ARBU01000009.1/157676-159197 PP 99987634568899************************************
+ARBU01000050.1/24809-26330           AAAGCGUUAUGUAGCGGUGUGGGAUGGGCCCGCGGCCUAUCAGCUUGUUG
+#=GR ARBU01000050.1/24809-26330   PP 99987634568899************************************
+#=GC PP_cons                         99987634568899************************************
+#=GC RF                              xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ARBU01000009.1/157676-159197         GUGGGGUGAUGGCCUACCAAGGCGACGACGGGUAGCCGGCCUGAGAGGGU
+#=GR ARBU01000009.1/157676-159197 PP **************************************************
+ARBU01000050.1/24809-26330           GUGGGGUGAUGGCCUACCAAGGCGACGACGGGUAGCCGGCCUGAGAGGGU
+#=GR ARBU01000050.1/24809-26330   PP **************************************************
+#=GC PP_cons                         **************************************************
+#=GC RF                              xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ARBU01000009.1/157676-159197         GACCGGCCACACUGGGACUGAGAUACGGCCCAGACUCCUACGGGAGGCAG
+#=GR ARBU01000009.1/157676-159197 PP **************************************************
+ARBU01000050.1/24809-26330           GACCGGCCACACUGGGACUGAGAUACGGCCCAGACUCCUACGGGAGGCAG
+#=GR ARBU01000050.1/24809-26330   PP **************************************************
+#=GC PP_cons                         **************************************************
+#=GC RF                              xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ARBU01000009.1/157676-159197         CAGUGGGGAAUAUUGCACAAUGGGCGCAAGCCUGAUGCAGCGACGCCGCG
+#=GR ARBU01000009.1/157676-159197 PP **************************************************
+ARBU01000050.1/24809-26330           CAGUGGGGAAUAUUGCACAAUGGGCGCAAGCCUGAUGCAGCGACGCCGCG
+#=GR ARBU01000050.1/24809-26330   PP **************************************************
+#=GC PP_cons                         **************************************************
+#=GC RF                              xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ARBU01000009.1/157676-159197         UGAGGGAUGACGGCCUUCGGGUUGUAAACCUCUUUCAGCGCCGACGAAGC
+#=GR ARBU01000009.1/157676-159197 PP ***********************************************987
+ARBU01000050.1/24809-26330           UGAGGGAUGACGGCCUUCGGGUUGUAAACCUCUUUCAGCGCCGACGAAGC
+#=GR ARBU01000050.1/24809-26330   PP ***********************************************987
+#=GC PP_cons                         ***********************************************987
+#=GC RF                              xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ARBU01000009.1/157676-159197         GUAAGUGACGGUAGGCGCAGAAGAAGCACCGGCCAACUACGUGCCAGCAG
+#=GR ARBU01000009.1/157676-159197 PP 76677*********************************************
+ARBU01000050.1/24809-26330           GUAAGUGACGGUAGGCGCAGAAGAAGCACCGGCCAACUACGUGCCAGCAG
+#=GR ARBU01000050.1/24809-26330   PP 76677*********************************************
+#=GC PP_cons                         76677*********************************************
+#=GC RF                              xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ARBU01000009.1/157676-159197         CCGCGGUAAUACGUAGGGUGCGAGCGUUGUCCGGAAUUACUGGGCGUAAA
+#=GR ARBU01000009.1/157676-159197 PP **************************************************
+ARBU01000050.1/24809-26330           CCGCGGUAAUACGUAGGGUGCGAGCGUUGUCCGGAAUUACUGGGCGUAAA
+#=GR ARBU01000050.1/24809-26330   PP **************************************************
+#=GC PP_cons                         **************************************************
+#=GC RF                              xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ARBU01000009.1/157676-159197         GAGCUCGUAGGUGGUUUGUCGCGUUGUCCGUGAAAUCCCACGGCUUAACU
+#=GR ARBU01000009.1/157676-159197 PP **************************************************
+ARBU01000050.1/24809-26330           GAGCUCGUAGGUGGUUUGUCGCGUUGUCCGUGAAAUCCCACGGCUUAACU
+#=GR ARBU01000050.1/24809-26330   PP **************************************************
+#=GC PP_cons                         **************************************************
+#=GC RF                              xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ARBU01000009.1/157676-159197         GUGGGCGUGCGGGCGAUACGGGCAGACUAGAGUGCUGCAGGGGAGACUGG
+#=GR ARBU01000009.1/157676-159197 PP **************************************************
+ARBU01000050.1/24809-26330           GUGGGCGUGCGGGCGAUACGGGCAGACUAGAGUGCUGCAGGGGAGACUGG
+#=GR ARBU01000050.1/24809-26330   PP **************************************************
+#=GC PP_cons                         **************************************************
+#=GC RF                              xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ARBU01000009.1/157676-159197         AAUUCCUGGUGUAGCGGUGGAAUGCGCAGAUAUCAGGAGGAACACCGGUG
+#=GR ARBU01000009.1/157676-159197 PP **************************************************
+ARBU01000050.1/24809-26330           AAUUCCUGGUGUAGCGGUGGAAUGCGCAGAUAUCAGGAGGAACACCGGUG
+#=GR ARBU01000050.1/24809-26330   PP **************************************************
+#=GC PP_cons                         **************************************************
+#=GC RF                              xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ARBU01000009.1/157676-159197         GCGAAGGCGGGUCUCUGGGCAGCUACUGACGCUGAGGAGCGAAAGCGUGG
+#=GR ARBU01000009.1/157676-159197 PP **************************************************
+ARBU01000050.1/24809-26330           GCGAAGGCGGGUCUCUGGGCAGCUACUGACGCUGAGGAGCGAAAGCGUGG
+#=GR ARBU01000050.1/24809-26330   PP **************************************************
+#=GC PP_cons                         **************************************************
+#=GC RF                              xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ARBU01000009.1/157676-159197         GGAGCGAACAGGAUUAGAUACCCUGGUAGUCCACGCCGUAAACGGUGGGU
+#=GR ARBU01000009.1/157676-159197 PP **************************************************
+ARBU01000050.1/24809-26330           GGAGCGAACAGGAUUAGAUACCCUGGUAGUCCACGCCGUAAACGGUGGGU
+#=GR ARBU01000050.1/24809-26330   PP **************************************************
+#=GC PP_cons                         **************************************************
+#=GC RF                              xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ARBU01000009.1/157676-159197         ACUAGGUGUGGGUUCUUUCCUAAGGAUCCGUGCCGUAGCUAACGCAUUAA
+#=GR ARBU01000009.1/157676-159197 PP ******************99999***************************
+ARBU01000050.1/24809-26330           ACUAGGUGUGGGUUCUUUCCUAAGGAUCCGUGCCGUAGCUAACGCAUUAA
+#=GR ARBU01000050.1/24809-26330   PP ******************99999***************************
+#=GC PP_cons                         ******************99999***************************
+#=GC RF                              xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ARBU01000009.1/157676-159197         GUACCCCGCCUGGGGAGUACGGCCGCAAGGCUAAAACUCAAAGGAAUUGA
+#=GR ARBU01000009.1/157676-159197 PP **************************************************
+ARBU01000050.1/24809-26330           GUACCCCGCCUGGGGAGUACGGCCGCAAGGCUAAAACUCAAAGGAAUUGA
+#=GR ARBU01000050.1/24809-26330   PP **************************************************
+#=GC PP_cons                         **************************************************
+#=GC RF                              xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ARBU01000009.1/157676-159197         CGGGGGCCCGCACAAGCGGCGGAGCAUGUGGAUUAAUUCGAUGCAACGCG
+#=GR ARBU01000009.1/157676-159197 PP **************************************************
+ARBU01000050.1/24809-26330           CGGGGGCCCGCACAAGCGGCGGAGCAUGUGGAUUAAUUCGAUGCAACGCG
+#=GR ARBU01000050.1/24809-26330   PP **************************************************
+#=GC PP_cons                         **************************************************
+#=GC RF                              xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ARBU01000009.1/157676-159197         AAGAACCUUACCUGGGUUUGACAUGCACAGgACGCGUCUAGAGAUAGGCG
+#=GR ARBU01000009.1/157676-159197 PP *************************8877758889999******998876
+ARBU01000050.1/24809-26330           AAGAACCUUACCUGGGUUUGACAUGCACAGgACGCGUCUAGAGAUAGGCG
+#=GR ARBU01000050.1/24809-26330   PP *************************8877758889999******998876
+#=GC PP_cons                         *************************88777.8889999******998876
+#=GC RF                              xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxx
+
+ARBU01000009.1/157676-159197         UUCCCUUUGGGCCUGUGUGCAGGUGGUGCAUGGCUGUCGUCAGCUCGUGU
+#=GR ARBU01000009.1/157676-159197 PP 5545555555355556678*******************************
+ARBU01000050.1/24809-26330           UUCCCUUUGGGCCUGUGUGCAGGUGGUGCAUGGCUGUCGUCAGCUCGUGU
+#=GR ARBU01000050.1/24809-26330   PP 5545555555355556678*******************************
+#=GC PP_cons                         5545555555355556678*******************************
+#=GC RF                              xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ARBU01000009.1/157676-159197         CGUGAGAUGUUGGGUUAAGUCCCGCAACGAGCGCAACCCUUGUCCCAUGU
+#=GR ARBU01000009.1/157676-159197 PP **************************************************
+ARBU01000050.1/24809-26330           CGUGAGAUGUUGGGUUAAGUCCCGCAACGAGCGCAACCCUUGUCCCAUGU
+#=GR ARBU01000050.1/24809-26330   PP **************************************************
+#=GC PP_cons                         **************************************************
+#=GC RF                              xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ARBU01000009.1/157676-159197         UGCCAGCGgGUGAUGCCGGGGACUCAUGGGAGACUGCCGGGGUCAACUCG
+#=GR ARBU01000009.1/157676-159197 PP ********9*****************************************
+ARBU01000050.1/24809-26330           UGCCAGCGgGUGAUGCCGGGGACUCAUGGGAGACUGCCGGGGUCAACUCG
+#=GR ARBU01000050.1/24809-26330   PP ********9*****************************************
+#=GC PP_cons                         ********.*****************************************
+#=GC RF                              xxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ARBU01000009.1/157676-159197         GAGGAAGGUGGGGAUGACGUCAAGUCAUCAUGCCCCUUAUGUCCAGGGCU
+#=GR ARBU01000009.1/157676-159197 PP **************************************************
+ARBU01000050.1/24809-26330           GAGGAAGGUGGGGAUGACGUCAAGUCAUCAUGCCCCUUAUGUCCAGGGCU
+#=GR ARBU01000050.1/24809-26330   PP **************************************************
+#=GC PP_cons                         **************************************************
+#=GC RF                              xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ARBU01000009.1/157676-159197         UCACACAUGCUACAAUGGCCGGUACAAAGGGCUGCGAAGCCGUGAGGUGG
+#=GR ARBU01000009.1/157676-159197 PP **************************************************
+ARBU01000050.1/24809-26330           UCACACAUGCUACAAUGGCCGGUACAAAGGGCUGCGAAGCCGUGAGGUGG
+#=GR ARBU01000050.1/24809-26330   PP **************************************************
+#=GC PP_cons                         **************************************************
+#=GC RF                              xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ARBU01000009.1/157676-159197         AGCGAAUCCCUgCAAAGCCGGUCUCAGUUCGGAUCGGGGUCUGCAACUCG
+#=GR ARBU01000009.1/157676-159197 PP *******998626999**********************************
+ARBU01000050.1/24809-26330           AGCGAAUCCCUgCAAAGCCGGUCUCAGUUCGGAUCGGGGUCUGCAACUCG
+#=GR ARBU01000050.1/24809-26330   PP *******998626999**********************************
+#=GC PP_cons                         *******9986.6999**********************************
+#=GC RF                              xxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ARBU01000009.1/157676-159197         ACCCCGUGAAGUCGGAGUCGCUAGUAAUCGCAGAUCAGCaACGCUGCGGU
+#=GR ARBU01000009.1/157676-159197 PP ***************************************99*********
+ARBU01000050.1/24809-26330           ACCCCGUGAAGUCGGAGUCGCUAGUAAUCGCAGAUCAGCaACGCUGCGGU
+#=GR ARBU01000050.1/24809-26330   PP ***************************************99*********
+#=GC PP_cons                         ***************************************.9*********
+#=GC RF                              xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxx
+
+ARBU01000009.1/157676-159197         GAAUACGUUCCCGGGCCUUGUACACACCGCCCGUCACGUCAUGAAAGUCG
+#=GR ARBU01000009.1/157676-159197 PP **************************************************
+ARBU01000050.1/24809-26330           GAAUACGUUCCCGGGCCUUGUACACACCGCCCGUCACGUCAUGAAAGUCG
+#=GR ARBU01000050.1/24809-26330   PP **************************************************
+#=GC PP_cons                         **************************************************
+#=GC RF                              xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ARBU01000009.1/157676-159197         GUAACACCCGAAGCCGGUGGCCUAACCcgUCAGGGAGGGAGCCGUCGAAG
+#=GR ARBU01000009.1/157676-159197 PP ***************************98999******************
+ARBU01000050.1/24809-26330           GUAACACCCGAAGCCGGUGGCCUAACCcgUCAGGGAGGGAGCCGUCGAAG
+#=GR ARBU01000050.1/24809-26330   PP ***************************98999******************
+#=GC PP_cons                         ***************************..999******************
+#=GC RF                              xxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxx
+
+ARBU01000009.1/157676-159197         GUGGGAUCGGCGAUUGGGACGAAGUCGUAACAAGGUAGCCGUACCGGAAG
+#=GR ARBU01000009.1/157676-159197 PP **************************************************
+ARBU01000050.1/24809-26330           GUGGGAUCGGCGAUUGGGACGAAGUCGUAACAAGGUAGCCGUACCGGAAG
+#=GR ARBU01000050.1/24809-26330   PP **************************************************
+#=GC PP_cons                         **************************************************
+#=GC RF                              xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ARBU01000009.1/157676-159197         GUGCGGCUGGAUCACCUCCUUU
+#=GR ARBU01000009.1/157676-159197 PP *******************985
+ARBU01000050.1/24809-26330           GUGCGGCUGGAUCACCUCCUUU
+#=GR ARBU01000050.1/24809-26330   PP *******************985
+#=GC PP_cons                         *******************985
+#=GC RF                              xxxxxxxxxxxxxxxxxxxxxx
+//

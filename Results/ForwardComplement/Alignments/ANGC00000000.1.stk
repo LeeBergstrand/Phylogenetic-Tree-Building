@@ -1,0 +1,294 @@
+# STOCKHOLM 1.0
+
+#=GS ANGC01000111.1/91-1610 DE [subseq from] Rhodococcus ruber Chol-4 contig00111, whole genome shotgun sequence.
+#=GS ANGC01000134.1/1-603   DE [subseq from] Rhodococcus ruber Chol-4 contig00134, whole genome shotgun sequence.
+#=GS ANGC01000119.1/268-953 DE [subseq from] Rhodococcus ruber Chol-4 contig00119, whole genome shotgun sequence.
+
+ANGC01000111.1/91-1610         ACGGAGAGUUUGAUCCUGGCUCAGGACGAACGCUGGCGGCGUGCUUAACA
+#=GR ANGC01000111.1/91-1610 PP 6789**********************************************
+ANGC01000134.1/1-603           --------------------------------------------------
+#=GR ANGC01000134.1/1-603   PP ..................................................
+ANGC01000119.1/268-953         AAUGAGAGUUUGAUCCUGGCUCAGGACGAACGCUGGCGGCGUGCCUAAUA
+#=GR ANGC01000119.1/268-953 PP 56799*********************************************
+#=GC PP_cons                   66899*********************************************
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ANGC01000111.1/91-1610         CAUGCAAGUCGAACGAUGA....AGCcCAGCUUGCU-GGGUGGA..UUAG
+#=GR ANGC01000111.1/91-1610 PP ***************9877....4440444555544.4455666..99**
+ANGC01000134.1/1-603           -------------------....---.-----------------..----
+#=GR ANGC01000134.1/1-603   PP ..................................................
+ANGC01000119.1/268-953         CAUGCAAGUCGAGCGAUGAuuaaAGA.UAGCUUGCUAUUUUUAUgaAGAG
+#=GR ANGC01000119.1/268-953 PP ***************99874333334.4445555444433332233899*
+#=GC PP_cons                   ***************9987....444.44455554444444544..999*
+#=GC RF                        xxxxxxxxxxxxxxxxxxx....xxx.xxxxxxxxxxxxxxxxx..xxxx
+
+ANGC01000111.1/91-1610         UGGCGAACGGGUGAGUAACACGUGGGUGAUCUGCCCUGCACUUCGGGAUA
+#=GR ANGC01000111.1/91-1610 PP **************************************************
+ANGC01000134.1/1-603           --------------------------------------------------
+#=GR ANGC01000134.1/1-603   PP ..................................................
+ANGC01000119.1/268-953         CGGCGAACGGGUGAGUAACGCGUGGGAAAUCUGCCGAGUAGCGGGGGACA
+#=GR ANGC01000119.1/268-953 PP **************************************************
+#=GC PP_cons                   **************************************************
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ANGC01000111.1/91-1610         AGCCUGGGAAACUGGGUCUAAUACCGGAUAGGaCCUCGGGAUGCAUGUUC
+#=GR ANGC01000111.1/91-1610 PP *******************************9655666666677777666
+ANGC01000134.1/1-603           --------------------------------.-----------------
+#=GR ANGC01000134.1/1-603   PP ..................................................
+ANGC01000119.1/268-953         ACGUUUGGAAACGAACGCUAAUACCGCAUAACaAUGAGAAUCGCAUGAUU
+#=GR ANGC01000119.1/268-953 PP *******************************9778889999******999
+#=GC PP_cons                   *******************************9.66778888899999888
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxx
+
+ANGC01000111.1/91-1610         CGGGGugGAAAGGU------UUUCCGGUGCAGGAUGGGCCCGCGGCCUAU
+#=GR ANGC01000111.1/91-1610 PP 54444459999987......9999**************************
+ANGC01000134.1/1-603           -----..-------------------------------------------
+#=GR ANGC01000134.1/1-603   PP ..................................................
+ANGC01000119.1/268-953         CUUAUuuAAAAGAAGCAAUUGCUUCACUACUUGAUGAUCCCGCGUUGUAU
+#=GR ANGC01000119.1/268-953 PP 7766664666666655556667789*************************
+#=GC PP_cons                   66555..888887655556688899*************************
+#=GC RF                        xxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ANGC01000111.1/91-1610         CAGCUUGUUGGUGGGGUAACGGCCCACCAAGGCGACGACGGGUAGCCGGC
+#=GR ANGC01000111.1/91-1610 PP **************************************************
+ANGC01000134.1/1-603           --------------------------------------------------
+#=GR ANGC01000134.1/1-603   PP ..................................................
+ANGC01000119.1/268-953         UAGCUAGUUGGUAGUGUAAAGGACUACCAAGGCGAUGAUACAUAGCCGAC
+#=GR ANGC01000119.1/268-953 PP **************************************************
+#=GC PP_cons                   **************************************************
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ANGC01000111.1/91-1610         CUGAGAGGGCGACCGGCCACACUGGGACUGAGACACGGCCCAGACUCCUA
+#=GR ANGC01000111.1/91-1610 PP **************************************************
+ANGC01000134.1/1-603           --------------------------------------------------
+#=GR ANGC01000134.1/1-603   PP ..................................................
+ANGC01000119.1/268-953         CUGAGAGGGUGAUCGGCCACACUGGGACUGAGACACGGCCCAGACUCCUA
+#=GR ANGC01000119.1/268-953 PP **************************************************
+#=GC PP_cons                   **************************************************
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ANGC01000111.1/91-1610         CGGGAGGCAGCAGUGGGGAAUAUUGCACAAUGGGCGCAAGCCUGAUGCAG
+#=GR ANGC01000111.1/91-1610 PP **************************************************
+ANGC01000134.1/1-603           --------------------------------------------------
+#=GR ANGC01000134.1/1-603   PP ..................................................
+ANGC01000119.1/268-953         CGGGAGGCAGCAGUAGGGAAUCUUCGGCAAUGGGGGCAACCCUGACCGAG
+#=GR ANGC01000119.1/268-953 PP **************************************************
+#=GC PP_cons                   **************************************************
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ANGC01000111.1/91-1610         CGACGCCGCGUGAGGGAUGACGGCCUUCGGGUUGUAAACCUCUUUCAGUA
+#=GR ANGC01000111.1/91-1610 PP **************************************************
+ANGC01000134.1/1-603           --------------------------------------------------
+#=GR ANGC01000134.1/1-603   PP ..................................................
+ANGC01000119.1/268-953         CAACGCCGCGUGAGUGAAGAAGGUUUUCGGAUCGUAAAACUCUGUUGUUA
+#=GR ANGC01000119.1/268-953 PP **************************************************
+#=GC PP_cons                   **************************************************
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ANGC01000111.1/91-1610         CCGACGAAGCGC----.......----------AAGUGACGGUAGGUACA
+#=GR ANGC01000111.1/91-1610 PP *******98876.....................667**************
+ANGC01000134.1/1-603           ----------------.......---------------------------
+#=GR ANGC01000134.1/1-603   PP ..................................................
+ANGC01000119.1/268-953         GAGAAGAACGUUAAGUagaguggAAAAUUACUUAAGUGACGGUAUCUAAC
+#=GR ANGC01000119.1/268-953 PP *******99887766644444434444477778899**************
+#=GC PP_cons                   *******998867666.......4444477778788**************
+#=GC RF                        xxxxxxxxxxxxxxxx.......xxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ANGC01000111.1/91-1610         GAAGAAGCACCGGCCAACUACGUGCCAGCAGCCGCGGUAAUACGUAGGGU
+#=GR ANGC01000111.1/91-1610 PP **************************************************
+ANGC01000134.1/1-603           --------------------------------------------------
+#=GR ANGC01000134.1/1-603   PP ..................................................
+ANGC01000119.1/268-953         CAGAAAGGGACGGCUAACUACGUGCCAGCAGCCGCGGUAAUACGUAGGUC
+#=GR ANGC01000119.1/268-953 PP **************************************************
+#=GC PP_cons                   **************************************************
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ANGC01000111.1/91-1610         GCGAGCGUUGUCCGGAAUUACUGGGCGUAAAGAGCUCGUAGGCGGUUUGU
+#=GR ANGC01000111.1/91-1610 PP **************************************************
+ANGC01000134.1/1-603           --------------------------------------------------
+#=GR ANGC01000134.1/1-603   PP ..................................................
+ANGC01000119.1/268-953         CCAAGCGUUGUCCGGAUUUAUUGGGCGUAAAGCGAGCGCAGGUGGUUUCU
+#=GR ANGC01000119.1/268-953 PP **************************************************
+#=GC PP_cons                   **************************************************
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ANGC01000111.1/91-1610         CGCGUCGUCUGUGAAAACCCGCAGCUCAACUGCGGGCUUGCAGGCGAUAC
+#=GR ANGC01000111.1/91-1610 PP **************************************************
+ANGC01000134.1/1-603           --------------------------------------------------
+#=GR ANGC01000134.1/1-603   PP ..................................................
+ANGC01000119.1/268-953         UAAGUCUGAUGUAAAAGGCAGUGGCUCAACCAUUGUG-UGCAUUGGAAAC
+#=GR ANGC01000119.1/268-953 PP *******************************999875.6***********
+#=GC PP_cons                   *******************************999998*8***********
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ANGC01000111.1/91-1610         GGGCAGACUUGAGUACUGCAGGGGAGACUGGAAUUCCUGGUGUAGCGGUG
+#=GR ANGC01000111.1/91-1610 PP **************************************************
+ANGC01000134.1/1-603           --------------------------------------------------
+#=GR ANGC01000134.1/1-603   PP ..................................................
+ANGC01000119.1/268-953         UGGGAGACUUGAGUGCAGGAGAGGAGAGUGGAAUUCCA------------
+#=GR ANGC01000119.1/268-953 PP ***********************************986............
+#=GC PP_cons                   ***********************************998************
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ANGC01000111.1/91-1610         AAAUGCGCAGAUAUCAGGAGGAACACCGGUGGCGAAGGCGGGUCUCUGGG
+#=GR ANGC01000111.1/91-1610 PP **************************************************
+ANGC01000134.1/1-603           --------------------------------------------------
+#=GR ANGC01000134.1/1-603   PP ..................................................
+ANGC01000119.1/268-953         --------------------------------------------------
+#=GR ANGC01000119.1/268-953 PP ..................................................
+#=GC PP_cons                   **************************************************
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ANGC01000111.1/91-1610         CAGUAACUGACGCUGAGGAGCGAAAGCGUGGGUAGCGAACAGGAUUAGAU
+#=GR ANGC01000111.1/91-1610 PP **************************************************
+ANGC01000134.1/1-603           --------------------------------------------------
+#=GR ANGC01000134.1/1-603   PP ..................................................
+ANGC01000119.1/268-953         --------------------------------------------------
+#=GR ANGC01000119.1/268-953 PP ..................................................
+#=GC PP_cons                   **************************************************
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ANGC01000111.1/91-1610         ACCCUGGUAGUCCACGCCGUAAACGGUGGGCGCUAGGUGUGGGUUUCCUu
+#=GR ANGC01000111.1/91-1610 PP *****************************************999887550
+ANGC01000134.1/1-603           -------------------------------------------------.
+#=GR ANGC01000134.1/1-603   PP ..................................................
+ANGC01000119.1/268-953         -------------------------------------------------.
+#=GR ANGC01000119.1/268-953 PP ..................................................
+#=GC PP_cons                   *****************************************99988755.
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+
+ANGC01000111.1/91-1610         CCACGGGAUCCGUGCCGUAGCUAACGCAUUAAGCGCCCCGCCUGGGGAGU
+#=GR ANGC01000111.1/91-1610 PP 56677889******************************************
+ANGC01000134.1/1-603           --------------------------------------------------
+#=GR ANGC01000134.1/1-603   PP ..................................................
+ANGC01000119.1/268-953         --------------------------------------------------
+#=GR ANGC01000119.1/268-953 PP ..................................................
+#=GC PP_cons                   56677889******************************************
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ANGC01000111.1/91-1610         ACGGCCGCAAGGCUAAAACUCAAAGGAAUUGACGGGGGCCCGCACAAGCG
+#=GR ANGC01000111.1/91-1610 PP **************************************************
+ANGC01000134.1/1-603           -----------------------------------------GCACAAGCG
+#=GR ANGC01000134.1/1-603   PP .........................................79*******
+ANGC01000119.1/268-953         --------------------------------------------------
+#=GR ANGC01000119.1/268-953 PP ..................................................
+#=GC PP_cons                   *****************************************99*******
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ANGC01000111.1/91-1610         GCGGAGCAUGUGGAUUAAUUCGAUGCAACGCGAAGAACCUUACCUGGGUU
+#=GR ANGC01000111.1/91-1610 PP **************************************************
+ANGC01000134.1/1-603           GUGGAGCAUGUGGUUUAAUUCGAAGCAACGCGAAGAACCUUACCAGGUCU
+#=GR ANGC01000134.1/1-603   PP **************************************************
+ANGC01000119.1/268-953         --------------------------------------------------
+#=GR ANGC01000119.1/268-953 PP ..................................................
+#=GC PP_cons                   **************************************************
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ANGC01000111.1/91-1610         UGACAUACACCGgACCGCCCCAGAGAUGGGGUUUCCCUUGUGG--U-CGG
+#=GR ANGC01000111.1/91-1610 PP *******7776658999999*******9988766544444433..4.445
+ANGC01000134.1/1-603           UGACAUACUCGUgCUAUCCUUAGAGAUAAGGA-GUUCCUUCGGGACACGG
+#=GR ANGC01000134.1/1-603   PP ******966554377888999*****998765.56689999*********
+ANGC01000119.1/268-953         ------------.-------------------------------------
+#=GR ANGC01000119.1/268-953 PP ..................................................
+#=GC PP_cons                   ******966665.88999999*****99987666656666666**7*778
+#=GC RF                        xxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ANGC01000111.1/91-1610         UGUACAGGUGGUGCAUGGCUGUCGUCAGCUCGUGUCGUGAGAUGUUGGGU
+#=GR ANGC01000111.1/91-1610 PP 568***********************************************
+ANGC01000134.1/1-603           GAUACAGGUGGUGCAUGGUUGUCGUCAGCUCGUGUCGUGAGAUGUUGGGU
+#=GR ANGC01000134.1/1-603   PP **************************************************
+ANGC01000119.1/268-953         --------------------------------------------------
+#=GR ANGC01000119.1/268-953 PP ..................................................
+#=GC PP_cons                   889***********************************************
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ANGC01000111.1/91-1610         UAAGUCCCGCAACGAGCGCAACCCUUGUCCUGUGUUGCCAGCAcGUAAUG
+#=GR ANGC01000111.1/91-1610 PP **************************************************
+ANGC01000134.1/1-603           UAAGUCCCGCAACGAGCGCAACCCUUAUUACUAGUUGCCAUCA.UUAAGU
+#=GR ANGC01000134.1/1-603   PP *******************************************.999999
+ANGC01000119.1/268-953         -------------------------------------------.------
+#=GR ANGC01000119.1/268-953 PP ..................................................
+#=GC PP_cons                   *******************************************.999999
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxx
+
+ANGC01000111.1/91-1610         GUGGGGACUCGCAGGAGACUGCCGGGGUCAACUCGGAGGAAGGUGGGGAC
+#=GR ANGC01000111.1/91-1610 PP **************************************************
+ANGC01000134.1/1-603           -UGGGCACUCUAGUGAGACUGCCGGUGAUAAACCGGAGGAAGGUGGGGAU
+#=GR ANGC01000134.1/1-603   PP .*************************************************
+ANGC01000119.1/268-953         --------------------------------------------------
+#=GR ANGC01000119.1/268-953 PP ..................................................
+#=GC PP_cons                   **************************************************
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ANGC01000111.1/91-1610         GACGUCAAGUCAUCAUGCCCCUUAUGUCCAGGGCUUCACACAUGCUACAA
+#=GR ANGC01000111.1/91-1610 PP **************************************************
+ANGC01000134.1/1-603           GACGUCAAAUCAUCAUGCCCCUUAUGACCUGGGCUACACACGUGCUACAA
+#=GR ANGC01000134.1/1-603   PP **************************************************
+ANGC01000119.1/268-953         --------------------------------------------------
+#=GR ANGC01000119.1/268-953 PP ..................................................
+#=GC PP_cons                   **************************************************
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ANGC01000111.1/91-1610         UGGCCGGUACAGAGGGCUGCGAUACCGCGAGGUGGAGCGAAUCCCUUAAA
+#=GR ANGC01000111.1/91-1610 PP **************************************************
+ANGC01000134.1/1-603           UGGAUGGUACAACGAGUCGCCAACCCGCGAGGGUGCGCUAAUCUCUUAAA
+#=GR ANGC01000134.1/1-603   PP **************************************************
+ANGC01000119.1/268-953         --------------------------------------------------
+#=GR ANGC01000119.1/268-953 PP ..................................................
+#=GC PP_cons                   **************************************************
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ANGC01000111.1/91-1610         GCCGGUCUCAGUUCGGAUCGGGGUCUGCAACUCGACCCCGUGAAGUCGGA
+#=GR ANGC01000111.1/91-1610 PP **************************************************
+ANGC01000134.1/1-603           ACCAUUCUCAGUUCGGAUUGCAGGCUGCAACUCGCCUGCAUGAAGUCGGA
+#=GR ANGC01000134.1/1-603   PP **************************************************
+ANGC01000119.1/268-953         --------------------------------------------------
+#=GR ANGC01000119.1/268-953 PP ..................................................
+#=GC PP_cons                   **************************************************
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ANGC01000111.1/91-1610         GUCGCUAGUAAUCGCAGAUCAGCaACGCUGCGGUGAAUACGUUCCCGGGC
+#=GR ANGC01000111.1/91-1610 PP ***********************99*************************
+ANGC01000134.1/1-603           AUCGCUAGUAAUCGCGGAUCAGC.ACGCCGCGGUGAAUACGUUCCCGGGC
+#=GR ANGC01000134.1/1-603   PP ***********************.**************************
+ANGC01000119.1/268-953         -----------------------.--------------------------
+#=GR ANGC01000119.1/268-953 PP ..................................................
+#=GC PP_cons                   ***********************.9*************************
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ANGC01000111.1/91-1610         CUUGUACACACCGCCCGUCACGUCAUGAAAGUCGGUAACACCCGAAGCCG
+#=GR ANGC01000111.1/91-1610 PP **************************************************
+ANGC01000134.1/1-603           CUUGUACACACCGCCCGUCACACCACGGAAGUUGGGAGUACCCAAAGUAG
+#=GR ANGC01000134.1/1-603   PP **************************************************
+ANGC01000119.1/268-953         --------------------------------------------------
+#=GR ANGC01000119.1/268-953 PP ..................................................
+#=GC PP_cons                   **************************************************
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ANGC01000111.1/91-1610         GUGGCCUAACCccuCGUGGGAGGGAGCCGUCGAAGGUGGGAUCGGCGAUU
+#=GR ANGC01000111.1/91-1610 PP **********976666789*******************************
+ANGC01000134.1/1-603           GUUGCCUAACC...GCAAGGAGGGCGCUUCCUAAGGUAAGACCGAUGACU
+#=GR ANGC01000134.1/1-603   PP ***********...************************************
+ANGC01000119.1/268-953         -----------...------------------------------------
+#=GR ANGC01000119.1/268-953 PP ..................................................
+#=GC PP_cons                   **********9...88999*******************************
+#=GC RF                        xxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ANGC01000111.1/91-1610         GGGACGAAGUCGUAACAAGGUAGCCGUACCGGAAGGUGCGGCUGGAUCAC
+#=GR ANGC01000111.1/91-1610 PP **************************************************
+ANGC01000134.1/1-603           GGGGUGAAGUCGUAACAAGGUAGCCGUAUCGGAAGGUGCGGCUGGAUCAC
+#=GR ANGC01000134.1/1-603   PP *************************************************9
+ANGC01000119.1/268-953         --------------------------------------------------
+#=GR ANGC01000119.1/268-953 PP ..................................................
+#=GC PP_cons                   *************************************************9
+#=GC RF                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ANGC01000111.1/91-1610         CUCCUUU
+#=GR ANGC01000111.1/91-1610 PP ****985
+ANGC01000134.1/1-603           C------
+#=GR ANGC01000134.1/1-603   PP 6......
+ANGC01000119.1/268-953         -------
+#=GR ANGC01000119.1/268-953 PP .......
+#=GC PP_cons                   8***985
+#=GC RF                        xxxxxxx
+//

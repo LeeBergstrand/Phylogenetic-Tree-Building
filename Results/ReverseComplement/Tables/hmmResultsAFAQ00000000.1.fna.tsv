@@ -1,0 +1,5 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+AFAQ01001881.1       -          bacteria16S_508_mod5 -           8.1e-165  548.0   1.6  8.1e-165  548.0   1.1   1.7   2   0   0   2   2   2   1 Rhodococcus sp. R04 Contigseqid1881, whole genome shotgun sequence.
+AFAQ01001882.1       -          bacteria16S_508_mod5 -              1e-86  289.2   2.8   1.1e-86  289.1   2.0   1.0   1   0   0   1   1   1   1 Rhodococcus sp. R04 Contigseqid1882, whole genome shotgun sequence.

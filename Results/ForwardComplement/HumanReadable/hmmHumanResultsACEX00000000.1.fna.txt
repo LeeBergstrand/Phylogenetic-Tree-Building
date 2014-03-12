@@ -1,0 +1,131 @@
+# hmmsearch :: search profile(s) against a sequence database
+# HMMER 3.0 (March 2010); http://hmmer.org/
+# Copyright (C) 2010 Howard Hughes Medical Institute.
+# Freely distributed under the GNU General Public License (GPLv3).
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query HMM file:                  SSU.hmm
+# target sequence database:        ../No16SGenomes/ForwardComplement/ACEX00000000.1.fna
+# output directed to file:         hmmHumanResultsACEX00000000.1.fna.txt
+# MSA of all hits saved to file:   hmmAlignACEX00000000.1.fna.stk
+# per-seq hits tabular output:     hmmResultsACEX00000000.1.fna.tsv
+# prefer accessions over names:    yes
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       bacteria16S_508_mod5  [M=1537]
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence       Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------       -----------
+    4.9e-69  229.2   1.7    5.7e-69  228.9   1.2    1.0  1  ACEX01000476.1 Streptomyces himastatinicus ATCC 53653 cont1.
+    1.3e-59  198.0   0.1    1.7e-59  197.6   0.1    1.1  1  ACEX01000611.1 Streptomyces himastatinicus ATCC 53653 cont1.
+    2.5e-41  137.4   0.0    3.6e-41  136.8   0.0    1.1  1  ACEX01000475.1 Streptomyces himastatinicus ATCC 53653 cont1.
+
+
+Domain annotation for each sequence (and alignments):
+>> ACEX01000476.1  Streptomyces himastatinicus ATCC 53653 cont1.476, whole genome shotgun sequence.
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  228.9   1.2   2.2e-71   5.7e-69     591     836 ..       4     252 ..       2     256 .] 0.96
+
+  Alignments for each domain:
+  == domain 1    score: 228.9 bits;  conditional E-value: 2.2e-71
+                           <<<<<<<<<<----<<<<<<<_____>>>>>>>-.>>>>>>>>>-->>>>>>>>>,,,(((((((((--(((((((<<--<<<<<<<<- CS
+                           GucggguGcgAAAuucccggGcUuAACccgggaAacgCacccgaaACuggcgggCUaGaGuacgggcGAgGggggcggAAcucCcgguG RF
+  bacteria16S_508_mod5 591 gucagaugugaaaucccagggcucaaccuuggaacugcauuugaaacugguagacuagagugugguagaggaaaguggaauuccaggug 679
+                           guc gaugugaaa+ccc+gggcu+aacc  gg  cugcauu ga+ac gg+ag+cuagagu +gguag gga+a  ggaauucc+ggug
+        ACEX01000476.1   4 GUCGGAUGUGAAAGCCCGGGGCUUAACCCCGGGUCUGCAUUCGAUACGGGCAGGCUAGAGUUCGGUAGGGGAGAUCGGAAUUCCUGGUG 92 
+                           7899************************************************************************************* PP
+
+                           --<<<______>>>------>>>>>>>>-->>,,,,<--<<____>>>)))))))-)))))-)))),,,]]]]--]]]],,,,<<<<<< CS
+                           UAGcgGUGAAAugCGuAGAuaucgGgagGAacAccAguGGCGAAGGCcgccccCuGgcccgauaCuGAcgCugAgGcgCGAAAGCguGG RF
+  bacteria16S_508_mod5 680 uagcggugaaaugcguagauaucuggaggaacaccaguggcgaaggcggcuuucuggacuguuacugacgcugaggcgcgaaagcgugg 768
+                           uagcggugaaaugcg agauauc+ggaggaacacc+guggcgaaggcgg u+ucugg+c+g+uacugacgcugagg gcgaaagcgugg
+        ACEX01000476.1  93 UAGCGGUGAAAUGCGCAGAUAUCAGGAGGAACACCGGUGGCGAAGGCGGAUCUCUGGGCCGAUACUGACGCUGAGGAGCGAAAGCGUGG 181
+                           ***************************************************************************************** PP
+
+                           ---<<---<<<<_________>>>>.--->>>>>>>>,,,,,.,,,,,((.((((,,<<<<<<<<<<.... CS
+                           GgAgCAAACaGGAUUAGAUAcCCuG.GUAGcCCacGCcgUAA.AcGAUGa.gcgCUAGgcgccgggg.... RF
+  bacteria16S_508_mod5 769 ggagcaaacaggauuagauacccug.guaguccacgccguaa.acgauga.guacuagguguuggggguuu 836
+                           ggagc aacaggauuagauacccug guaguccacgccguaa acg ug  + acuaggugu gg g + u
+        ACEX01000476.1 182 GGAGCGAACAGGAUUAGAUACCCUGgGUAGUCCACGCCGUAAaACGUUGGgAAACUAGGUGUGGGCGACAU 252
+                           ***********************9637*************75279999861578********999887665 PP
+
+>> ACEX01000611.1  Streptomyces himastatinicus ATCC 53653 cont1.611, whole genome shotgun sequence.
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  197.6   0.1   6.5e-62   1.7e-59       5     284 ..   20922   21194 ..   20918   21196 .] 0.92
+
+  Alignments for each domain:
+  == domain 1    score: 197.6 bits;  conditional E-value: 6.5e-62
+                             ::::<<<<<_______>>>>>,{{{{-{{{{{{,{{{{{{{{{----{{{-{{{,,<<<--<<<..................... CS
+                             ugaAGaGuuUGAUccUggCuCAGgacGaaCGCuGGCGGCguGCuUAAcaCAuGCAAGuCGAgCg..................... RF
+  bacteria16S_508_mod5     5 uggagaguuugauccuggcucagaaugaacgcuggcggcgugccuaacacaugcaagucgaacgguaaaaggagcuugcuauuuu 89   
+                              ggagaguuugauccuggcucag+a+gaacgcuggcggcgugc+uaacacaugcaagucgaacg u    g agc        +u
+        ACEX01000611.1 20922 CGGAGAGUUUGAUCCUGGCUCAGGACGAACGCUGGCGGCGUGCUUAACACAUGCAAGUCGAACGAU----GAAGCCCUUCGGGGU 21002
+                             689*************************************************************65....445555555555666 PP
+
+                             .....>>>>>>,,,,,,[[[,,,,,,((((((((--((---(((((((,<<<<----<<<<<<<____>>>>>>>----->>>>, CS
+                             .....cGcGgCGgAcGGGuGAGUAAuacgcgGGuAAccUgcCccagaGagcGGgAuAaCgcccgGAAAcgggcGuUAAUACCgcA RF
+  bacteria16S_508_mod5    90 gggugaguggcggacgggugaguaacgcguggguaaucugccuuuuagugggggauaacuuuuggaaacgguggcuaauaccgca 174  
+                             gg u+aguggcg+acgggugaguaac+cguggg aaucugcc+uu a u  ggga aa +++uggaaacgg+g cuaauaccg+a
+        ACEX01000611.1 21003 GGAUUAGUGGCGAACGGGUGAGUAACACGUGGGCAAUCUGCCCUUCACUCUGGGACAAGCCCUGGAAACGGGGUCUAAUACCGGA 21087
+                             67799******************************************************************************** PP
+
+                             ,,,,.<<<<<<<<<____>>>>>>>>>...,,,,<<...........>>,)))))))--))))))))))<<<--<-<<<--<<<< CS
+                             UAau.aaaaaaacCaaaaGguuuuuuu...gAAAGa...........uCgCucuggGAuggaCCcgcgucggAUaAGCuAGuuGG RF
+  bacteria16S_508_mod5   175 uaag.uuuuuuaucgcaugguuuuuua...gaaagauggggagccuuucgcuauaggaugggcccgcgucggauuagcuaguugg 255  
+                             ua g u +   ++cgcauggu u  u+   gaaag u       c   cg u +aggaug+gcccgcg c++au agcu guugg
+        ACEX01000611.1 21088 UAUGaUCACCGGCCGCAUGGUCUGGUGaugGAAAGCU-------CCGGCGGUGAAGGAUGAGCCCGCGGCCUAUCAGCUUGUUGG 21165
+                             ****777778899999999887655444569999987.......8899************************************* PP
+
+                             <<<<_______>>>>>>>>>>>----->> CS
+                             uggGGUAAagGCccaCCaagGCgAcGAuc RF
+  bacteria16S_508_mod5   256 ugggguaauggcuuaccaaggcgacgauc 284  
+                             uggggu auggc+uaccaaggcgacga +
+        ACEX01000611.1 21166 UGGGGUGAUGGCCUACCAAGGCGACGACG 21194
+                             **************************976 PP
+
+>> ACEX01000475.1  Streptomyces himastatinicus ATCC 53653 cont1.475, whole genome shotgun sequence.
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  136.8   0.0   1.4e-43   3.6e-41       5     185 ..    5370    5540 ..    5366    5551 .. 0.91
+
+  Alignments for each domain:
+  == domain 1    score: 136.8 bits;  conditional E-value: 1.4e-43
+                            ::::<<<<<_______>>>>>,{{{{-{{{{{{,{{{{{{{{{----{{{-{{{,,<<<--<<<....................... CS
+                            ugaAGaGuuUGAUccUggCuCAGgacGaaCGCuGGCGGCguGCuUAAcaCAuGCAAGuCGAgCg....................... RF
+  bacteria16S_508_mod5    5 uggagaguuugauccuggcucagaaugaacgcuggcggcgugccuaacacaugcaagucgaacgguaaaaggagcuugcuauuuugg 91  
+                             ggagaguuugauccuggcucag+a+gaacgcuggcggcgugc+uaacacaugcaagucgaacg u    g agc        +ugg
+        ACEX01000475.1 5370 CGGAGAGUUUGAUCCUGGCUCAGGACGAACGCUGGCGGCGUGCUUAACACAUGCAAGUCGAACGAU----GAAGCCCUUCGGGGUGG 5452
+                            689*************************************************************65....44555555555566667 PP
+
+                            ...>>>>>>,,,,,,[[[,,,,,,((((((((--((---(((((((,<<<<----<<<<<<<____>>>>>>>----->>>>,,,,, CS
+                            ...cGcGgCGgAcGGGuGAGUAAuacgcgGGuAAccUgcCccagaGagcGGgAuAaCgcccgGAAAcgggcGuUAAUACCgcAUAau RF
+  bacteria16S_508_mod5   92 gugaguggcggacgggugaguaacgcguggguaaucugccuuuuagugggggauaacuuuuggaaacgguggcuaauaccgcauaag 178 
+                             u+aguggcg+acgggugaguaac+cguggg aaucugcc+uu a u  ggga aa +++uggaaacgg+g cuaauaccg+aua g
+        ACEX01000475.1 5453 AUUAGUGGCGAACGGGUGAGUAACACGUGGGCAAUCUGCCCUUCACUCUGGGACAAGCCCUGGAAACGGGGUCUAAUACCGGAUAUG 5539
+                            799*********************************************************************************998 PP
+
+                            <<<<<<< CS
+                            aaaaaaa RF
+  bacteria16S_508_mod5  179 uuuuuua 185 
+                                  a
+        ACEX01000475.1 5540 ------A 5540
+                            ......3 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                            1  (1537 nodes)
+Target sequences:                        783  (10466286 residues)
+Passed MSV filter:                        15  (0.0191571); expected 15.7 (0.02)
+Passed bias filter:                        3  (0.00383142); expected 15.7 (0.02)
+Passed Vit filter:                         3  (0.00383142); expected 0.8 (0.001)
+Passed Fwd filter:                         3  (0.00383142); expected 0.0 (1e-05)
+Initial search space (Z):                783  [actual number of targets]
+Domain search space  (domZ):               3  [number of targets reported over threshold]
+# CPU time: 2.10u 0.01s 00:00:02.11 Elapsed: 00:00:00.43
+# Mc/sec: 37410.89
+//
+# Alignment of 3 hits satisfying inclusion thresholds saved to: hmmAlignACEX00000000.1.fna.stk

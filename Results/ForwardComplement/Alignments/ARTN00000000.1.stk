@@ -1,0 +1,119 @@
+# STOCKHOLM 1.0
+
+#=GS ARTN01000002.1/1-1103 DE [subseq from] Rhodococcus sp. 114MFTsu3.1 H292DRAFT_scaffold00034.34_C, whole genome shotgun sequence.
+
+ARTN01000002.1/1-1103         GACCGGCCACACUGGGACUGAGACACGGCCCAGACUCCUACGGGAGGCAG
+#=GR ARTN01000002.1/1-1103 PP 6889**********************************************
+#=GC PP_cons                  6889**********************************************
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ARTN01000002.1/1-1103         CAGUGGGGAAUAUUGCACAAUGGGCGGAAGCCUGAUGCAGCGACGCCGCG
+#=GR ARTN01000002.1/1-1103 PP **************************************************
+#=GC PP_cons                  **************************************************
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ARTN01000002.1/1-1103         UGAGGGAUGAAGGCCUUCGGGUUGUAAACCUCUUUCAGCAGGGACGAAGC
+#=GR ARTN01000002.1/1-1103 PP ***********************************************987
+#=GC PP_cons                  ***********************************************987
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ARTN01000002.1/1-1103         GUGAGUGACGGUACCUGCAGAAGAAGCACCGGCUAACUACGUGCCAGCAG
+#=GR ARTN01000002.1/1-1103 PP 76677*********************************************
+#=GC PP_cons                  76677*********************************************
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ARTN01000002.1/1-1103         CCGCGGUAAUACGUAGGGUGCGAGCGUUGUCCGGAAUUACUGGGCGUAAA
+#=GR ARTN01000002.1/1-1103 PP **************************************************
+#=GC PP_cons                  **************************************************
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ARTN01000002.1/1-1103         GAGUUCGUAGGCGGUUUGUCGCGUCGUUUGUGAAAACCCGGGGCUCAACU
+#=GR ARTN01000002.1/1-1103 PP **************************************************
+#=GC PP_cons                  **************************************************
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ARTN01000002.1/1-1103         UCGGGCUUGCAGGCGAUACGGGCAGACUUGAGUGUUUCAGGGGAGACUGG
+#=GR ARTN01000002.1/1-1103 PP **************************************************
+#=GC PP_cons                  **************************************************
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ARTN01000002.1/1-1103         AAUUCCUGGUGUAGCGGUGAAAUGCGCAGAUAUCAGGAGGAACACCGGUG
+#=GR ARTN01000002.1/1-1103 PP **************************************************
+#=GC PP_cons                  **************************************************
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ARTN01000002.1/1-1103         GCGAAGGCGGGUCUCUGGGAAACAACUGACGCUGAGGAACGAAAGCGUGG
+#=GR ARTN01000002.1/1-1103 PP **************************************************
+#=GC PP_cons                  **************************************************
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ARTN01000002.1/1-1103         GUAGCAAACAGGAUUAGAUACCCUGGUAGUCCACGCCGUAAACGGUGGGC
+#=GR ARTN01000002.1/1-1103 PP **************************************************
+#=GC PP_cons                  **************************************************
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ARTN01000002.1/1-1103         GCUAGGUGUGGGUUCCUUCCACGGGAUCUGUGCCGUAGCUAACGCAUUAA
+#=GR ARTN01000002.1/1-1103 PP **************************************************
+#=GC PP_cons                  **************************************************
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ARTN01000002.1/1-1103         GCGCCCCGCCUGGGGAGUACGGCCGCAAGGCUAAAACUCAAAGGAAUUGA
+#=GR ARTN01000002.1/1-1103 PP **************************************************
+#=GC PP_cons                  **************************************************
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ARTN01000002.1/1-1103         CGGGGGCCCGCACAAGCGGCGGAGCAUGUGGAUUAAUUCGAUGCAACGCG
+#=GR ARTN01000002.1/1-1103 PP **************************************************
+#=GC PP_cons                  **************************************************
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ARTN01000002.1/1-1103         AAGAACCUUACCUGGGUUUGACAUACACCGgAAAGCUGCAGAGAUGUGGC
+#=GR ARTN01000002.1/1-1103 PP ************************9776665999***********99887
+#=GC PP_cons                  ************************977666.999***********99887
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxx
+
+ARTN01000002.1/1-1103         CCCCCUUGUGGUCGGUGUACAGGUGGUGCAUGGCUGUCGUCAGCUCGUGU
+#=GR ARTN01000002.1/1-1103 PP 765444444434455569********************************
+#=GC PP_cons                  765444444434455569********************************
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ARTN01000002.1/1-1103         CGUGAGAUGUUGGGUUAAGUCCCGCAACGAGCGCAACCCUUGUCUUAUGU
+#=GR ARTN01000002.1/1-1103 PP **************************************************
+#=GC PP_cons                  **************************************************
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ARTN01000002.1/1-1103         UGCCAGCGcGUUAUGGCGGGGACUCGUAAGAGACUGCCGGGGUCAACUCG
+#=GR ARTN01000002.1/1-1103 PP **************************************************
+#=GC PP_cons                  ********.*****************************************
+#=GC RF                       xxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ARTN01000002.1/1-1103         GAGGAAGGUGGGGACGACGUCAAGUCAUCAUGCCCCUUAUGUCCAGGGCU
+#=GR ARTN01000002.1/1-1103 PP **************************************************
+#=GC PP_cons                  **************************************************
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ARTN01000002.1/1-1103         UCACACAUGCUACAAUGGCCAGUACAGAGGGCUGCGAGACCGUGAGGUGG
+#=GR ARTN01000002.1/1-1103 PP **************************************************
+#=GC PP_cons                  **************************************************
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ARTN01000002.1/1-1103         AGCGAAUCCCUUAAAGCUGGUCUCAGUUCGGAUCGGGGUCUGCAACUCGA
+#=GR ARTN01000002.1/1-1103 PP **************************************************
+#=GC PP_cons                  **************************************************
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ARTN01000002.1/1-1103         CCCCGUGAAGUCGGAGUCGCUAGUAAUCGCAGAUCAGCaACGCUGCGGUG
+#=GR ARTN01000002.1/1-1103 PP **************************************99**********
+#=GC PP_cons                  **************************************.9**********
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxx
+
+ARTN01000002.1/1-1103         AAUACGUUCCCGGGCCUUGUACACACCGCCCGUCACGUCAUGAAAGUCGG
+#=GR ARTN01000002.1/1-1103 PP *************************************************9
+#=GC PP_cons                  *************************************************9
+#=GC RF                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ARTN01000002.1/1-1103         UAA
+#=GR ARTN01000002.1/1-1103 PP 875
+#=GC PP_cons                  875
+#=GC RF                       xxx
+//

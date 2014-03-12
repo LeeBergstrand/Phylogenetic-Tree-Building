@@ -1,0 +1,159 @@
+# STOCKHOLM 1.0
+
+#=GS CBMJ020000103.1/13131-14646 DE [subseq from] Mycobacterium simiae ATCC 25275 = DSM 44165 WGS project CBMJ000000000 data, contig 00103, whole genome shotgun sequence.
+
+CBMJ020000103.1/13131-14646         UUGGAGAGUUUGAUCCUGGCUCAGGACGAACGCUGGCGGCGUGCUUAACA
+#=GR CBMJ020000103.1/13131-14646 PP 689***********************************************
+#=GC PP_cons                        689***********************************************
+#=GC RF                             xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+CBMJ020000103.1/13131-14646         CAUGCAAGUCGAACGGAAAGGCCCCUUCGGGGGUACUCGAGUGGCGAACG
+#=GR CBMJ020000103.1/13131-14646 PP ***************99555555666666666777779************
+#=GC PP_cons                        ***************99555555666666666777779************
+#=GC RF                             xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+CBMJ020000103.1/13131-14646         GGUGAGUAACACGUGGGUAAUCUGCCCUGCACUUCGGGAUAAGCCUGGGA
+#=GR CBMJ020000103.1/13131-14646 PP **************************************************
+#=GC PP_cons                        **************************************************
+#=GC RF                             xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+CBMJ020000103.1/13131-14646         AACUGGGUCUAAUACCGGAUAGGaCCACUUGGCGCAUGCCUUGUGGugGA
+#=GR CBMJ020000103.1/13131-14646 PP **********************9777778888999998887665555699
+#=GC PP_cons                        **********************9.7777888899999888766555..99
+#=GC RF                             xxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxx..xx
+
+CBMJ020000103.1/13131-14646         AAGCUUUUGCGGUGUGGGAUGGGCCCGCGGCCUAUCAGCUUGUUGGUGGG
+#=GR CBMJ020000103.1/13131-14646 PP **988999******************************************
+#=GC PP_cons                        **988999******************************************
+#=GC RF                             xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+CBMJ020000103.1/13131-14646         GUGACGGCCUACCAAGGCGACGACGGGUAGCCGGCCUGAGAGGGUGUCCG
+#=GR CBMJ020000103.1/13131-14646 PP **************************************************
+#=GC PP_cons                        **************************************************
+#=GC RF                             xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+CBMJ020000103.1/13131-14646         GCCACACUGGGACUGAGAUACGGCCCAGACUCCUACGGGAGGCAGCAGUG
+#=GR CBMJ020000103.1/13131-14646 PP **************************************************
+#=GC PP_cons                        **************************************************
+#=GC RF                             xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+CBMJ020000103.1/13131-14646         GGGAAUAUUGCACAAUGGGCGCAAGCCUGAUGCAGCGACGCCGCGUGGGG
+#=GR CBMJ020000103.1/13131-14646 PP **************************************************
+#=GC PP_cons                        **************************************************
+#=GC RF                             xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+CBMJ020000103.1/13131-14646         GAUGACGGCCUUCGGGUUGUAAACCUCUUUCAGCAGGGACGAAGCGCAAG
+#=GR CBMJ020000103.1/13131-14646 PP ******************************************98876667
+#=GC PP_cons                        ******************************************98876667
+#=GC RF                             xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+CBMJ020000103.1/13131-14646         UGACGGUACCUGCAGAAGAAGCACCGGCCAACUACGUGCCAGCAGCCGCG
+#=GR CBMJ020000103.1/13131-14646 PP **************************************************
+#=GC PP_cons                        **************************************************
+#=GC RF                             xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+CBMJ020000103.1/13131-14646         GUAAUACGUAGGGUGCGAGCGUUGUCCGGAAUUACUGGGCGUAAAGAGCU
+#=GR CBMJ020000103.1/13131-14646 PP **************************************************
+#=GC PP_cons                        **************************************************
+#=GC RF                             xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+CBMJ020000103.1/13131-14646         CGUAGGUGGUUUGUCGCGUUGUUCGUGAAAACCGGGGGCUUAACCCUCGG
+#=GR CBMJ020000103.1/13131-14646 PP **************************************************
+#=GC PP_cons                        **************************************************
+#=GC RF                             xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+CBMJ020000103.1/13131-14646         CGUGCGGGCGAUACGGGCAGACUGGAGUACUGCAGGGGAGACUGGAAUUC
+#=GR CBMJ020000103.1/13131-14646 PP **************************************************
+#=GC PP_cons                        **************************************************
+#=GC RF                             xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+CBMJ020000103.1/13131-14646         CUGGUGUAGCGGUGGAAUGCGCAGAUAUCAGGAGGAACACCGGUGGCGAA
+#=GR CBMJ020000103.1/13131-14646 PP **************************************************
+#=GC PP_cons                        **************************************************
+#=GC RF                             xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+CBMJ020000103.1/13131-14646         GGCGGGUCUCUGGGCAGUAACUGACGCUGAGGAGCGAAAGCGUGGGGAGC
+#=GR CBMJ020000103.1/13131-14646 PP **************************************************
+#=GC PP_cons                        **************************************************
+#=GC RF                             xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+CBMJ020000103.1/13131-14646         GAACAGGAUUAGAUACCCUGGUAGUCCACGCCGUAAACGGUGGGUACUAG
+#=GR CBMJ020000103.1/13131-14646 PP **************************************************
+#=GC PP_cons                        **************************************************
+#=GC RF                             xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+CBMJ020000103.1/13131-14646         GUGUGGGUUUCCUUCcUUGGAAUCCGUGCCGUAGCUAACGCAUUAAGUAC
+#=GR CBMJ020000103.1/13131-14646 PP *****9998876655145667899**************************
+#=GC PP_cons                        *****9998876655.45667899**************************
+#=GC RF                             xxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+CBMJ020000103.1/13131-14646         CCCGCCUGGGGAGUACGGCCGCAAGGCUAAAACUCAAAGGAAUUGACGGG
+#=GR CBMJ020000103.1/13131-14646 PP **************************************************
+#=GC PP_cons                        **************************************************
+#=GC RF                             xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+CBMJ020000103.1/13131-14646         GGCCCGCACAAGCGGCGGAGCAUGUGGAUUAAUUCGAUGCAACGCGAAGA
+#=GR CBMJ020000103.1/13131-14646 PP **************************************************
+#=GC PP_cons                        **************************************************
+#=GC RF                             xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+CBMJ020000103.1/13131-14646         ACCUUACCUGGGUUUGACAUGCACAGgACGCCGGCAGAGAUGUCGGUUCC
+#=GR CBMJ020000103.1/13131-14646 PP *********************88777588889999*****9988766544
+#=GC PP_cons                        *********************88777.88889999*****9988766544
+#=GC RF                             xxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxx
+
+CBMJ020000103.1/13131-14646         CUUGUGGCCUGUGUGCAGGUGGUGCAUGGCUGUCGUCAGCUCGUGUCGUG
+#=GR CBMJ020000103.1/13131-14646 PP 443444345555578***********************************
+#=GC PP_cons                        443444345555578***********************************
+#=GC RF                             xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+CBMJ020000103.1/13131-14646         AGAUGUUGGGUUAAGUCCCGCAACGAGCGCAACCCUUGUCUCAUGUUGCC
+#=GR CBMJ020000103.1/13131-14646 PP **************************************************
+#=GC PP_cons                        **************************************************
+#=GC RF                             xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+CBMJ020000103.1/13131-14646         AGCGgGUAAUGCCGGGGACUCGUGAGAGACUGCCGGGGUCAACUCGGAGG
+#=GR CBMJ020000103.1/13131-14646 PP ****9*********************************************
+#=GC PP_cons                        ****.*********************************************
+#=GC RF                             xxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+CBMJ020000103.1/13131-14646         AAGGUGGGGAUGACGUCAAGUCAUCAUGCCCCUUAUGUCCAGGGCUUCAC
+#=GR CBMJ020000103.1/13131-14646 PP **************************************************
+#=GC PP_cons                        **************************************************
+#=GC RF                             xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+CBMJ020000103.1/13131-14646         ACAUGCUACAAUGGCCGGUACAAAGGGCUGCGAUGCCGCAAGGUUAAGCG
+#=GR CBMJ020000103.1/13131-14646 PP **************************************************
+#=GC PP_cons                        **************************************************
+#=GC RF                             xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+CBMJ020000103.1/13131-14646         AAUCCUuUUAAAGCCGGUCUCAGUUCGGAUCGGGGUCUGCAACUCGACCC
+#=GR CBMJ020000103.1/13131-14646 PP ***8652789****************************************
+#=GC PP_cons                        ***865.789****************************************
+#=GC RF                             xxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+CBMJ020000103.1/13131-14646         CGUGAAGUCGGAGUCGCUAGUAAUCGCAGAUCAGCaACGCUGCGGUGAAU
+#=GR CBMJ020000103.1/13131-14646 PP ***********************************99*************
+#=GC PP_cons                        ***********************************.9*************
+#=GC RF                             xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxx
+
+CBMJ020000103.1/13131-14646         ACGUUCCCGGGCCUUGUACACACCGCCCGUCACGUCAUGAAAGUCGGUAA
+#=GR CBMJ020000103.1/13131-14646 PP **************************************************
+#=GC PP_cons                        **************************************************
+#=GC RF                             xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+CBMJ020000103.1/13131-14646         CACCCGAAGCCAGUGGCCUAACCUUUUGGAGGGAGCUGUCGAAGGUGGGA
+#=GR CBMJ020000103.1/13131-14646 PP **************************************************
+#=GC PP_cons                        **************************************************
+#=GC RF                             xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+CBMJ020000103.1/13131-14646         UCGGCGAUUGGGACGAAGUCGUAACAAGGUAGCCGUACCGGAAGGUGCGG
+#=GR CBMJ020000103.1/13131-14646 PP **************************************************
+#=GC PP_cons                        **************************************************
+#=GC RF                             xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+CBMJ020000103.1/13131-14646         CUGGAUCACCUCCUUU
+#=GR CBMJ020000103.1/13131-14646 PP *************985
+#=GC PP_cons                        *************985
+#=GC RF                             xxxxxxxxxxxxxxxx
+//

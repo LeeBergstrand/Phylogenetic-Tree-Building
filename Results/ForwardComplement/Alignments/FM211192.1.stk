@@ -1,0 +1,159 @@
+# STOCKHOLM 1.0
+
+#=GS FM211192.1/1341189-1342730 DE [subseq from] Mycobacterium leprae Br4923, complete genome sequence.
+
+FM211192.1/1341189-1342730         UUGGAGAGUUUGAUCCUGGCUCAGGACGAACGCUGGCGGCGUGCUUAACA
+#=GR FM211192.1/1341189-1342730 PP 689***********************************************
+#=GC PP_cons                       689***********************************************
+#=GC RF                            xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+FM211192.1/1341189-1342730         CAUGCAAGUCGAACGGAAAggucucuaaaAAAUCUUUUUUAGAGAUACUC
+#=GR FM211192.1/1341189-1342730 PP ***************99875544443322112222222233333344459
+#=GC PP_cons                       ***************9987..........112222222233333344459
+#=GC RF                            xxxxxxxxxxxxxxxxxxx..........xxxxxxxxxxxxxxxxxxxxx
+
+FM211192.1/1341189-1342730         GAGUGGCGAACGGGUGAGUAACACGUGGGUAAUCUGCCCUGCACUuCAGG
+#=GR FM211192.1/1341189-1342730 PP 9************************************9998876516899
+#=GC PP_cons                       9************************************99988765.6899
+#=GC RF                            xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxx
+
+FM211192.1/1341189-1342730         GAUAAGCUUGGGAAACUGGGUCUAAUACCGGAUAGGaCUUCAAGGCGCAU
+#=GR FM211192.1/1341189-1342730 PP ***********************************987778888999999
+#=GC PP_cons                       ***********************************9.7778888999999
+#=GC RF                            xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxx
+
+FM211192.1/1341189-1342730         GUCUUGUGGugGAAAGCUUUUUGCGGUGCAGGAUGGGCCCGCGGCCUAUC
+#=GR FM211192.1/1341189-1342730 PP 98877665556999999668999***************************
+#=GC PP_cons                       988776655..999999668999***************************
+#=GC RF                            xxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+FM211192.1/1341189-1342730         AGCUUGUUGGUGGGGUGACGGCCUACCAAGGCGACGACGGGUAGCCGGCC
+#=GR FM211192.1/1341189-1342730 PP **************************************************
+#=GC PP_cons                       **************************************************
+#=GC RF                            xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+FM211192.1/1341189-1342730         UGAGAGGGUGUACGGCCACACUGGGACUGAGAUACGGCCCAGACUCCUAC
+#=GR FM211192.1/1341189-1342730 PP **************************************************
+#=GC PP_cons                       **************************************************
+#=GC RF                            xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+FM211192.1/1341189-1342730         GGGAGGCAGCAGUGGGGAAUAUUGCACAAUGGGCGCAAGCCUGAUGCAGC
+#=GR FM211192.1/1341189-1342730 PP **************************************************
+#=GC PP_cons                       **************************************************
+#=GC RF                            xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+FM211192.1/1341189-1342730         GACGCCGCGUGGGGGAUGACGGCUUUCGGGUUGUAAACCUCUUUCACCAU
+#=GR FM211192.1/1341189-1342730 PP **************************************************
+#=GC PP_cons                       **************************************************
+#=GC RF                            xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+FM211192.1/1341189-1342730         CGACGAAGGUCUGGGUUUUCUCGGAUUGACGGUAGGUGGAGAAGAAGCAC
+#=GR FM211192.1/1341189-1342730 PP ******99988877655445666889************************
+#=GC PP_cons                       ******99988877655445666889************************
+#=GC RF                            xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+FM211192.1/1341189-1342730         CGGCCAACUACGUGCCAGCAGCCGCGGUAAUACGUAGGGUGCGAGCGUUG
+#=GR FM211192.1/1341189-1342730 PP **************************************************
+#=GC PP_cons                       **************************************************
+#=GC RF                            xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+FM211192.1/1341189-1342730         UCCGGAAUUACUGGGCGUAAAGAGCUCGUAGGUGGUUUGUCGCGUUGUUC
+#=GR FM211192.1/1341189-1342730 PP **************************************************
+#=GC PP_cons                       **************************************************
+#=GC RF                            xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+FM211192.1/1341189-1342730         GUGAAAUCUCACGGCUUAACUGUGAGCGUGCGGGCGAUACGGGCAGACUG
+#=GR FM211192.1/1341189-1342730 PP **************************************************
+#=GC PP_cons                       **************************************************
+#=GC RF                            xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+FM211192.1/1341189-1342730         GAGUACUGCAGGGGAGACUGGAAUUCCUGGUGUAGCGGUGGAAUGCGCAG
+#=GR FM211192.1/1341189-1342730 PP **************************************************
+#=GC PP_cons                       **************************************************
+#=GC RF                            xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+FM211192.1/1341189-1342730         AUAUCAGGAGGAACACCAGUGGCGAAGGCGGGUCUCUGGGCAGUAACUGA
+#=GR FM211192.1/1341189-1342730 PP **************************************************
+#=GC PP_cons                       **************************************************
+#=GC RF                            xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+FM211192.1/1341189-1342730         CGCUGAGGAGCGAAAGCGUGGGGAGCAAACAGGAUUAGAUACCCUGGUAG
+#=GR FM211192.1/1341189-1342730 PP **************************************************
+#=GC PP_cons                       **************************************************
+#=GC RF                            xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+FM211192.1/1341189-1342730         UCCACGCCGUAAACGGUGGGUACUAGGUGUGGGUUUCCUUCcUUGGGAUC
+#=GR FM211192.1/1341189-1342730 PP *******************************9998876655145667899
+#=GC PP_cons                       *******************************9998876655.45667899
+#=GC RF                            xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxx
+
+FM211192.1/1341189-1342730         CGUGCCGUAGCUAACGCAUUAAGUACCCCGCCUGGGGAGUACGGCCGCAA
+#=GR FM211192.1/1341189-1342730 PP **************************************************
+#=GC PP_cons                       **************************************************
+#=GC RF                            xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+FM211192.1/1341189-1342730         GGCUAAAACUCAAAGGAAUUGACGGGGGCCCGCACAAGCGGCGGAGCAUG
+#=GR FM211192.1/1341189-1342730 PP **************************************************
+#=GC PP_cons                       **************************************************
+#=GC RF                            xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+FM211192.1/1341189-1342730         UGGAUUAAUUCGAUGCAACGCGAAGAACCUUACCUGGGUUUGACAUGCAC
+#=GR FM211192.1/1341189-1342730 PP ***********************************************887
+#=GC PP_cons                       ***********************************************887
+#=GC RF                            xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+FM211192.1/1341189-1342730         AGgAUGCGUCUAGAGAUAGGCACUCCCUUGUGGCCUGUGUGCAGGUGGUG
+#=GR FM211192.1/1341189-1342730 PP 7758888999*******998877654444444355556678*********
+#=GC PP_cons                       77.8888999*******998877654444444355556678*********
+#=GC RF                            xx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+FM211192.1/1341189-1342730         CAUGGCUGUCGUCAGCUCGUGUCGUGAGAUGUUGGGUUAAGUCCCGCAAC
+#=GR FM211192.1/1341189-1342730 PP **************************************************
+#=GC PP_cons                       **************************************************
+#=GC RF                            xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+FM211192.1/1341189-1342730         GAGCGCAACCCUUGUCUCAUGUUGCCAGCAcGUAAUGGUGGGGACUCGUG
+#=GR FM211192.1/1341189-1342730 PP **************************************************
+#=GC PP_cons                       ******************************.*******************
+#=GC RF                            xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxx
+
+FM211192.1/1341189-1342730         AGAGACUGCCGCGGUCAACUCGGAGGAAGGUGGGGAUGACGUCAAGUCAU
+#=GR FM211192.1/1341189-1342730 PP **************************************************
+#=GC PP_cons                       **************************************************
+#=GC RF                            xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+FM211192.1/1341189-1342730         CAUGCCCCUUAUGUCCAGGGCUUCACACAUGCUACAAUGGCCGGUACAAA
+#=GR FM211192.1/1341189-1342730 PP **************************************************
+#=GC PP_cons                       **************************************************
+#=GC RF                            xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+FM211192.1/1341189-1342730         GGGCUGCGAUGCCGCAAGGUUAAGCGAAUCCUuUUAAAGCCGGUCUCAGU
+#=GR FM211192.1/1341189-1342730 PP *****************************8652789**************
+#=GC PP_cons                       *****************************865.789**************
+#=GC RF                            xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxx
+
+FM211192.1/1341189-1342730         UCGGAUCGGGGUCUGCAACUCGACCCCGUGAAGUCGGAGUCGCUAGUAAU
+#=GR FM211192.1/1341189-1342730 PP **************************************************
+#=GC PP_cons                       **************************************************
+#=GC RF                            xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+FM211192.1/1341189-1342730         CGCAGAUCAGCaACGCUGCGGUGAAUACGUUCCCGGGCCUUGUACACACC
+#=GR FM211192.1/1341189-1342730 PP ***********99*************************************
+#=GC PP_cons                       ***********.9*************************************
+#=GC RF                            xxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+FM211192.1/1341189-1342730         GCCCGUCACGUCAUGAAAGUCGGUAACACCCGAAGCCAGUGGCCUAACCC
+#=GR FM211192.1/1341189-1342730 PP **************************************************
+#=GC PP_cons                       **************************************************
+#=GC RF                            xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+FM211192.1/1341189-1342730         UCGGGAGGGAGCUGUCCAAGGUGGGAUCGGCGAUUGGGACGAAGUCGUAA
+#=GR FM211192.1/1341189-1342730 PP **************************************************
+#=GC PP_cons                       **************************************************
+#=GC RF                            xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+FM211192.1/1341189-1342730         CAAGGUAGCCGUACCGGAAGGUGCGGCUGGAUCACCUCCUUU
+#=GR FM211192.1/1341189-1342730 PP ***************************************985
+#=GC PP_cons                       ***************************************985
+#=GC RF                            xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

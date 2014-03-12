@@ -1,0 +1,4 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+AGCF01000001.1       -          bacteria16S_508_mod5 -                  0 3072.7  53.1         0 1539.4  15.6   2.2   2   0   0   2   2   2   2 Rhodococcus erythropolis XP Contig001, whole genome shotgun sequence.
