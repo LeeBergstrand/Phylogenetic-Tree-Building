@@ -4,8 +4,8 @@
 #
 # Requirements: - This script requires the Biopython module: http://biopython.org/wiki/Download
 #     
-# Usage: getGenbankSeqs.py <sequences.fna> 
-# Example: getGenbankSeqs.py mySeqs.fna
+# Usage: getGenbankSeqs.py <sequences.sto> 
+# Example: getGenbankSeqs.py mySeqs.sto
 #----------------------------------------------------------------------------------------
 #===========================================================================================================
 #Imports:
@@ -30,12 +30,12 @@ def argsCheck(numArgs):
 argsCheck(2) # Checks if the number of arguments are correct.
 	
 # Stores file one for input checking.
-print ">> Opening FASTA file..."
+print ">> Opening Stockholm file..."
 inFile  = sys.argv[1]
 outFile = inFile + ".fna"
 
 # File extension check
-if not inFile.endswith(".stk"):
+if not inFile.endswith(".sto"):
 	print "[Warning] " + inFile + " may not be a Stockholm file!"
 	
 try:
@@ -44,6 +44,9 @@ try:
 	SeqRecords = SeqIO.parse(handle, "stockholm")
 	print ">> Converting to FASTA..."
 	for record in SeqRecords:
+		record.letter_annotations = {}
+		DNA = record.seq.back_transcribe()
+		record.seq = DNA
 		writer.write(record.format("fasta"))
 	handle.close()
 	writer.close()
