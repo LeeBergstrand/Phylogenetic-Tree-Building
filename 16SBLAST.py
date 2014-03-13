@@ -20,10 +20,7 @@
 import sys
 import csv
 import subprocess
-import subprocess
 from Bio import SeqIO
-from Graph import Vertex
-from Graph import Graph
 from multiprocessing import cpu_count
 
 processors = cpu_count() # Gets number of processor cores for BLAST.
@@ -47,42 +44,41 @@ def argsCheck():
 def runBLASTFor16S(query, BLASTDBFile):
 	BLASTOut = subprocess.check_output(["blastn", "-db", BLASTDBFile, "-query", query, "-max_target_seqs", "1", "-num_threads", str(processors), "-outfmt", "10 qseqid sseqid length qseq evalue bitscore"]) # Runs BLASTp and save output to a string. Blastp is set to output csv which can be parsed.
 	return BLASTOut
-#-------------------------------------------------------------------------------------------------
-# 3: Filters HSPs by Percent Identity...
-def filtreBLASTCSV(BLASTOut):
-	
-	minIdent = 25
-	
-	BLASTCSVOut = BLASTOut.splitlines(True) # Converts raw BLAST csv output into list of csv rows.
-	BLASTreader = csv.reader(BLASTCSVOut) # Reads BLAST csv rows as a csv.
-
-	BLASTCSVOutFiltred = [] # Note should simply delete unwanted HSPs from curent list rather than making new list. 
-					        # Rather than making a new one.
-	for HSP in BLASTreader:
-		if HSP[2] >= minIdent: # Filtres by minimum ident.
-			# Converts each HSP parameter that should be a number to a number.
-			HSP[2] = float(HSP[2]) 
-			HSP[3] = float(HSP[3])
-			HSP[4] = int(HSP[4])
-			HSP[5] = int(HSP[5]) 
-			BLASTCSVOutFiltred.append(HSP) # Appends to output array.
-	
-	return BLASTCSVOutFiltred
 #===========================================================================================================
 # Main program code:
 # House keeping...
 argsCheck() # Checks if the number of arguments are correct.
 
 queryFile = sys.argv[1]
+print "Opening " + queryFile + "..."
 
 # File extension check
-if not queryFile.endswith(".faa"):
-	print "[Warning] " + queryFile + " may not be a amino acid fasta file!"
-# File extension check
-if not queryProteomesFile.endswith(".txt"):
-	print "[Warning] " + queryProteomesFile + " may not be a txt file!"
+if not queryFile.endswith(".fna"):
+	print "[Warning] " + queryFile + " may not be a nucleic acid fasta file!"
 	
 BLASTDBFile = sys.argv[2]
 print "Opening " + BLASTDBFile + "..."
+print "Blasting " + queryFile + " against " + BLASTDBFile + "..."
+BLASTResults = runBLASTFor16S(queryFile, BLASTDBFile)
 
-print runBLASTFor16S(queryFile, BLASTDBFile)
+BLASTCSVOut = BLASTResults.splitlines(True) # Converts raw BLAST csv output into list of csv rows.
+BLASTreader = csv.reader(BLASTCSVOut) # Reads BLAST csv rows as a csv.
+
+for row in BLASTreader:
+	if len(row[3]) < 2000 and len(row[3]) > 1000:
+		subjectAccession = row[0] 
+		subject16S = row[3]
+		break
+		
+print "Extracting 16S BLAST Results!"
+FASTA = ">" + subjectAccession + " 16S rRNA\n"  + subject16S
+fileOut = subjectAccession + ".16S.fna"
+
+print "Writing results to file."
+try:
+	fileWriter = open(fileOut,"w")
+	fileWriter.write(FASTA)
+	fileWriter.close()
+except IOError:
+	print "Error writing " + fileOut + " to file."
+print "Done."
