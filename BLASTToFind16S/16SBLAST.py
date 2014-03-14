@@ -15,6 +15,7 @@
 #Imports & Setup:
 import sys
 import csv
+from os import path 
 import subprocess
 from Bio import SeqIO
 from multiprocessing import cpu_count
@@ -27,7 +28,7 @@ import time # For profiling purposes.
 # Functions:
 
 # 1: Checks if in proper number of arguments are passed gives instructions on proper use.
-def argsCheck():
+def argsCheck(argsCount):
 	if len(sys.argv) < 3:
 		print "Orthologous Gene Finder"
 		print "By Lee Bergstrand\n"
@@ -44,10 +45,15 @@ def runBLASTFor16S(query, BLASTDBFile):
 #===========================================================================================================
 # Main program code:
 # House keeping...
-argsCheck() # Checks if the number of arguments are correct.
+argsCheck(2) # Checks if the number of arguments are correct.
 
 queryFile = sys.argv[1]
 print "Opening " + queryFile + "..."
+
+fileOut = (queryFile).strip(".fna")
+fileOut = path.split(fileOut)
+subjectAccession = fileOut[1]
+fileOut = fileOut[1] + ".16S.fna"
 
 # File extension check
 if not queryFile.endswith(".fna"):
@@ -69,7 +75,6 @@ BLASTreader = csv.reader(BLASTCSVOut) # Reads BLAST csv rows as a csv.
 Found16S = False
 for row in BLASTreader:
 	if len(row[3]) < 2000 and len(row[3]) > 1000: # 16S genes are around 1500 B.P. This fitres out partial sequence or really large sequences.
-		subjectAccession = row[0] 
 		subject16S = row[3]
 		Found16S = True
 		break
@@ -81,7 +86,8 @@ if Found16S == False: # If there are no BLAST that are around the size of 16S rR
 
 print "Extracting 16S BLAST Results!"
 FASTA = ">" + subjectAccession + " 16S rRNA\n"  + subject16S
-fileOut = subjectAccession + ".16S.fna"
+
+print fileOut
 
 print "Writing results to file."
 try:
