@@ -66,7 +66,7 @@ BLASTResults = runBLASTFor16S(queryFile, BLASTDBFile)
 
 if not BLASTResults: # If there are no BLAST results aborts the program.
 	print "\nUnfortunetly there are no 16S BLAST results for " + queryFile + ". Try using another BLAST DB. or"
-	print "you may also want to try another method to find 16S other than BLAST (eg. HMMs)"
+	print "you may also want to try another method to find 16S other than BLAST (eg. HMMs).\n"
 	exit(1)  # Aborts program. (exit(1) indicates that an error occured)
 	
 BLASTCSVOut = BLASTResults.splitlines(True) # Converts raw BLAST csv output into list of csv rows.
@@ -81,13 +81,11 @@ for row in BLASTreader:
 
 if Found16S == False: # If there are no BLAST that are around the size of 16S rRNA abort the program.
 	print "\nUnfortunetly there are no 16S BLAST results for " + queryFile + ". Try using another BLAST DB or"
-	print "you may also want to try another method to find 16S other than BLAST (eg. HMMs)"
+	print "you may also want to try another method to find 16S other than BLAST (eg. HMMs).\n"
 	exit(1)  # Aborts program. (exit(1) indicates that an error occured)
 
 print "Extracting 16S BLAST Results!"
 FASTA = ">" + subjectAccession + " 16S rRNA\n"  + subject16S
-
-print fileOut
 
 print "Writing results to file."
 try:
@@ -96,4 +94,4 @@ try:
 	fileWriter.close()
 except IOError:
 	print "Error writing " + fileOut + " to file."
-print "Done."
+print "Done.\n"
