@@ -1,5 +1,5 @@
 #!/bin/bash
-# A simple script for the batch creation of blast databases from a directory with fasta files.
+# A simple script for scaning for scaning genomes with Hidden Markov Models.
 
 for fasta;
 do
