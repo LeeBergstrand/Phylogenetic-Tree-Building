@@ -34,3 +34,9 @@ nosetests.xml
 .mr.developer.cfg
 .project
 .pydevproject
+
+# HMMER 3.0
+*.h3f
+*.h3i
+*.h3m
+*.h3p
