@@ -8,8 +8,8 @@
 #               - MakeNABlastDB must be used to create BLASTn databases for both query and subject proteomes.
 #               - BLAST databases require that the FASTA file they were made from be in the same directory.
 #  
-# Usage: BackBLAST.py <queryGeneList.faa> <subject1.faa> 
-# Example: BackBLAST.py queryGeneList.faa AUUJ00000000.faa
+# Usage: 16SBLAST.py <QueryGenome.faa> <16SDataBase.faa>
+# Example: 16SBLAST.py QueryGenome.faa RDPActinoBacter16S.faa
 #----------------------------------------------------------------------------------------
 #===========================================================================================================
 #Imports & Setup:
@@ -30,11 +30,11 @@ import time # For profiling purposes.
 # 1: Checks if in proper number of arguments are passed gives instructions on proper use.
 def argsCheck(argsCount):
 	if len(sys.argv) < 3:
-		print "Orthologous Gene Finder"
+		print "16S Gene Finder"
 		print "By Lee Bergstrand\n"
 		print "Please refer to source code for documentation\n"
 		print "Usage: " + sys.argv[0] + "<QueryGenome.faa> <16SDataBase.faa>\n"
-		print "Examples:" + sys.argv[0] + "QueryGenome.faa .faa"
+		print "Examples:" + sys.argv[0] + "QueryGenome.faa RDPActinoBacter16S.faa"
 		exit(1) # Aborts program. (exit(1) indicates that an error occured)
 #-------------------------------------------------------------------------------------------------
 # 2: Runs BLASTn with settings specific for extracting subject sequences.
