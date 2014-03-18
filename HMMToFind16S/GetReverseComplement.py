@@ -24,6 +24,11 @@ def argsCheck(numArgs):
 		print "Usage: " + sys.argv[0] + " <sequences.fna>"
 		print "Examples: " + sys.argv[0] + " mySeq.fna\n"
 		exit(1) # Aborts program. (exit(1) indicates that an error occurred)
+
+def getReverseComplementFasta(SeqRecord):
+	reverseCompSeq = SeqRecord.seq.reverse_complement()
+	SeqRecord.seq = reverseCompSeq
+	return SeqRecord.format("fasta")
 #===========================================================================================================
 # Main program code:
 	
@@ -45,9 +50,8 @@ try:
 	SeqRecords = SeqIO.parse(handle, "fasta")
 	print ">> Creating Reverse Complement..."
 	for record in SeqRecords:
-		reverseCompSeq = record.seq.reverse_complement()
-		record.seq = reverseCompSeq
-		writer.write(record.format("fasta"))
+		FASTA = getReverseComplementFasta(record)
+		writer.write(FASTA)
 	handle.close()
 	writer.close()
 except IOError:
