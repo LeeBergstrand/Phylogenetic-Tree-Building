@@ -25,6 +25,7 @@ def argsCheck(numArgs):
 		print "Examples: " + sys.argv[0] + " mySeq.fna\n"
 		exit(1) # Aborts program. (exit(1) indicates that an error occurred)
 
+# 2: Converts sequence record object as a reverse complement FASTA formated sequnece.
 def getReverseComplementFasta(SeqRecord):
 	reverseCompSeq = SeqRecord.seq.reverse_complement()
 	SeqRecord.seq = reverseCompSeq
