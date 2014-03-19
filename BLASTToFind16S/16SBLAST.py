@@ -81,6 +81,7 @@ BLASTResults = runBLASTFor16S(queryFile, BLASTDBFile)
 if not BLASTResults: # If there are no BLAST results aborts the program.
 	print "\nUnfortunetly there are no 16S BLAST results for " + queryFile + ". Try using another BLAST DB. or"
 	print "you may also want to try another method to find 16S other than BLAST (eg. HMMs).\n"
+	print "Writing genome accession to No16SGenomesBLAST.txt" 
 	appendBadGenomeList(queryFile)
 	exit(1)  # Aborts program. (exit(1) indicates that an error occured)
 	
@@ -88,21 +89,28 @@ BLASTCSVOut = BLASTResults.splitlines(True) # Converts raw BLAST csv output into
 BLASTreader = csv.reader(BLASTCSVOut) # Reads BLAST csv rows as a csv.
 
 Found16S = False
+Top16S = ""
+Top16SLength = 0
 for row in BLASTreader:
-	subject16S = row[3]
+	Current16S = row[3]
+	Current16SLength = len(Current16S)
 	# 16S genes are around 1500 B.P. Below fitres out partial sequence or really large sequences.
-	if len(subject16S) < 2000 and len(subject16S) > 1000:
-		Found16S = True
-		break
+	if Current16SLength < 2000 and Current16SLength > 1000:
+		if Current16SLength > Top16SLength:
+			Found16S = True
+			Top16S = Current16S
+			Top16SLength = Current16SLength
 
 if Found16S == False: # If there are no BLAST that are around the size of 16S rRNA abort the program.
 	print "\nUnfortunetly there are no 16S BLAST results for " + queryFile + ". Try using another BLAST DB or"
 	print "you may also want to try another method to find 16S other than BLAST (eg. HMMs).\n"
+	print "Writing genome accession to No16SGenomesBLAST.txt" 
 	appendBadGenomeList(queryFile)
 	exit(1)  # Aborts program. (exit(1) indicates that an error occured)
 
 print "Extracting 16S BLAST Results!"
-FASTA = ">" + subjectAccession + " 16S rRNA\n"  + subject16S
+FASTA = ">" + subjectAccession + " 16S rRNA gene\n"  + Top16S
+FASTA = fastaClean(FASTA)
 
 print "Writing results to file."
 try:

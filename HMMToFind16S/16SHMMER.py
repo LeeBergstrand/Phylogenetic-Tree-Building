@@ -81,7 +81,14 @@ def fastaClean(FASTA):
 	FASTA = FASTAHeader + "\n" + FASTACode
 	return FASTA
 #-------------------------------------------------------------------------------------------------
-# 7: Appends genome accession to a file that acts as a list of bad accessions..
+# 7: Creates a more informative header for the 16S gene.
+def fastaHeaderSwap(FASTA, subjectAccession):
+	FASTAHeader, FASTACode = FASTA.split("\n", 1) # Splits FASTA's into header and genetic code.
+	FASTAHeader = ">" + subjectAccession + " 16S rRNA gene"
+	FASTA = FASTAHeader + "\n" + FASTACode
+	return FASTA
+#-------------------------------------------------------------------------------------------------
+# 8: Appends genome accession to a file that acts as a list of bad accessions..
 def appendBadGenomeList(genome):
 	badAccession = path.split(genome)[1].strip(".fna")
 	try:
@@ -92,7 +99,7 @@ def appendBadGenomeList(genome):
 		print "Failed to open " + oufile
 		exit(1)
 #-------------------------------------------------------------------------------------------------
-# 8: Adds SixteenS gene to a FASTA file.
+# 9: Adds SixteenS gene to a FASTA file.
 def write16SToFile(SixteenSGene):
 	try:
 		oufile = open("Found16SGenesHMM.fna", "a")
@@ -108,6 +115,8 @@ argsCheck(2) # Checks if the number of arguments are correct.
 
 genome = sys.argv[1]
 print "Opening " + genome + "..."
+
+subjectAccession = path.split(genome)[1].strip(".fna")
 
 # File extension check
 if not genome.endswith(".fna"):
@@ -150,6 +159,7 @@ except IOError:
 	
 Top16S = ""
 if SixteenSSubunits:
+	
 	Top16SLength = 0
 	for s in SixteenSSubunits:
 		Current16SSeqLength = len(s.split("\n", 1)[1]) # Splits FASTA into a two element list (Header, Sequence). Gets length of the Seq.
@@ -157,13 +167,14 @@ if SixteenSSubunits:
 			Top16S = s
 			Top16SLength = Current16SSeqLength
 	if len(Top16S) < 2000 and len(Top16S) > 1000: # 16S genes are around 1500 B.P. This fitres out partial sequence or really large sequences.
+		Top16S = fastaHeaderSwap(Top16S, subjectAccession)
 		write16SToFile(Top16S)
 		print "Writing best 16S to file."
 	else:
 		appendBadGenomeList(genome) # If 16S gene is too partial to be used.
 		print "Though a partial 16S was found, it was of low quality." 
-		print "Writing genome accession to No16SGenomes.txt"  
+		print "Writing genome accession to No16SGenomesHMM.txt"  
 else:
 	appendBadGenomeList(genome)
-	print "No 16S found. Writing genome accession to No16SGenomes.txt" 
-print "Done!"
+	print "No 16S found. Writing genome accession to No16SGenomesHMM.txt" 
+print "Done!\n"
