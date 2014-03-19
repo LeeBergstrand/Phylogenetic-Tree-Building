@@ -81,22 +81,21 @@ def fastaClean(FASTA):
 	FASTA = FASTAHeader + "\n" + FASTACode
 	return FASTA
 #-------------------------------------------------------------------------------------------------
-# 7: Cleans up FASTA formated sequences.
+# 7: Appends genome accession to a file that acts as a list of bad accessions..
 def appendBadGenomeList(genome):
 	badAccession = path.split(genome)[1].strip(".fna")
 	try:
-		oufile = open("No16SGenomes.txt", "a")
+		oufile = open("No16SGenomesHMM.txt", "a")
 		oufile.write(badAccession + "\n")
 		oufile.close()
 	except IOError:
 		print "Failed to open " + oufile
 		exit(1)
-
 #-------------------------------------------------------------------------------------------------
-# 8: Cleans up FASTA formated sequences.
+# 8: Adds SixteenS gene to a FASTA file.
 def write16SToFile(SixteenSGene):
 	try:
-		oufile = open("Found16SGenes.fna", "a")
+		oufile = open("Found16SGenesHMM.fna", "a")
 		oufile.write(SixteenSGene + "\n")
 		oufile.close()
 	except IOError:
@@ -154,7 +153,6 @@ if SixteenSSubunits:
 	Top16SLength = 0
 	for s in SixteenSSubunits:
 		Current16SSeqLength = len(s.split("\n", 1)[1]) # Splits FASTA into a two element list (Header, Sequence). Gets length of the Seq.
-		#print Current16SSeqLength
 		if Current16SSeqLength >= Top16SLength:
 			Top16S = s
 			Top16SLength = Current16SSeqLength

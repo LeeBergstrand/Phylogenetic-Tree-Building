@@ -17,7 +17,6 @@ import sys
 import csv
 from os import path 
 import subprocess
-from Bio import SeqIO
 from multiprocessing import cpu_count
 
 processors = cpu_count() # Gets number of processor cores for BLAST.
@@ -42,6 +41,24 @@ def runBLASTFor16S(query, BLASTDBFile):
 	# Runs BLASTn and saves the output to a string. Blastn is set to output a csv which can be parsed by Pythons CSV module.
 	BLASTOut = subprocess.check_output(["blastn", "-db", BLASTDBFile, "-query", query, "-max_target_seqs", "1", "-num_threads", str(processors), "-outfmt", "10 qseqid sseqid length qseq evalue bitscore"]) 
 	return BLASTOut
+#-------------------------------------------------------------------------------------------------
+# 3: Appends genome accession to a file that acts as a list of bad accessions.
+def appendBadGenomeList(genome):
+	badAccession = path.split(genome)[1].strip(".fna")
+	try:
+		oufile = open("No16SGenomesBLAST.txt", "a")
+		oufile.write(badAccession + "\n")
+		oufile.close()
+	except IOError:
+		print "Failed to open " + oufile
+		exit(1)
+#-------------------------------------------------------------------------------------------------
+# 4: Cleans up FASTA formated sequences.
+def fastaClean(FASTA):
+	FASTAHeader, FASTACode = FASTA.split("\n", 1) # Splits FASTA's into header and genetic code.
+	FASTACode = FASTACode.replace("-","").replace("\n","") # Removes alignment markers and converts FASTA file sequence into a single line.
+	FASTA = FASTAHeader + "\n" + FASTACode
+	return FASTA
 #===========================================================================================================
 # Main program code:
 # House keeping...
@@ -50,10 +67,7 @@ argsCheck(2) # Checks if the number of arguments are correct.
 queryFile = sys.argv[1]
 print "Opening " + queryFile + "..."
 
-fileOut = (queryFile).strip(".fna")
-fileOut = path.split(fileOut)
-subjectAccession = fileOut[1]
-fileOut = fileOut[1] + ".16S.fna"
+subjectAccession = path.split(queryFile)[1].strip(".fna")
 
 # File extension check
 if not queryFile.endswith(".fna"):
@@ -67,6 +81,7 @@ BLASTResults = runBLASTFor16S(queryFile, BLASTDBFile)
 if not BLASTResults: # If there are no BLAST results aborts the program.
 	print "\nUnfortunetly there are no 16S BLAST results for " + queryFile + ". Try using another BLAST DB. or"
 	print "you may also want to try another method to find 16S other than BLAST (eg. HMMs).\n"
+	appendBadGenomeList(queryFile)
 	exit(1)  # Aborts program. (exit(1) indicates that an error occured)
 	
 BLASTCSVOut = BLASTResults.splitlines(True) # Converts raw BLAST csv output into list of csv rows.
@@ -74,14 +89,16 @@ BLASTreader = csv.reader(BLASTCSVOut) # Reads BLAST csv rows as a csv.
 
 Found16S = False
 for row in BLASTreader:
-	if len(row[3]) < 2000 and len(row[3]) > 1000: # 16S genes are around 1500 B.P. This fitres out partial sequence or really large sequences.
-		subject16S = row[3]
+	subject16S = row[3]
+	# 16S genes are around 1500 B.P. Below fitres out partial sequence or really large sequences.
+	if len(subject16S) < 2000 and len(subject16S) > 1000:
 		Found16S = True
 		break
 
 if Found16S == False: # If there are no BLAST that are around the size of 16S rRNA abort the program.
 	print "\nUnfortunetly there are no 16S BLAST results for " + queryFile + ". Try using another BLAST DB or"
 	print "you may also want to try another method to find 16S other than BLAST (eg. HMMs).\n"
+	appendBadGenomeList(queryFile)
 	exit(1)  # Aborts program. (exit(1) indicates that an error occured)
 
 print "Extracting 16S BLAST Results!"
@@ -89,8 +106,8 @@ FASTA = ">" + subjectAccession + " 16S rRNA\n"  + subject16S
 
 print "Writing results to file."
 try:
-	fileWriter = open(fileOut,"w")
-	fileWriter.write(FASTA)
+	fileWriter = open("Found16SGenesBLAST.fna", "a")
+	fileWriter.write(FASTA + "\n")
 	fileWriter.close()
 except IOError:
 	print "Error writing " + fileOut + " to file."
