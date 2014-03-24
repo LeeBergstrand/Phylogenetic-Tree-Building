@@ -84,7 +84,7 @@ def fastaClean(FASTA):
 # 7: Creates a more informative header for the 16S gene.
 def fastaHeaderSwap(FASTA, subjectAccession):
 	FASTAHeader, FASTACode = FASTA.split("\n", 1) # Splits FASTA's into header and genetic code.
-	FASTAHeader = ">" + subjectAccession + " 16S rRNA gene"
+	FASTAHeader = ">" + subjectAccession
 	FASTA = FASTAHeader + "\n" + FASTACode
 	return FASTA
 #-------------------------------------------------------------------------------------------------

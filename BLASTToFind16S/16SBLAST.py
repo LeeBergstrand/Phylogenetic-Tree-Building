@@ -109,7 +109,7 @@ if Found16S == False: # If there are no BLAST that are around the size of 16S rR
 	exit(1)  # Aborts program. (exit(1) indicates that an error occured)
 
 print "Extracting 16S BLAST Results!"
-FASTA = ">" + subjectAccession + " 16S rRNA gene\n"  + Top16S
+FASTA = ">" + subjectAccession + "\n" + Top16S
 FASTA = fastaClean(FASTA)
 
 print "Writing results to file."
