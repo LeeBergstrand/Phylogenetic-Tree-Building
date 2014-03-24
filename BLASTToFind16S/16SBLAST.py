@@ -39,7 +39,7 @@ def argsCheck(argsCount):
 # 2: Runs BLASTn with settings specific for extracting subject sequences.
 def runBLASTFor16S(query, BLASTDBFile):
 	# Runs BLASTn and saves the output to a string. Blastn is set to output a csv which can be parsed by Pythons CSV module.
-	BLASTOut = subprocess.check_output(["blastn", "-db", BLASTDBFile, "-query", query, "-max_target_seqs", "1", "-num_threads", str(processors), "-outfmt", "10 qseqid sseqid length qseq evalue bitscore"]) 
+	BLASTOut = subprocess.check_output(["blastn", "-db", BLASTDBFile, "-query", query, "-num_threads", str(processors), "-outfmt", "10 qseqid sseqid length qseq evalue bitscore"]) 
 	return BLASTOut
 #-------------------------------------------------------------------------------------------------
 # 3: Appends genome accession to a file that acts as a list of bad accessions.
