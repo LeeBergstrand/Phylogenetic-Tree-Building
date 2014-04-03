@@ -35,8 +35,21 @@ nosetests.xml
 .project
 .pydevproject
 
+# OSX
+.DS_Store
+
+# NCBI BLAST
+*.faa.phr
+*.faa.pin
+*.faa.pog
+*.faa.psd
+*.faa.psi
+*.faa.psq
+
 # HMMER 3.0
 *.h3f
 *.h3i
 *.h3m
 *.h3p
+
+
