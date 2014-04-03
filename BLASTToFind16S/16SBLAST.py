@@ -6,7 +6,7 @@
 # Requirements: - This program requires the Biopython module: http://biopython.org/wiki/Download
 #               - This script requires BLAST+ 2.2.9 or later.
 #               - MakeNABlastDB must be used to create BLASTn databases for both query and subject proteomes.
-#               - BLAST databases require that the FASTA file they were made from be in the same directory.
+#               - BLAST databases require that the FASTA file they were made from remain in the same directory.
 #  
 # Usage: 16SBLAST.py <QueryGenome.faa> <16SDataBase.faa>
 # Example: 16SBLAST.py QueryGenome.faa RDPActinoBacter16S.faa
