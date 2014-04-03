@@ -39,18 +39,18 @@ nosetests.xml
 .DS_Store
 
 # NCBI BLAST
-# *.phr
-# *.pin
-# *.pog
-# *.psd
-# *.psi
-# *.psq
-# *.nhr
-# *.nin
-# *.nog
-# *.nsd
-# *.nsi
-# *.nsq
+*.phr
+*.pin
+*.pog
+*.psd
+*.psi
+*.psq
+*.nhr
+*.nin
+*.nog
+*.nsd
+*.nsi
+*.nsq
 
 # HMMER 3.0
 *.h3f
