@@ -21,8 +21,6 @@ from multiprocessing import cpu_count
 
 processors = cpu_count() # Gets number of processor cores for HMMER.
 
-# Dev Imports:
-import time # For profiling purposes.
 #===========================================================================================================
 # Functions:
 
