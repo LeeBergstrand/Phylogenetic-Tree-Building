@@ -34,7 +34,7 @@ def argsCheck(argsCount):
 		print "Examples:" + sys.argv[0] + "Querygenome.faa <16S.hmm>"
 		exit(1) # Aborts program. (exit(1) indicates that an error occured)
 #-------------------------------------------------------------------------------------------------
-# 2: Runs BLASTn with settings specific for extracting subject sequences.
+# 2: Runs HMMER with settings specific for extracting subject sequences.
 def runHMMSearch(FASTA, HMMERDBFile):
 	Found16S = True
 	process = subprocess.Popen(["hmmsearch", "--acc", "--cpu", str(processors), "-A", "tempAlign.sto", HMMERDBFile, "-"], stdin = subprocess.PIPE, stdout = subprocess.PIPE, bufsize = 1)
