@@ -22,11 +22,12 @@ from multiprocessing import cpu_count
 
 processors = cpu_count()  # Gets number of processor cores for HMMER.
 
+
 # ===========================================================================================================
 # Functions:
 
 # 1: Checks if in proper number of arguments are passed gives instructions on proper use.
-def argsCheck(argsCount):
+def argsCheck():
     if len(sys.argv) < 3:
         print("Orthologous Gene Finder")
         print("By Lee Bergstrand\n")
@@ -134,7 +135,7 @@ def write16SToFile(SixteenSGene):
 # ===========================================================================================================
 # Main program code:
 # House keeping...
-argsCheck(2)  # Checks if the number of arguments are correct.
+argsCheck()  # Checks if the number of arguments are correct.
 
 genome = sys.argv[1]
 print("Opening " + genome + "...")
@@ -157,7 +158,7 @@ try:
     inFile.close()
     Found16S = runHMMSearch(FASTA,
                             HMMERDBFile)  # Pass this FASTA to hmmsearch. runHMMSearch returns true if a 16S was found.
-    if Found16S == True:  # If we get a result from hmmsearch, check the alignment file.
+    if Found16S:  # If we get a result from hmmsearch, check the alignment file.
         print("Found a 16S in the positive strand.")
         add16SSequences(SixteenSSubunits)
     else:
@@ -174,13 +175,13 @@ try:
 
     Found16S = runHMMSearch(FASTA,
                             HMMERDBFile)  # Pass this FASTA to hmmsearch. runHMMSearch returns true if a 16S was found.
-    if Found16S == True:  # If we get a result from hmmsearch, check the alignment file.
+    if Found16S:  # If we get a result from hmmsearch, check the alignment file.
         print("Found a 16S in the negitive strand.")
         add16SSequences(SixteenSSubunits)
     else:
         print("No 16S found in the negitive strand.")
 except IOError:
-    print("Failed to open " + inFile)
+    print("Failed to open " + genome)
     exit(1)
 
 Top16S = ""
@@ -193,8 +194,9 @@ if SixteenSSubunits:
         if Current16SSeqLength >= Top16SLength:
             Top16S = s
             Top16SLength = Current16SSeqLength
+    # 16S genes are around 1500 B.P. This filters out partial sequence or really large sequences.
     if len(Top16S) < 2000 and len(
-            Top16S) > 1000:  # 16S genes are around 1500 B.P. This filters out partial sequence or really large sequences.
+            Top16S) > 1000:
         Top16S = fastaHeaderSwap(Top16S, subjectAccession)
         write16SToFile(Top16S)
         print("Writing best 16S to file.")

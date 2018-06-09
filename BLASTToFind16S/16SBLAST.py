@@ -24,11 +24,12 @@ from multiprocessing import cpu_count
 
 processors = cpu_count()  # Gets number of processor cores for BLAST.
 
+
 # ===========================================================================================================
 # Functions:
 
 # 1: Checks if in proper number of arguments are passed gives instructions on proper use.
-def argsCheck(argsCount):
+def argsCheck():
     if len(sys.argv) < 3:
         print("16S Gene Finder")
         print("By Lee Bergstrand\n")
@@ -76,7 +77,7 @@ def fastaClean(FASTA):
 # ===========================================================================================================
 # Main program code:
 # House keeping...
-argsCheck(2)  # Checks if the number of arguments are correct.
+argsCheck()  # Checks if the number of arguments are correct.
 
 queryFile = sys.argv[1]
 print("Opening " + queryFile + "...")
@@ -115,7 +116,7 @@ for row in BLASTreader:
             Top16S = Current16S
             Top16SLength = Current16SLength
 
-if Found16S == False:  # If there are no BLAST that are around the size of 16S rRNA abort the program.
+if not Found16S:  # If there are no BLAST that are around the size of 16S rRNA abort the program.
     print("\nUnfortunately there are no 16S BLAST results for " + queryFile + ". Try using another BLAST DB or")
     print("you may also want to try another method to find 16S other than BLAST (eg. HMMs).\n")
     print("Writing genome accession to No16SGenomesBLAST.txt")
@@ -132,5 +133,5 @@ try:
     fileWriter.write(FASTA + "\n")
     fileWriter.close()
 except IOError:
-    print("Error writing " + fileOut + " to file.")
+    print("Error writing " + "Found16SGenesBLAST.fna" + " to file.")
 print("Done.\n")
