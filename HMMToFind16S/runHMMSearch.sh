@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 # A simple script for scaning for scaning genomes with Hidden Markov Models.
 
 for fasta;

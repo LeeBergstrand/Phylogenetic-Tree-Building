@@ -1,4 +1,6 @@
-#!/usr/bin/env python 
+#!/usr/bin/env python
+
+# ----------------------------------------------------------------------------------------
 # Created by: Lee Bergstrand 
 # Description: A simple program that converts Newick phylogenetic tree format to the newer PhyloXML format.
 #
@@ -10,7 +12,6 @@
 # ===========================================================================================================
 
 # Imports:
-
 import sys
 
 from Bio import Phylo

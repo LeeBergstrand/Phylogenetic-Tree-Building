@@ -11,14 +11,14 @@
 # ----------------------------------------------------------------------------------------
 # ===========================================================================================================
 
-# Imports & Setup:
-import sys
 import cStringIO
 import subprocess
-
-from os import path
-from Bio import SeqIO
+# Imports & Setup:
+import sys
 from multiprocessing import cpu_count
+from os import path
+
+from Bio import SeqIO
 
 processors = cpu_count()  # Gets number of processor cores for HMMER.
 
@@ -176,10 +176,10 @@ try:
     Found16S = runHMMSearch(FASTA,
                             HMMERDBFile)  # Pass this FASTA to hmmsearch. runHMMSearch returns true if a 16S was found.
     if Found16S:  # If we get a result from hmmsearch, check the alignment file.
-        print("Found a 16S in the negitive strand.")
+        print("Found a 16S in the negative strand.")
         add16SSequences(SixteenSSubunits)
     else:
-        print("No 16S found in the negitive strand.")
+        print("No 16S found in the negative strand.")
 except IOError:
     print("Failed to open " + genome)
     exit(1)

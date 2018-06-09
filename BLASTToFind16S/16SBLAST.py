@@ -1,4 +1,6 @@
-#!/usr/bin/env python 
+#!/usr/bin/env python
+
+# ----------------------------------------------------------------------------------------
 # Created by: Lee Bergstrand
 # Description: A simple python program that use BLASTn to search for 16S genes within a geneome.
 #              Extracts the aligned query sequence from the BLAST results (This should be the 16S
@@ -16,11 +18,10 @@
 
 # Imports & Setup:
 import csv
-import sys
 import subprocess
-
-from os import path
+import sys
 from multiprocessing import cpu_count
+from os import path
 
 processors = cpu_count()  # Gets number of processor cores for BLAST.
 

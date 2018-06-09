@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 # A simple script for searching for 16S primer sites within a genome.
 
 for fasta;
