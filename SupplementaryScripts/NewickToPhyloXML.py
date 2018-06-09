@@ -8,21 +8,25 @@
 # Example: NewickToPhyloXML.py PhyloTree.nwk
 # ----------------------------------------------------------------------------------------
 # ===========================================================================================================
+
 # Imports:
 
 import sys
+
 from Bio import Phylo
+
 # ===========================================================================================================
 # Functions:
 
 # 1: Checks if in proper number of arguments are passed gives instructions on proper use.
 def argsCheck(numArgs):
-	if len(sys.argv) < numArgs or len(sys.argv) > numArgs:
-		print("Sequence Downloader")
-		print("By Lee Bergstrand\n")
-		print("Usage: " + sys.argv[0] + " <PhyloTree.nwk>")
-		print("Examples: " + sys.argv[0] + " PhyloTree.nwk\n")
-		exit(1)  # Aborts program. (exit(1) indicates that an error occurred)
+    if len(sys.argv) < numArgs or len(sys.argv) > numArgs:
+        print("Sequence Downloader")
+        print("By Lee Bergstrand\n")
+        print("Usage: " + sys.argv[0] + " <PhyloTree.nwk>")
+        print("Examples: " + sys.argv[0] + " PhyloTree.nwk\n")
+        exit(1)  # Aborts program. (exit(1) indicates that an error occurred)
+
 
 # ===========================================================================================================
 # Main program code:
@@ -37,14 +41,14 @@ outFile = inFile.split(".")[0] + ".xml"
 
 # File extension check
 if not inFile.endswith(".nwk"):
-	print("[Warning] " + inFile + " may not be a Newick file!")
+    print("[Warning] " + inFile + " may not be a Newick file!")
 
 print(">> Converting to PhyloXML...")
 # Converts Newick to PhyloXML.
 try:
-	Phylo.convert(inFile, 'newick', outFile, 'phyloxml')
+    Phylo.convert(inFile, 'newick', outFile, 'phyloxml')
 except IOError:
-	print("Failed to open " + inFile + "or" + outFile)
-	exit(1)
+    print("Failed to open " + inFile + "or" + outFile)
+    exit(1)
 
 print(">> Done...")

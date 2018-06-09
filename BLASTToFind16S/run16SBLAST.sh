@@ -3,8 +3,8 @@
 
 for fasta;
 do
-	echo Running blast on $fasta
-	python 16SBLAST.py $fasta ./Example16DB/RDPActinoBacteria16S.fna
+	echo Running blast on ${fasta}
+	python 16SBLAST.py ${fasta} ./Example16DB/RDPActinoBacteria16S.fna
 	done
 echo All files BLASTed.
 exit 0

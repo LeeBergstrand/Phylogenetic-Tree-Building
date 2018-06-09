@@ -9,29 +9,32 @@
 # Example: getGenbankSeqs.py mySeqs.fna
 # ----------------------------------------------------------------------------------------
 # ===========================================================================================================
-# Imports:
 
+# Imports:
 import sys
+
 from Bio import SeqIO
+
 # ===========================================================================================================
 # Functions:
 
 # 1: Checks if in proper number of arguments are passed gives instructions on proper use.
 def argsCheck(numArgs):
-	if len(sys.argv) < numArgs or len(sys.argv) > numArgs:
-		print(
-			"Takes a nucleotide FASTA file and returns the exact same FASTA file with a reverse complemented sequence.")
-		print("By Lee Bergstrand\n")
-		print("Usage: " + sys.argv[0] + " <sequences.fna>")
-		print("Examples: " + sys.argv[0] + " mySeq.fna\n")
-		exit(1)  # Aborts program. (exit(1) indicates that an error occurred)
+    if len(sys.argv) < numArgs or len(sys.argv) > numArgs:
+        print(
+            "Takes a nucleotide FASTA file and returns the exact same FASTA file with a reverse complemented sequence.")
+        print("By Lee Bergstrand\n")
+        print("Usage: " + sys.argv[0] + " <sequences.fna>")
+        print("Examples: " + sys.argv[0] + " mySeq.fna\n")
+        exit(1)  # Aborts program. (exit(1) indicates that an error occurred)
 
 
 # 2: Converts sequence record object as a reverse complement FASTA formatted sequence.
 def getReverseComplementFasta(SeqRecord):
-	reverseCompSeq = SeqRecord.seq.reverse_complement()
-	SeqRecord.seq = reverseCompSeq
-	return SeqRecord.format("fasta")
+    reverseCompSeq = SeqRecord.seq.reverse_complement()
+    SeqRecord.seq = reverseCompSeq
+    return SeqRecord.format("fasta")
+
 
 # ===========================================================================================================
 # Main program code:
@@ -46,20 +49,20 @@ outFile = inFile + ".out"
 
 # File extension check
 if not inFile.endswith(".fna"):
-	print("[Warning] " + inFile + " may not be a FASTA file!")
+    print("[Warning] " + inFile + " may not be a FASTA file!")
 
 try:
-	writer = open(outFile, "w")
-	handle = open(inFile, "rU")
-	SeqRecords = SeqIO.parse(handle, "fasta")
-	print(">> Creating Reverse Complement...")
-	for record in SeqRecords:
-		FASTA = getReverseComplementFasta(record)
-		writer.write(FASTA)
-	handle.close()
-	writer.close()
+    writer = open(outFile, "w")
+    handle = open(inFile, "rU")
+    SeqRecords = SeqIO.parse(handle, "fasta")
+    print(">> Creating Reverse Complement...")
+    for record in SeqRecords:
+        FASTA = getReverseComplementFasta(record)
+        writer.write(FASTA)
+    handle.close()
+    writer.close()
 except IOError:
-	print("Failed to open " + inFile + " or " + outFile)
-	exit(1)
+    print("Failed to open " + inFile + " or " + outFile)
+    exit(1)
 
 print(">> Done.")
